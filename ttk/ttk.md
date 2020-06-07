@@ -155,6 +155,7 @@ Auf dem Nichts daran beruht des Gefäßes Brauchbarkeit.
 Man durchbricht die Wand mit Türen und Fenstern, damit ein Haus entstehe:  
 Auf dem Nichts daran beruht des Hauses Brauchbarkeit.  
 Darum: Das Sein gibt Besitz, das Nichtsein Brauchbarkeit.  
+
 ### XII Zügelung der Begierden
 Die Farben machen der Menschen Augen blind.  
 Die Töne machen der Menschen Ohren taub.  
@@ -719,6 +720,7 @@ Das Nichtseiende dringt auch noch ein in das, was keinen Zwischenraum hat.
 Daran erkennt man den Wert des Nicht-Handelns.  
 Die Belehrung ohne Worte, den Wert des Nicht-Handelns  
 erreichen nur wenige auf Erden.  
+
 ### XLIV Warnung
 Der Name oder das Ich:  
 Was steht näher?  
