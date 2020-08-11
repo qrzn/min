@@ -2,18 +2,21 @@
 title: Tao Te King
 author: Richard Wilhelm
 language: de-DE
+css: ttk.css
 ...
 ### I Verkörperung des Sinns  
 Der SINN, den man ersinnen kann,  
 ist nicht der ewige SINN.  
 Der Name, den man nennen kann,  
 ist nicht der ewige Name.  
+
 Jenseits des Nennbaren liegt der Anfang der Welt.  
 Diesseits des Nennbaren liegt die Geburt der Geschöpfe.  
 Darum führt das Streben nach dem Ewig-Jenseitigen  
 zum Schauen der Kräfte,  
 das Streben nach dem Ewig-Diesseitigen  
 zum Schauen der Räumlichkeit.  
+
 Beides hat Einen Ursprung und nur verschiedenen Namen.  
 Diese Einheit ist das Große Geheimnis.  
 Und des Geheimnisses noch tieferes Geheimnis:  
@@ -24,12 +27,14 @@ Wenn auf Erden alle das Schöne als schön erkennen,
 so ist dadurch schon das Häßliche gesetzt.  
 Wenn auf Erden alle das Gute als gut erkennen,  
 so ist dadurch schon das Nichtgute gesetzt.  
+
 Denn Sein und Nichtsein erzeugen einander.  
 Schwer und Leicht vollenden einander.  
 Lang und Kurz gestalten einander.  
 Hoch und Tief verkehren einander.  
 Stimme und Ton sich vermählen einander.  
 Vorher und Nachher folgen einander.  
+
 Also auch der Berufene:  
 Er verweilt im Wirken ohne Handeln.  
 Er übt Belehrung ohne Reden.  

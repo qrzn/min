@@ -2,8 +2,9 @@
 title: Magick Without Tears  
 author: Aleister Crowley  
 language: en-EN  
+css: mwt.css
 ...  
-  
+
 ### Foreword  
 In 1943 Aleister Crowley met a lady who, having heard of his wide knowledge and experience, asked his advice on occult, spiritual, and practical matters.  
 This chance connection resulted in a stimulating exchange of letters. Crowley then asked others to put similar questions to him. The result was this collection of over eighty letters which are now being issued over the title that he chose, "MAGICK WITHOUT TEARS."  
@@ -20,8 +21,8 @@ Frater Saturnus X○
 Frater Superior, O.T.O.  
 January, 1954 e.v.  
 Hampton, N.J.  
-  
-  
+
+
 ### Introduction  
 Letters Written by the Master Therion to a Student  
 Letter No. A  
@@ -39,49 +40,49 @@ I think you should have a copy of The Equinox of the Gods and make The Book of t
 4) The horoscope; I do not like doing these at all, but it is part of the agreement with the Grand Treasurer of the O.T.O. that I should undertake them in worthy cases, if pressed. But I prefer to keep the figure to myself for future reference, in case any significant event makes consultation desirable.  
 Now there is one really important matter. The only thing besides The Book of the Law which is in the forefront of the battle. As I told you yesterday, the first essential is the dedication of all that one is and all that one has to the Great Work, without reservation of any sort. This must be kept constantly in mind; the way to do this is to practice Liber Resh vel Helios, sub figura CC, pp. 425-426 - Magick.  
 There is another version of these Adorations, slightly fuller; but those in the text are quite alright.  [8] The important thing is not to forget. I shall have to teach you the signs and gestures which go with the words.  
-  
+
 It is also desirable before beginning a formal meal to go through the following dialogue: Knock 3-5-3: say, "Do what thou wilt shall be the whole of the Law." The person at the other end of the table replies: "What is thy Will?" You: "It is my Will to eat and drink." He: "To what end?" You: "That my body may be fortified thereby." He: "To what end?" You: "That I may accomplish the Great Work." He: "Love is the law, love under will." You, with a single knock: "Fall to." When alone make a monologue of it: thus, Knock 3-5-3. Do what, etc. It is my Will to, etc., that my body, etc., that I may, etc., Love is, etc. Knock: and begin to eat.  
-  
+
 It is impossible to exaggerate the importance of performing these small ceremonies regularly, and being as nearly accurate as possible with regard to the times. You must not mind stopping in the middle of a crowded thoroughfare—lorries or no lorries—and saying the Adorations; and you must not mind snubbing your guest—or your host—if he or she should prove ignorant of his or her share of the dialogue. It is perhaps because these matters are so petty and trivial in appearance that they afford so excellent a training. They teach you concentration, mindfulness, moral and social courage, and a host of other virtues.  Like a perfect lady, I have kept the tit bit to the last. It is absolutely essential to begin a magical diary, and keep it up daily. You begin by an account of your life, going back even before your birth to your ancestry. In conformity with the practice which you may perhaps choose to adopt later, given in Liber Thisarb, sub figura CMXIII, paragraphs 2728, Magick, pp. 420-422, you must find an answer to the question: "How did I come to be in this place at this time, engaged in this particular work?" As you will see from the book, this will start you on the discovery of who you really are, and eventually lead you to your recovering the memory of previous incarnations.  
 As it is difficult for you to come to Town except at rare and irregular intervals, may I suggest a plan which has previously proved very useful, and that is a weekly letter. Eliphas Lévi did this with the Baron Spedalieri, and the correspondence is one of the most interesting of his works. You ask such questions as you wish to have answered, and I answer them to the best of my ability. I, of course, add spontaneous remarks which may be elicited by my observations on your progress and the perusal of your magical diary. This, of course, should be written on one side of the paper only, so that the opposite page is free for comments, and an arrangement should be made for it to be inspected at regular intervals.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
 666  
-  
+
 ### Letter No. B   
-  
+
 April 20, 1943  
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law  
-  
+
 I was very glad to have your letter, and am very sorry to hear that you have been in affliction. About the delay, however, I think I ought to tell you that the original Rule of the Order of A.'. A.'. was that the introducer read over a short lection to the applicant, then left him alone for a quarter of an hour, and on coming back received a "yes" or "no." If there was any hesitation about it the applicant was barred for life.  
-  
+
 The reason for the relaxation of the rule was that it was thought better to help people along in the early stages of the work, even if there was no hope of their turning out first-class. But I should like you to realize that sooner or later, whether in this incarnation or another, it is put up to you to show [9] perfect courage in face of the completely unknown, and the power of rapid and irrevocable decision without counting the cost.  
 I think that it is altogether wrong to allow yourself to be worried by "psychological, moral, and artistic problems." It is no good your starting anything of any kind unless you can see clearly into the simplicity of truth. All this humming and hawing about things is moral poison. What is the use of being a woman if you have not got an intuition, an instinct enabling you to distinguish between the genuine and the sham?  
 Your state of mind suggests to me that you must have been, in the past, under the influence of people who were always talking about things, and never doing any real work. They kept on arguing all sorts of obscure philosophical points; that is all very well, but when you have succeeded in analysing your reactions you will understand that all this talk is just an excuse for not doing any serious work.  
 I am confirmed in this judgment by your saying: "I don't know if I want to enter into a great conflict.  I need peace." Fortunately you save yourself by adding: "Real peace that is living and not stagnant."  
 All life is conflict. Every breath that you draw represents a victory in the struggle of the whole Universe. You can't have peace without perfect mastery of circumstance; and I take it that this is what you mean by "living, not stagnant." But it is of the first consequence for you to summon up the resolution to stamp on this sea of swirling thoughts by an act of will; you must say: "Peace be still." The moment you have understood these thoughts for what they are, tools of the enemy, invented by him with the idea of preventing you from undertaking the Great Work—the moment you dismiss all such considerations firmly and decisively, and say: "What must I do?" and having discovered that, set to work to do it, allowing of no interruption, you will find that living peace which (as you seem to see) is a dynamic and not a static condition. (There is quite a lot about this point in Little Essays Toward Truth, and also in The Vision and the Voice.)  
-  
+
 Your postscript made me smile. It is not a very good advertisement for the kind of people with whom you have been associated in the past. My own position is a very simple one. I obeyed the injunction to "buy a perfectly black hen, without haggling." I have spent over 100,000 pounds of my inherited money on this work: and if I had a thousand times that amount today it would all go in the same direction. It is only when one is built in this way, to stand entirely aloof from all considerations of twopence halfpenny more or fourpence halfpenny less, that one obtains perfect freedom on this Plane of Discs.  
 All the serious Orders of the world, or nearly all, begin by insisting that the aspirant should take a vow of poverty; a Buddhist Bhikku, for example, can own only nine objects —his three robes, begging bowl, a fan, toothbrush, and so on. The Hindu and Mohammedan Orders have similar regulations; and so do all the important Orders of monkhood in Christianity.  
 Our own Order is the only exception of importance; and the reason for this is that it is much more difficult to retain one's purity if one is living in the world than if one simply cuts oneself off from it. It is far easier to achieve technical attainments if one is unhampered by any such considerations. These regulations operate as restrictions to one's usefulness in helping the world.  There are terrible dangers, the worst dangers of all, associated with complete retirement. In my own personal judgment, moreover, I think that our own ideal of a natural life is much more wholesome.  
 When you have found out a little about your past incarnations, you should be able to understand this very clearly and simply.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
 666  
-  
-  
+
+
 ### Letter No. C  
 April 30, 1943  
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law  
-  
+
 Thank you for your long letter of no date, but received two days ago. I am very sorry you are still feeling exhausted. I am not too good myself, for I find this weather very trying. I will answer your various points as best I can. I am arranging to send you the official papers connected with the O.T.O., but the idea that you should meet other members first is quite impossible. Even after affiliation, you would not meet anyone unless it were necessary for you to work in cooperation with them. I am afraid you have still got the idea that the Great Work is a tea-party. Contact with other students only means that you criticise their hats, and then their morals; and I am not going to encourage this.  
 Your work is not anybody else's; and undirected chatter is the worst poisonous element in human society.  
 When you talk of the "actual record" of the "Being called Jesus Christ," I don't know what you mean.  
@@ -101,18 +102,18 @@ The affiliation clause in our Constitution is a privilege: a courtesy to a sympa
 You should question yourself: what can I contribute?  
 Secrets. There is one exception to what I have said about publishing everything: that is, the ultimate secret of the O.T.O. This is really too dangerous to disclose; but the safeguard is that you could not use it if you knew it, unless you were an advanced Adept; and you would not be allowed to go so far unless we were satisfied that you were sincerely devoted to the Great Work. (See One Star in Sight).  
 True, the Black Brothers could use it; but they would only destroy themselves.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
 666  
-  
+
 ### Letter No. D  
-  
+
 June 8, 1943  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law  
-  
+
 Thanks for your letter. I couldn't find the O.T.O. typescript—and then it struck me that it would be useful to await your reactions. If I were expecting some presumably important papers by post, I should get anxious after 24 hours delay (at most) and start enquiries. Anyhow, I can't find them for the moment; but Mr Bryant said he would lend you his Blue Equinox: pages 195-270 give what you  
 require.  
 But the real point of your affiliating is that it saves me from constantly being on my guard lest I should mention something which I am sworn not to reveal. As in every serious society, members are pledged not to disclose what they may have learnt, whom they have met; it is so, even in CoMasonry: isn't it: But one may mention the names of members who have died. (See Liber LII, par. 2.)  
@@ -125,45 +126,45 @@ I fear your "Christianity" is like that of most other folk. You pick out one or 
 Rightly you ask: "What can I contribute?" Answer: One Book. That is the idea of the weekly letter: 52 of yours and 52 of mine, competently edited, would make a most useful volume. This would be your property: so that you get full material value, perhaps much more, for your outlay. I thought of the plan because one such arrangement has recently come to an end, with amazingly happy results:  
 they should lie open to your admiring gaze in a few months from now. Incidentally, I personally get nothing out of it; secretarial work costs money these days. But there is another great advantage; it keeps both of us up to the mark. Also, in such letters a great deal of odds and ends of knowledge turn up automatically; valuable stuff, frequent enough; yes, but one doesn't want to lose the thread, once one starts. Possibly ten days might be best.  
 But please understand that this suggestion arose solely from your own statement of what you thought would help in your present circumstances. Anyway, as you say, decide! If it is yes, I should like to see you before June 15 when I expect to go away for a few days; better to give you some roundwork to keep you busy in my absence.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 ### Letter No. E  
-  
+
 Aug. 18, 1943  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law  
-  
+
 Much thought has gone into the construction of your Motto. "I will become" can be turned neatly enough as "Let there be;" by avoiding the First Pronoun one gets the idea of "the absorption of the Self in the Beloved," which is exactly what you want.  
 "The creative Force of the Universe" is quite ready-made. ...aµ.., a pyramid, is that Force in its geometrical form; in its biological form it is Fa...., the Yang or Lingam. Both words have the same numerical value, 831. These two words can therefore serve you as the secret object of your Work.  
 How than can you construct the number 831?  
 The Letter Kaph, Jupiter (Jehovah), the Wheel of Fortune in the Tarot—the Atu X is a picture of the Universe built up and revolving by virtue of those Three Principles: Sulphur, Mercury, Salt; or Gunas: Sattvas, Rajas, Tamas—has the value 20. So also has the letter Yod spelt in full.  
 One Gnostic secret way of spelling and pronouncing Jehovah is ..O and this has the value 811. So has "Let there be," Fiat, transliterating into Greek.   
-  
+
 Resuming all these ideas, it seems that you can express your aspiration very neatly, very fully, by choosing for your motto the words FIAT YOD.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 P.S. Please study this letter, and these explanatory figures and meditate upon them until you have fully assimilate not only the matter under immediate consideration, but the general method of Qabalistic research and construction. Note how new cognate ideas arise to enrich the formula.  
-  
+
 666  
-  
+
 Note: In the "explanatory figures" referred to (omitted in the printed edition) Crowley spelt out the various Greek and Hebrew words mentioned with the numbers by each letter to indicate how they added to these values. Where this edition, following the printed version, gives the names of Hebrew letters in English transliteration, the original had the actual Hebrew letters.  
-  
+
 ### Letter No. F  
-  
+
 Aug. 20, 1943  
-  
+
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law  
 Let me begin by referring to my letter about the motto and make clear to you the working of this letter.  
@@ -190,7 +191,7 @@ It occurs to me that so far we have done nothing about the astral plane and this
 Love is the law, love under will.  
 Fraternally,  
 666  
-  
+
 ### Letter No. G  
 Septmeber 4.  
 Cara Soror,  
@@ -213,7 +214,7 @@ Love is the law, love under will.
 Fraternally,  
 666  
   He gives the numerical value of the letters of the Greek alphabet—not copied here.  
-  
+
 ### Letter No. H  
 November 10–11. 11 p.m.–2 a.m.  
 Cara Soror,  
@@ -255,13 +256,13 @@ What about applying the Dedekindian cut to this letter? I am sure you would not 
 Love is the law, love under will.  
 Fraternally,  
 666  
-  
+
   A letter dated Oct. 12, '43 constituted No 48 in Magick Without Tears, and the following chapters  
 from the Book of Lies: "Peaches", "Pilgrim-Talk", "Buttons and Rosettes", "The Gun-Barrel" and "The  
 Mountaineer."  
-  
+
 ### Letter No. I  
-  
+
 January 27, 1944  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law  
@@ -269,40 +270,40 @@ It is very good hearing that these letters do good, but rather sad to reflect th
 Yes, your brain is quite all right; what is wanted is to acquire the habit of pinning things down instantly. (He says 're-incarnation'—now what exactly does he mean by that? He says "it is natural to suppose . . . ": what is "natural", and what is implied by supposition?) Practice this style of criticism; write down what happens. Within a week or two you will be astounded to discover that you have got what is apparently little less than a new brain! You must make this a habit, not letting anything get by the sentries.  
 Indeed, I want you to go even further; make sure of what is meant by even the simplest words.  
 Trace the history of the word with the help of Skeat's Etymological Dictionary.  E.g. "pretty" means tricky, deceitful; on the other hand, "hussy" is only "housewife." It's amusing, too, this "tabby" refers to Prince Attab, the grandson of Ommeya—the silk quarter of Baghdad where utabi, a rich watered silk was sold. This will soon give you the power of discerning instantly when words are being used to hide meaning or lack of it. About A.'.A.'., etc.: your resolution is noble, but there is a letter ready for you which deals with what is really a legitimate enquiry; necessary, too, with so many hordes of "Hidden Masters" and "Mahatmas" and so on scurrying all over the floor in the hope of distracting attention from the inanities of their trusted henchmen.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
 666  
-  
+
 P.S. I must write at length about the Higher Self or "God within us," too easy to get muddled about it, and the subject requires careful preparation.  
-  
+
 666  
-  
+
 ### Chapter I: What is Magick?  
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 What is Magick? Why should anyone study and practice it? Very natural; the obvious preliminary questions of any subject soever. We must certainly get all this crystal clear; fear not that I shall fail to set forth the whole business as concisely as possible yet as fully, as cogently yet as lucidly, as may prove within my power to do.  
 At least I need not waste any time on telling you what Magick is not; or to go into the story of how the word came to be misapplied to conjuring tricks, and to sham miracles such as are to this day foisted by charlatan swindlers, either within or without the Roman Communion, upon a gaping crew of pious imbeciles.  
 First let me go all Euclidean, and rub your nose in the Definition, Postulate and Theorems given in my comprehensive (but, alas! too advanced and too technical) Treatise on the subject.1 Here we are!  
-  
+
 I. DEFINITION:  
 MAGICK is the Science and Art of causing Change to occur in conformity with Will.   
 (Illustration: It is my Will to inform the World of certain facts within my knowledge. I therefore take "magical weapons," pen, ink, and paper; I write "incantations"—these sentences—in the "magical language" i.e. that which is understood by people I wish to instruct. I call forth "spirits" such as printers, publishers, booksellers, and so forth, and constrain them to convey my message to those people. The composition and distribution is thus an act of MAGICK by which I cause Changes to take place in conformity with my Will.)  
-  
+
 II. POSTULATE:  
 ANY required Change may be effected by application of the proper kind and degree of Force in the proper manner through the proper medium to the proper object.  
 (Illustration: I wish to prepare an ounce of Chloride of Gold. I must take the right kind of acid, nitrohydrochloric and no other, in sufficient quantity and of adequate strength, and place it, in a vessel which will not break, leak or corrode, in such a manner as will not produce undesirable results, with the necessary quantity of Gold, and so forth. Every Change has its own conditions.  
 In the present state of our knowledge and power some changes are not possible in practice; we cannot cause eclipses, for instance, or transform lead into tin, or create men from mushrooms. But it is theoretically possible to cause in any object any change of which that object is capable by nature; and the conditions are covered by the above postulate.)  
-  
+
 III. THEOREMS:  
 1. Every intentional act is a Magical Act.+  
 (Illustration: See "Definition" above.)  
 2. Every successful act has conformed to the postulate.  
 3. Every failure proves that one or more requirements of the postulate have not been fulfilled.   
-  
+
 (Illustrations: There may be failure to understand the case; as when a doctor makes a wrong diagnosis, and his treatment injures his patient. There may be failure to apply the right kind of force, as when a rustic tries to blow out an electric light. There may be failure to apply the right degree of force, as when a wrestler has his hold broken. There may be failure to apply the force in the right manner, as when one presents a cheque at the wrong window of the Bank. There may be failure to employ the correct medium, as when Leonardo da Vinci found his masterpiece fade away. The force may be applied to an unsuitable object, as when one tries to crack a stone, thinking it a nut.)  
 4. The first requisite for causing any change is thorough qualitative and quantitative understanding of the condition.  
 (Illustration: The most common cause of failure in life is ignorance of one's own True Will, or of the means by which to fulfil that Will. A man may fancy himself a painter, and waste his life trying to become one; or he may be really a painter, and yet fail to understand and to measure the difficulties  
@@ -377,18 +378,18 @@ We might fare even worse if we tried to clear things up by making lists of event
 What are the principles of the "Masters"? What are They trying to do? What have They done in the past? What means do They employ?  
 As it happens, I have by me a sketch written by M. Gerard Aumont of Tunis2 some twenty years ago, which covers this subject with reasonable adequacy.  
 I have been at the pains of translating it from his French, I hope not too much reminiscent of the old traduttore, traditore. I will revise it, divide it (like Gaul) into Three Parts and send it along.  
-  
+
 Love is the law, love under will.  
 Fraternally,  
 666  
 Notes:  
-  
+
 1: i.e., Magick in Theory and Practice. All Crowley's footnotes are from the original – T.S.  
 2: Gerard Aumont was a journalist who translated The Book of the Law into French. However it is  
 generally believed that the actual author of the essay mentioned, The Three Schools of Magick, which  
 occupies chapters 6-8 of Magick Without Tears (it had previously been published in German  
 translation by Thelema Verlag) was Crowley himself – T.S.   
-  
+
 ### Chapter II: The Necessity of Magick for All  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
@@ -415,7 +416,7 @@ Fraternally,
 666  
   N ± N = Two or Naught; one is the Magical, the other the mystical, process. You will hear a lot  
 about this one day!   
-  
+
 ### Chapter III: Hieroglyphics: Life and Language Necessarily Symbolic  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
@@ -426,13 +427,13 @@ You put it very well; and when I think it over, I feel far from sure that the ex
 But to give a complete answer, I shall have to go back to the beginning, and restate the original problem; and I beg that you will not suppose that I am evading the question, or adopting the Irish method of answering it by another, though I know it may sound as if I were.  
 Let me set out by restating our original problem; what we want is Truth; we want an even closer approach to Reality; and we want to discover and discuss the proper means of achieving this object.  
 Very good; let us start by the simplest of all possible enquiries—and the most difficult —"What is anything?" "What do we know?" and other questions that spring naturally from these.  
-  
+
 I see a tree.  
 I hear it—rustling or creaking in the wind.  
 I touch it—hard.  
 I smell it—acrid.  
 I taste it—bitter.  
-  
+
 Now all the information given by these five senses has to be put together, although no two agree in any sort of way. The logic by which we build up our complex idea of a tree has more holes than a sponge.  
 But this is to jump far ahead: we must first analyse the single, simple impression. "I see a tree." This phenomenon is what is called a "point-event." It is the coming together of the two, the seer and the seen. It is single and simple; yet we cannot conceive of either of them as anything but complex. And  
 the Point-Event tells us nothing whatever about either; both, as Herbert Spencer and God knows how many others have shown, unknowable; it stands by itself, alone and aloof. It has happened; it is undeniably Reality. Yet we cannot confirm it; for it can never happen again precisely the same. What is even more bewildering is that since it takes time for the eye to convey an impression to the consciousness (it may alter in 1,000 ways in the process!) all that really exists is a memory of the Point-Event, not the Point-Event itself. What then is this Reality of which we are so sure? Obviously, it has not got a name, since it never happened before, or can happen again! To discuss it at all we must invent a name, and this name (like all names) cannot possibly be anything more than a symbol.  
@@ -446,9 +447,9 @@ abstruse and technical subject like Magick. The "ordinary" words such as God, se
 That is all, just now, sister; no more of your cavilling, please; sit down quietly with your 777, and get it by heart!  
 Love is the law, love under will.  
 Fraternally,  
-  
+
 666  
-  
+
 ### Chapter IV: The Qabalah: The Best Training for Memory  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
@@ -498,7 +499,7 @@ Fraternally,
 666  
 P.S. You should study the Equinox Vol. I, No. 5, "The Temple of Solomon the King" for a more elaborate exposition of the Qabalah.  
 1: Temura is more normally understood as a form of letter substitution cipher rather than the formation of anagrams as Crowley seems to suggest here; historically it appears that its applications have been as much in the realm of mundane cryptography as in Qabalistic exegesis. For example, the Viginaire cipher, held unbreakable for a few centuries, used a Latin version of the Qabalistic (so called) "Right Table of Commutations" – T.S.   
-  
+
 ### Chapter V: The Universe: The 0 = 2 Equation  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
@@ -513,7 +514,7 @@ E. All this paragraph D is in the nature of a digression, for what you may think
 F. Something is  This something appears incalculably vast and complex. How did it come to be?  This, briefly, is the "Riddle of the Universe," which has been always the first preoccupation of all serious philosophers since men began to think at all.  
 G. The orthodox idiot answer, usually wrapped up in obscure terms in the hope of concealing from the enquirer the fact that it is not an answer at all, but an evasion, is: God created it. Then, obviously, who created God? Sometimes we have a Demiurge, a creative God behind whom is an eternal formless Greatness—anything to confuse the issue!  
 Sometimes the Universe is supported by an elephant; he, in turn, stands on a tortoise . . . by that time it is hoped that the enquirer is too tired and muddled to ask what holds up the tortoise.   
-  
+
 Sometimes, a great Father and Mother crystallize out of some huge cloudy confusion of "Elements" and so on. But nobody answers the question; at least, none of these God-inventing mules, with their incurably commonplace minds.  
 H. Serious philosophy has always begun by discarding all these puerilities. It has of necessity been divided into these schools: the Nihilist, the Monist, and the Dualist.  
 I. The last of these is, on the surface, the most plausible; for almost the first thing that we notice on inspecting the Universe is what the Hindu schools call "the Pairs of Opposites." This too, is very convenient, because it lends itself so readily to orthodox theology; so we have Ormuzd and Ahriman, the Devas and the Asuras, Osiris and Set, et cetera and da capo, personifications of "Good" and "Evil."  
@@ -574,13 +575,13 @@ Fraternally,
 1: Add comments to distinguish indices (Abstract Algebra) from powers of numbers. I shouldn't, but as a physicist, I have to say that Crowley is giving an erroneous layman's opinion and his usage of math notation cannot be considered correct. These expressions are ok as text, but not as math without redefinition through Abstract Algebra, a field Crowley appears not to know by name. The ideas are valid, but the expressions are misleading. It might be wise to add a footnote about the notation being non-traditional. Notably, this line defies Pythagoras! Crowley's notation with superscripts is the problem. It looks like powers of numbers instead of indices. He probably intended indices, but didn't know how to represent them or flag them in typography – WEH. The problem is that Crowley's later reasoning, in particular his calculations of the value of 00, only make sense if he means powers. Now there is nothing per se to stop us representing his "categories" in terms of an ndimensional space, but each category is incommensurable with the others – T.S.   
 2: This is bogus math, plain and simple. If d1, d2, ... dn are the dimensions in n dimensional space of our object, the volume of n-dimensional space it occupies will be d1 × d2 × ... ×dn; if we multiply each dimension by x, the volume of the whole thing is multiplied by xn. As noted above, the way Crowley develops the argument indicates he is thinking of powers but his use thereof at this point is  
 wrong – T.S.   
-  
+
 ### Chapter VI: The Three Schools of Magick (1)  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Here is the first section of M. Gerard Aumont's promised essay;  it was originally called "The Three Schools of Magick." (Don't be cross, please, because it is not in the form of a personal letter!)  
 There is today much misunderstanding of the meaning of the term "Magick." Many attempts have been made to define it, but perhaps the best for our present purpose of historical-ideological exposition will be this—Magick is the Science of the Incommensurables.  
 This is one of the many restricted uses of the word; one suited to the present purpose.  
@@ -637,7 +638,7 @@ Hebrews: Marx, Hertz, and Freud.
 3: This note is from Crowley's commentary to The Vision and the Voice (see references in note above). Also, in a marginal note to his copy of Equinox I (5), Crowley wrote against "... or if the three schools be not one." the remark: "They are. T..... 9°=2°", implying that having become a Magus he now did know this – T.S.  
 4: All these quotations are from Crowley's rendition of the Tao Teh King (Liber CLVII), for more information on which see Letter XXXV – T.S.  
 5: This footnote is obsolete. The "Tao Teh King" was published as Equinox III (8), 1975 e.v. by H.P.S.  – WEH. Also as Aleister Crowley's Tao Teh King, edited by Stephen Skinner, London: Askin and New York: Samuel Weiser, 1976, and a new edition (also with the Equinox series title, and with Crowley's Liber XXI in an appendix) Weiser, 1995 – T.S.   
-  
+
 ### Chapter VII: The Three Schools of Magick (2)  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
@@ -671,7 +672,7 @@ Adepts of the White School regard their brethren of the Black very much as the a
 He understands that the only joy worthwhile is the joy of continual victory, and victory itself would become as tame as croquet if it were not spiced by equally continual defeat.  
   This passage appears to be a direct hint at the Formula of the IX° O.T.O., and the preparation of the Elixir of Life. The purest documents of the White School are found in the Sacred Books of Thelema. The doctrine is given in excellent perfection both in the book of the Heart Girt with the serpent and the book of Lapis Lazuli. A single passage is adequate to explain the formula.  
 7. Moreover I beheld a vision of a river. There was a little boat thereon; and in it under purple sails was a golden woman, an image of Asi wrought in finest gold. Also the river was of blood, and the boat of shining steel. Then I loved her; and, loosing my girdle, cast myself into the stream.  
-  
+
 8. I gathered myself into the little boat, and for many days and nights did I love her, burning beautiful incense before her.  
 9. Yea! I gave her of the flower of my youth.  
 10. But she stirred not; only by my kisses I defiled her so that she turned to blackness before me.  
@@ -681,9 +682,9 @@ He understands that the only joy worthwhile is the joy of continual victory, and
 14. Then rose she up from the abyss of Ages of Sleep, and her body embraced me. Altogether I melted into her beauty and was glad.  
 15. The river also became the river of Amrit, and the little boat was the chariot of the flesh, and the sails thereof the blood of the heart that beareth me, that beareth me.  
 Liber LXV, Cap. II.  
-  
+
 We find even in profane literature this doctrine of the White School of Magick:- 1  
-  
+
 O Buddha! couldst thou nowhere rest  
 A pivot for the universe?  
 Must all things be alike confessed  
@@ -710,7 +711,7 @@ Poor pleasures, bitter bargains, these?
 I shall despise Diogenes.  
 Follow your fancy far enough!  
 At last you surely come to God.  
-  
+
 There is thus in this School no attempt to deny that Nature is, as Zoroaster said, "a fatal and evil force"; but Nature is, so to speak, "the First Matter of the Work", which is to be transmuted into gold.  
 The joy is a function of our own part in this alchemy. For this reason we find the boldest and most skilful adepts deliberately seeking out the most repugnant elements of Nature that their triumph may be the greater. The formula is evidently one of dauntless courage. It expresses the idea of vitality and manhood in its most dynamic sense.  
 The only religion which corresponds to this School at all is that of ancient Egypt; possibly also that of Chaldea. This is because those religions are Magical religions in the strict technical sense; the religious component of them is negligible. So far as it exists, it exists only for the uninitiate.  
@@ -726,7 +727,7 @@ Love is the law, love under will.
 Fraternally,  
 666  
 1: Crowley is quoting himself again; the following verses are from a poem called "Ovariotomy" which was published in Konx Om Pax – T.S.   
-  
+
 ### Chapter VIII: The Three Schools of Magick (3)  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
@@ -740,7 +741,7 @@ Incidentally, we have an almost precise parallel with this operation in modern b
 We have been obliged to expose, perhaps at too considerable a length, the main doctrines of the three Schools. The task, however tedious, has been necessary in order to explain with reasonable lucidity their connection with the world which their ideas direct; that is to say, the nature of their political activities.  
 The Yellow School, in accordance with its doctrine of perfectly elastic reaction and non-interference, holds itself, generally speaking, entirely apart from all such questions. We can hardly imagine it sufficiently interested in any events so ever to react aggressively. It feels strong enough to deal satisfactorily with anything that may turn up: and generally speaking, it feels that any conceivable  
 action on its part would be likely to increase rather than to diminish the mischief.   
-  
+
 It remains somewhat contemptuously aloof from the eternal conflict of the Black School with the White. At the same time, there is a certain feeling among the Yellow adepts that should either of these Schools become annihilated, the result might well be that the victor would sooner or later turn his released energy against themselves.  
 In accordance, therefore, with their general plan of non-action, as expressed in the Tao Teh King, of dealing with mischief before it has become too strong to be dangerous, they interfere gently from time to time to redress the balance.  
 During the last two generations the Masters of the Yellow School have been compelled to take notice of the progressive ruin of the White adepts. Christianity, which possessed at least the semblance of a White formula, is in the agonies of decomposition, even before it is actually dead. Materialistic science has overwhelmed the faith and hope of the Christians (they never possessed any charity to overwhelm) with a demonstration of the sorrow, transitoriness and cruel futility of the Universe. A vast wave of pessimism has engulfed the fortress of Mansoul.  
@@ -776,7 +777,7 @@ P.S. Our own School unites the ruby red of Blood with the gold of the Sun. It co
 Leadbeater claimed that Krishnamurti was to be the "World Teacher", a kind of universal Messiah figure. In 1911 Leadbeater and Annie Besant set up an organisation called "The Order of the Star in the East" as a vehicle for Krishnamurti. The culmination of this campaign came in 1925; about the  
 same time Crowley issued four broadsheets ("To Man" (a.k.a. the Mediterranean Manifesto), "The World Teacher to the Theosophical Society," "The Avenger to the Theosophical Society" and "Madame Tussaud-Besant" in which he staked his own claim to World Teacherdom. In 1929 Krishnamurti disowned the Theosophists and went his own way; the Order of the Star in the East collapsed shortly afterwards. Source for most of this; Encyclopaedia of the Unexplained, s.v. "Krishnamurti" and  
 "Theosophical Society" See also Francis X. King's Sexuality, Magic and Perversion, chapter "The Bishop and the Boys" – T.S.   
-  
+
 ### Chapter IX: The Secret Chiefs  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
@@ -794,7 +795,7 @@ Now this, as you know, is an exceedingly complex subject; its theory is tortuous
 Is there no simple method?  
 Yes: the thaumaturgic engine disposes of a type of energy more adaptable than Electricity itself, and both stronger and subtler than this, its analogy in the world of profane science. One might say, that it is electrical, or at least one of the elements in the "Ring-formula" of modern Mathematical Physics.  
 In the R.R. et A.C., this is indicated to the Adept Minor by the title conferred upon him on his initiation to that grade: Hodos Camelionis:—the Path of the Chameleon. (This emphasizes the omnivalence of the force.) In the higher degrees of O.T.O.—the A.'.A.'. is not fond of terms like this, which verge on the picturesque—it is usually called "the Ophidian Vibrations," thus laying special stress upon its serpentine strength, subtlety, its control of life and death, and its power to insinuate itself into any desired set of circumstances.   
-  
+
 It is of this universally powerful weapon that the Secret Chiefs must be supposed to possess complete control.  
 They can induce a girl to embroider a tapestry, or initiate a political movement to culminate in a world-war; all in pursuit of some plan wholly beyond the purview or the comprehension of the deepest and subtlest thinkers.  
 (It should go without saying that the adroit use of these vibrations enables one to perform all the classical "miracles.")  
@@ -829,13 +830,13 @@ Our business is solely to obey orders: our responsibility ends when we have sati
 P.P.S. A visitor's story has just reminded me of the possibility that I am a Secret Chief myself without knowing it: for I have sometimes been recognised by other people as having acted as such, though I was not aware of the fact at the time.  
   I will remember to give you details of these incidents when the occasion arises.  
 † One thing I regard from my own experience as certain: when you call, They come. The circumstances usually show that the call had been foreseen, and preparations made to answer it, long before it was made. But I suppose in some way the call has to justify the making.   
-  
+
 ### Chapter X: The Scolex School  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 You actually want to know how to distinguish gold from copper pyrites1—"fool's gold" they called it in '49 California—no! I wasn't there— or "absolute" alcohol and—Liqueur Whisky from "alki" (commercial alcohol—see Jack London's The Princess, a magnificent story—don't miss it!) and Wartime Scotch as sold in most British pubs in 1944, era vulgari.  
 One pretty good plan is to take a masterpiece, pick out a page at random, translate it into French or German or whatever language you like best, walk around your chair three times (so as to forget the English) and then translate it back again.  
 You will gather a useful impression of the value of the masterpiece by noticing the kind of difficulty that arises in the work of translation; more, by observing the effect produced on you by reading over the result; and finally, by estimating the re-translation; has the effect of the original been enhanced by the work done on it? Has it become more lucid? Has it actually given you the information which it purported to do?  
@@ -866,9 +867,9 @@ Fraternally,
 666  
 1: If Homer can nod, so can Crowley. The mineral called "fool's gold" is actually iron pyrites, not copper. It has a brassy look, and that might account for this error – WEH.  
 2: Liber LXXI (Blavatsky, The Voice of the Silence &c. with a commentary by Crowley), Part II ("The Two Paths"), s. 42 (the section numbers are due to Crowley. See Equinox III (1) or IV (1) – T.S.   
-  
+
 ### Chapter XI: Woolly Pomposities of the Pious "Teacher"  
-  
+
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
 I do not think that it was any new kind of electricity. I think it was the passage itself that has given me neuralgia. It disgusts me beyond words.  
@@ -981,7 +982,7 @@ Fraternally,
 4: Order of Hidden Masters; minor English occult fraternity operating about this time. I have little information on them – T.S.  
 5: Ancient and Mystical Order Rosae Crucis. Mail-order "Rosicrucian" fraternity founded by H. Spencer Lewis (1883-1939). Lewis had some kind of charter or "Gauge of Amity" from Theodor Reuss of O.T.O., and certain of his teachings were plagiarised from Crowley – T.S.  
 6: See in particular the ninth and second Æhytrs; the reference is to the Call of the Thirty Æthyrs – T.S.   
-  
+
 ### Chapter XII: The Left-Hand Path—"The Black Brothers"  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
@@ -1087,7 +1088,7 @@ Fraternally,
 † (I think the trouble with these people was, that they wanted to substitute the blood of someone else  
 for their own blood, because they wanted to keep their personalities.) Chapter XIII: System of the  
 O.T.O.   
-  
+
 ### Chapter XIII: System of the O.T.O.  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
@@ -1102,16 +1103,16 @@ What is the Path?
 4. He experiences Death.  
 5. He experiences the World beyond Death.  
 6. This entire cycle of Point-Events is withdrawn into Annihilation.  
-  
+
 In the O.T.O. these successive stages are represented as follows:—  
-  
+
 1 0° (Minerval)  
 2 I° (Initiation)  
 3 II° (Consecration)  
 4 III° (Devotion)  
 5 IV° (Perfection, or Exaltation)  
 6 P.I. (Perfect Initiate)  
-  
+
 Of these Events of Stations upon the Path all but 3 (II°) are single critical experiences. We, however, are concerned mostly with the very varied experiences of Life.  
 All subsequent Degrees of the O.T.O. are accordingly elaborations of the IIø, since in a single ceremony it is hardly possible to sketch, even in the briefest outline, the Teaching of Initiates with regard to Life. The Rituals V°–IX° are then instructions to the Candidate how he should conduct himself; and they confer upon him, gradually, the Magical Secrets which make him Master of Life.  
 It is improper to disclose the nature of these ceremonies; firstly, because their Initiates are bound by the strictest vows not to do so; secondly, because surprise is an element in their efficacy; and thirdly, because the Magical Formulae explicitly or implicitly contained therein are, from a practical point of view, both powerful and dangerous. Automatic safeguards there are, it is true; but a Black Magician of first- class ability might find a way to overcome these obstacles, and work great mischief upon others before the inevitable recoil of his artillery destroys him.  
@@ -1123,19 +1124,19 @@ Love is the law, love under will.
 Fraternally,  
 666  
 1: Lat., "Read! Judge! Be silent!"   
-  
+
 ### Chapter XIV: Noise  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
 You ask me what is, at the present time, the greatest obstacle to human progress.  
 I answer in one word: NOISE.  
 You will recall that in Yoga the concise compendium of Initiated Instruction is:  
-  
+
 Sit still  
 Stop thinking  
 Shut up, and  
 Get out.  
-  
+
 The second of these postulates the third; for one can neither think nor stop thinking with all that row going on.  
 Then again, the Fourth Power of the Sphinx is Silence; on this subject I must refer you to Little Essays Toward Truth (No. 14, p. 75).  
 We are really trying to discuss something totally different; something practical in daily life. Very well, then; you remark that Goetia actually means "howling", that we use officially the Bell, the Tom-Tom, the Incantations, the Mantras and so on. All quite true, about Magick; but none of it applies to Yoga, for even with the Mantra the practice is to go faster and more quietly as one proceeds, until it becomes "Mental Muttering." M is the letter that is pronounced with the lips firmly closed; and Silence is the meaning of the MU root of Mystery.  
@@ -1164,7 +1165,7 @@ Fraternally,
 666  
 1: Given the date the reference is almost certainly to the O.T.O. initiations – T.S.  
 2: Winston Churchill – W.E.H.  
-  
+
 ### Chapter XV: Sex Morality  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
@@ -1178,15 +1179,15 @@ Still, for the purpose of these letters, I should like to put the whole matter i
 explanations have been directed to add conscious precautions to the existing automatic safeguards.  
 The above remarks refer mainly to the technique of the business; and it is going a very long way to tell you that you ought to be able to work out the principles thereof from your general knowledge of Magick, but especially the Formula of Tetragrammaton, clearly stated and explained in Magick, Chap. III. Combine this with the heart of Chap. XII and you've got it!  
 But there is another point at issue. This incidentally, is where the "automatic safeguards" come in.  
-  
+
 "...thou hast no right but to do thy will." (AL I, 42) means that to "go a whoring after strange"  
-  
+
 purposes can only be disastrous. It is possible, in chemistry, to provoke an endothermic reaction; but that is only asking for trouble. The product bears within its own heart the seed of dissolution.  
 Accordingly, the most important preliminary to any Magical operation is to make sure that its object is not only harmonious with, but necessary to, your Great Work.  
 Note also that the use of this supreme method involves the manipulation of energies ineffably secret and most delicately sensitive; it compares with the operations of ordinary Magick as the last word in artillery does with the blunderbuss!  
 I ought to have mentioned the sexual instinct or impulse in itself, careless of magical or any other considerations soever: the thing that picks you up by the scruff of the neck, slits your weasand with a cavalry sabre, and chucks the remains over the nearest precipice.  
 What is the damn thing, anyway?   
-  
+
 That's just the trouble; for it is the first of the masks upon the face of the True Will; and that mask is the Poker-Face!  
 As all true Art is spontaneous, is genius, is utterly beyond all conscious knowledge or control, so also is sex. Indeed, one might class it as deeper still than Art; for Art does at least endeavour to find an  
 intelligible means of expression. That is much nearer to sanity than the blind lust of the sex-impulse.  
@@ -1208,7 +1209,7 @@ Fraternally,
 666  
 Note. In the paper edition of Magick Without Tears, the above letter was followed by Artemis Iota. As  
 the latter document is already on this site in its entirety, it is here omitted – T.S.   
-  
+
 Chapter XVI: On Concentration  
 Cara Soror,  
 Do what thou wilt shall be the whole of the Law.  
@@ -1239,17 +1240,17 @@ Deep down, on the very brink of the subconscious, are all those facts which have
 Then, the ambition, conscious, which arranges the general order and disposition of your life.  
 Lastly, the practices themselves. And my belief is that the immense majority of failures have their neglect to brush up their drill to thank for it.  
 For technical advice on all these subjects, I shall refer you to those official works mentioned in the early part of this letter; I shall be happy if you will take to heart what I am now so violently thrusting at you, this Middle Work of Concentration.  
-  
+
 Love is the law, love under will.  
 Fraternally,  
 666  
-  
+
 ### Chapter XVII: Astral Journey: Example, How to do it, How to Verify your Experience  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 There is no better way of training the memory than the practice of the Holy Qabalah.  
 The whole mechanism of memory depends on joining up independent data. You must go on adding a little to little, always joining the simple impressions by referring them to others which are more general; and so on until the whole of your universe is arranged like the brain and the nervous system.  
 This system in fact, becomes the Universe. When you have got everything properly correlated, your central consciousness understands and controls every tiniest detail. But you must begin at the beginning—you go out for a walk, and the first thing you see is a car; that represents the Atu VII, the Chariot, referred to Cancer.  
@@ -1264,7 +1265,7 @@ One wants to become like a mighty flowing river, which is not consciously aiming
 I can never understand why it is that mystics fail to see that their smarmy doctrine of surrender actually insists upon the duality which they have set out to abolish!  
 I certainly have no intention of "holding you down" to "a narrow path of work" or any path. All I can do is to help you to understand clearly the laws of your own nature, so that you may go ahead without extraneous influence. It does not follow that a plan that I have found successful in my own case will be any use to you. That is another cardinal mistake of most teachers. One must have  
 become a Master of the Temple to annihilate one's ego.   
-  
+
 Most teachers, consciously or unconsciously, try to get others to follow in their steps. I might as well dress you up in my castoff clothing! (In the steps of the Master. At the feet of the Master. Steward!)  
 Please observe that the further you get on, the higher your potential, the greater is the tendency to leak, or even to break the containing vessel. I can help you by warning you against setting up obstacles, real or imaginary, in your own path; which is what most people do. It is almost laughable to think that the Great Work consists merely in "letting her rip;" but Karma bumps you from one side of the toboggan slide to the other, until you come into the straight." (There's a chapter or two in the Book of Lies about this, but I haven't got a copy. I must find one, and put them in here. Yes: p. 22)1  
 O thou that settest out upon the Path, false is the Phantom that thou seekest. When thou hast it thou shalt know all bitterness, thy teeth fixed in the Sodom-Apple. Thus hast thou been lured along that Path, whose terror else had driven thee far away.  
@@ -1277,14 +1278,14 @@ The result, it is true, is superior; the perfection of the original has been enh
 There is another way of defining the Great Work. That explains to us the whole object of manifestation, of departing from the perfection of "Nothing" towards the perfection of "everything", and one may consider this advantage, that it is quite impossible to go wrong. Every experience, whatever may be its nature, is just another necessary bump.  
 Naturally one cannot realise this until one becomes a Master of the Temple; consequently one is perpetually plunged in sorrow and despair. There is, you see, a good deal more to it than merely learning one's mistakes. One can never be sure what is right and what is wrong, until one appreciates that "wrong" is equally "right." Now then one gets rid of the idea of "effort" which is associated with "lust of result." All that one does is to exercise pleasantly and healthfully one's energies.  
 It will not do to regard "man" as the "final cause" of manifestation. Please do not quote myself against me.  
-  
+
 "Man is so infinitely small,  
 In all these stars, determinate.  
 Maker and master of them all,  
 Man is so infinitely great.”2  
-  
+
 The human apparatus is the best instrument of which we are, at present, aware in our normal consciousness; but when you come to experience the Conversation of the higher intelligences, you will understand how imperfect are your faculties. It is true that you can project these intelligences as parts of yourself, or you can suppose that certain human vehicles may be temporally employed by them for various purposes; but these speculations tend to be idle. The important thing is to make contact with beings, whatever their nature, who are superior to yourself, not merely in degree but it kind. That is to say, not merely different as a Great Dane differs from a Chihuahua, but as a buffalo differs from either.   
-  
+
 Of course you are perfectly right about the senses, though I would not agree to confine the meaning to the five which are common to most people. There must, one might suspect, be ways of apprehending directly such phenomena as magnetism, electrical resistance, chemical affinity and the like. Let me direct you once more to The Book of the Law, Chapter II, vs. 70 - 72.  
 "There is help & hope in other spells. Wisdom says: be strong! Then canst thou bear more joy. Be not animal; refine thy rapture! If thou drink, drink by the eight and ninety rules of art: if thou love, exceed by delicacy; and if thou do aught joyous, let there be subtlety therein!  
 "But exceed! exceed!  
@@ -1298,34 +1299,34 @@ You may perhaps consider it best, in view of your complete ignorance as to who h
 Fortunate indeed for you that you have practiced daily the assumption of such forms! Very firmly, very steadily, very slowly, very quietly, you transform your normal astral appearance into that of Sebek. The Chimaera, recognizing your divine authority, becomes less formidable and menacing in appearance. He may, in some way, indicate his willingness to serve you. Very good, so far; but it is of course the first essential to make sure of his integrity. Accordingly you begin by asking his name.  
 This is vital; because if he tells you the truth, it gives you power over him. But if, on the other hand, he tells you a lie, he abandons for good and all his fortress. He becomes rather like a submarine whose base has been destroyed. He may do you a lot of mischief in the meantime, of course, so look out!  
 Well then, he tells you that his name is Ottillia. Shall we try to spell it in Greek or in Hebrew. By the sound of the name and perhaps to some extent by his appearance one might plump for the former; but after all the Greek Qabalah is so unsatisfactory. We give Hebrew the first chance—we start with Ayin Teth Yod Lamed Yod Aleph Hé. Let us try this lettering for a start. It adds up to 135. I daresay that you don't remember what the Sepher Sephiroth tells you about the number; but as luck will have it, there is no need to inquire; for 135 = 3 x 45. Three is the number, is the first number of Saturn, and 45 the last. (The sum of the numbers in the magic square of Saturn is 45.) That corresponds beautifully with everything you have got so far; but then of course you must know if he is "one of the believing Jinn." Briefly, is he a friend or an enemy? You accordingly say to him "The word of the Law is Te..µa" It turns out that he doesn't understand Greek at all, so you were certainly right in choosing Hebrew. You put it to him, "What is the word of the Law?" and he replies darkly. "The word of the Law is Thora." That means nothing to you; any one might know as much as that, Thora being the ordinary word for the Sacred Law of Israel, and you accordingly ask him to spell it to make sure you have heard aright; and he gives you the letters, perhaps by speaking them, perhaps by showing them: Teth, Resh, Ayin. You add these up and get 279. This again is divisible by the Saturnian 3, and the result is 93; in other words, he has been precisely right. On the plane of Saturn one may multiply by three and therefore he has given you the correct word "Thelema" in a form unfamiliar to you. You may now consider yourself satisfied of his good faith, and may proceed to inspect him more closely. The stars above his head suggest the influence of Binah, whose number also is three, while the most striking thing about him is the core of his being: the letter Yod. (One does not count the termination "AH": being a divine suffix it represents the inmost light and the outermost light.) This Yod, this spark of intense brilliance, is of the pale greenish gold which one sees (in this world) in the fine gold leaf of Tibet. It glows with ever greater intensity as you concentrate upon observing him, which you could not do while you were preoccupied with investigating his credentials.  
-  
+
 Confidence being thus established, you inquire why he as appeared to you at this time and at this place; and the answer to this question is of course your original idea, that is to say, he is presenting to you in other terms that "mountainous Fugue" which invoked him. You listen to him with attention, make such enquiries as seem good to you, and record the proceedings.  
-  
+
 The above example is, of course, pure imagination, and represents a very favourable case. You are only too likely, and that not only at the beginning, to meet all sorts of difficulties and dangers.  
-  
+
 Love is the law, love under will.  
 Fraternally,  
 666  
-  
+
 1: The passage quoted is from chapter 13 (.G), "Pilgrim-Talk" p. 36 of the second edition – T.S.  
 2: The last stanza of Crowley's poem "At Sea," published in Equinox I (9). The Equinox publication had "Maker and moulder of them all," as the third line – T.S.   
-  
+
 ### Chapter XVIII: The Importance of our Conventional Greetings, etc.  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 From time to time I have exhorted you with mine accustomed matchless eloquence never to neglect the prescribed Greetings: but I think it just as well to collect the various considerations connected with their use—and in "Greetings" I include "saying Will" before set meals, the four daily adorations of the Sun (Liber CC, vel Resh) and the salutation of Our Lady the Moon.1 I propose to deal with the general object of the combined rituals, not with the special virtues of each separately.  
 The practice of Liber III vel Jugorum is the complement of these grouped customs. By sharp physical self-chastisement when you think, say, or do whatever it is that you have set yourself to avoid doing, you set a sentry at the gate of your mind ready to challenge all comers, and so you acquire the habit of being on the alert. Keep this in mind, and you will have no difficulty in following the argument of this letter.  
 When you are practicing Dharana + concentration, you allow yourself so many minutes. It is a steady, sustained effort. The mind constantly struggles to escape control. (I hope you remember the sequence of "breaks." In case you don't, I summarise them.  
-  
+
 1. Immediate physical interruptions: Asana should stop these.  
 2. Things that are "on you mind."  
 3. Reverie, and "Wouldn't it help if I were to— ?"  
 4. Atmospherics—e.g. voices apparently from some alien source.  
 5. Aberrations of the control itself; and the result itself. (Remember the practice of some Hindu schools: "Not that, not that!" to whatever it is the presents itself as Tat Sat—reality, truth).  
-  
+
 Need I remind you how urgent the wish to escape will assuredly become, how fantastic are the mind's devices and excuses, amounting often to deliberate revolt? In Kandy I broke away in a fury, and dashed down to Colombo with the intention of painting the very air as red as the betel- spittle on the pavements! But after three days of futile search for satisfying debauchery I came back to my horses, and, sure enough, it was merely that I had gone stale; the relaxation soothed and steadied me; I resumed the discipline with redoubled energy, and Dhyana dawned before a week had elapsed.  
 I mention this because it is the normal habit of the mind to organise these counter-attacks that makes their task so easy. What you need is a mind that will help rather than hinder your Work by its normal function.  
 This is where these Greetings, and Will-sayings, and Adorations come in.  
@@ -1344,24 +1345,24 @@ As I said above, Adam Qadman is not my middle name.
 Well now, have I any shadow of an excuse? Yes, I have, after a fashion; I don't think it good manners to force my idiosyncrasies down people's throats, and I don't want to appear more of an eccentric than I need. It might detract from my personal influence, and so actually harm the Work that I am trying to perform. . .  
 "Yes, that's all very well, Alibi Ike; you are exceedingly well known as a Scripture-quoting Satan, as a Past-Master in self-justification. Trained from infancy by the Plymouth Brethren, who for casuistry leave the Jesuits at the post!" "Yes, yes, but — — —." "You needn't but me no buts, you old he-goat!  
 Wasn't there once a Jonas Hanway, the first man to sport an umbrella? Wouldn't your practice be natural, and right, and the cream of the cream of good manners as soon as a few hundred people of position took to doing it? And wouldn't Thomas, Richard, and Henry, three months later, make a point of doing the same as their betters?" (That was Conscience speaking.)  
-  
+
 All right, you win.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
 666  
-  
+
   See Magick in Theory and Practice, pp. 427 - 429.  
 † Book 4, Part I.  
 1: The whole matter of lunar salutations is covered in an appendix to the copy of Liber Resh on this site.   
-  
+
 ### Chapter XIX: The Act of Truth  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 It seems that last Wednesday I so far forgot myself as to refer to the "Act of Truth" in conversation, and never mentioned what it is when it's at home, or why anyone should perform it, or what happens when one does perform it!  
 All right, I will remedy that; luckily, it is a very simple matter; very important, perfectly paradoxical and devastatingly effective.  
 Analysed, it is to make the assumption that something which seems very wrong is actually all right, that an eager wish is an accomplished fact. a reasonable anxiety, entirely unfounded—and to act accordingly.  
@@ -1370,31 +1371,31 @@ about it, materially.
 The sensible course of action is to draw in my horns, live on the minimum, necessary to life, which involves cutting the day's work down to almost nothing, and hope for the best, expecting the worst.  
 But there is a Magical mode of procedure. You say to yourself: I am here to do this Work in accordance with my true Will. The Gods have got to see to it that I'm not baulked by any blinking messenger. (But take care They don't overhear you; They might mistake it for Hybris, or presumption. Do it all in the Sign of Silence, under the aegis of Harpocrates, the "Lord of Defence and Protection"; be careful to assume his God-form, as standing on two crocodiles. Then you increase your consumption, and at the same time put in a whole lot of extra Work. If you perform this "Act of Truth" properly, with genuine conviction that nothing can go wrong, your messenger will arrive a day early, and bring an extra-large supply.  
 This, let me say at once, is very difficult, especially at first, until one has gained confidence in the efficacy of the Formula; and it is very nastily easy to "fake." Going through the motions (as they say) is more futile here than in most cases, and the results of messing it up are commonly disastrous.   
-  
+
 Do not be misled by any apparent superficial resemblance to "Christian Science" and "Coueism" and their cackling kin. They miss every essential feature of the formula.  
 You must invent your act to suit your case, every time; suppose you expect a cable next Friday week, transferring cash to your account. You need $500 to make up an important payment, and you don't know whether they will send even $200. What are you going to do about it? Skimp, and save your expenses, and make yourself miserable and incapable of vigorous thought or action? You may succeed in saving enough to swing the deal; but you won't get a penny beyond the amount actually  
 needed—and look at the cost in moral grandeur!  
 No, go and stand yourself a champagne luncheon, and stroll up Bond Street with an 8 1/2 "Hoyo de Monterey," and squander $30 on some utterly useless bauble. Then the $500 will swell to $1000, and arrive two days early at that!  
 There are one or two points to consider very carefully indeed before you start:—  
-  
+
 1. The proposed Act must be absurd; it won't do at all if by some fluke, however unlikely, it might accomplish your aim. For instance, it's no use backing an outsider. There must be no causal link.  
 2. The Act must be one which makes the situation definitely worse. E.g.: suppose you are counting on a new dress to make a hit at a Reception, and doubt whether it is so much better than your present best, or whether it will be finished in time. Then, wear that present best tonight (wet, of course), knowing you are sure to soil it.  
 3. Obviously, all the usual conditions of a Magical Operation apply in this as in all cases; your aim must conform with your True Will, and all that; but there is one curious point about an Act of Truth: this, that one should resort to it only when there is no other method possible. In the explorer's case, above, it won't do if he has any means of hurrying up the messenger.  
 It seems to me that the above brief sketch should suffice an intelligent and imaginative student like yourself; but if any point remains darkling, let me know, and I will follow up with a postscript.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
 666  
-  
+
 P.S.—I thought it might help you if I were to make a few experiments. I have done so. Result: this is much more difficult and delicate an affair than I had thought when I wrote this letter. For instance, one single thought of a "second string"—e.g. "if it fails, I had better do so and so"—is enough to kill the while operation stone dead. Of course, I am totally out of practice; but, even so . . . . . .   
-  
+
 ### Chapter XX: Talismans: The Lamen: The Pantacle  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Really you comfort me when you turn from those abstruse and exalted themes with which you have belaboured me so often of late to dear cuddlesome little questions like this in our letter received this morning: "Do please, dear Master, give me some hints about how to make Talismans (that's the same as Telesmata, isn't it? Yes, 666) and the Pantacle. The official instructions are quite clear, of course;  
 1 but somehow I find them just a little frightening."  
 Well, I think I know pretty well what you mean; so I will try to imitate the style of Aunt Tabitha in "The Flapper's Fireside."  
@@ -1410,7 +1411,7 @@ Weapon of Earth (in the Tarot) the Disk, emphasising its continual whirling move
 As you will have gathered from the above, a Talisman is a much more restricted idea; it is no more than one of the objects in his Pantacle, one of the arrows in the quiver of his Lamen. As, then, you would expect, it is very little trouble to design. All that you need is to "make considerations" about your proposed operation, decide which planet, sign, element or sub-element or what not you need to accomplish your miracle.  
 As you know, a very great many desirable objects can be attained by the use of the talismans in the Greater and Lesser Keys of Solomon the King; also in Pietro di Abano2 and the dubious Fourth Book of Cornelius Agrippa.3  
 You must on no account attempt to use the squares given in the Book of the Sacred Magic of Abramelin the Mage until you have succeeded in the Operation. More, unless you mean to perform it, and are prepared to go to any length to do so, you are a fool to have the book in your possession at all. Those squares are liable to get loose and do things on their own initiative; and you won't like it.   
-  
+
 The late Philip Haseltine, a young composer of genius, used one of these squares to get his wife to return to him. He engraved it neatly on his arm. I don't know how he proceeded to set to work; but his wife came back all right, and a very short time afterwards he killed himself.  
 Then there are the Elemental Tablets of Sir Edward Kelly and Dr. John Dee. From these you can extract a square to perform almost any conceivable operation, if you understand the virtue of the various symbols which they manifest. They are actually an expansion of the Tarot. (Obviously, the Tarot itself as a whole is a universal Pantacle—forgive the pleonasm! Each card, especially is this true  
 of the Trumps, is a talisman; and the whole may also be considered as the Lamen of Mercury. It is evidently an Idea far too vast for any human mind to comprehend in its entirety. For it is "the Wisdom whereby He created the worlds.")  
@@ -1424,33 +1425,33 @@ Then comes the question of how to "charge" the Talisman, of how to evoke or to i
 Remember, too, please, what I have pointed out elsewhere, that the greatest Masters have quite often not been Magicians at all, technically; they have used such devices as Secret Societies, Slogans and Books. If you are so frivolous as to try to exclude these from our discourse, it is merely evidence that you have not understood a single word of what I have been trying to tell you these last few hundred years!  
 May I close with a stray example or so? Equinox III, 1, has the Neophyte's Pantacle of Frater O.I.V.V.I.O.4 The Frontispiece of the original (4 volume) edition of Magick, the colours vilely reproduced, is a Lamen of my own Magick, or a Pantacle of the Science, I'm sure I'm not sure which!5  
 Most of my Talismans, like my Invocations, have been poems6. This letter must be like the Iliad in at least one respect: it does not end; it stops.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: The official instruction on the Pantacle in (Liber A vel Armorum) states, inter alia, that it should bear "a symbol to represent the Universe." The Pantacle and Lamen are both, as Crowley notes, discussed in Book 4 part II. I am not aware of any official A.'.A.'. instruction dealing directly with Talismans – T.S.  
 2: The reference is unlikely to be to the Heptameron, a 16th century Grimoire spuriously attributed to Abano, as this does not deal with talismans at all, rather it is a ritual for the evocation of planetary spirits. According to writers such as Frances Yates and D.P. Walker, some of the undisputed works of Pietro d'Abano deal with astrological images and the talismanic use of the same, although I have been unable to consult these directly – T.S.  
 3: "The Fourth Book of Occult Philosophy, or of Magical Ceremonies" was a short work on magical practice which first came to public attention in the 1550s, some twenty years after the death of its alleged author. It purports to be a "complement and key" to Agrippa's De Occulta Philosophia libri tres. The author credit is generally regarded as spurious. It does however treat at length of the composition of "pentacles" (pentacula; as described by pseudo-Agrippa they belong more under the head of "talismans" in Crowley's classification), giving a few examples – T.S.  
 4: C.S. Jones (Frater Achad). Achad's Lamen design also appeared in that issue – T.S.  
 5: The design was reproduced as a colour painting by Steffi Grant in her essay on Crowley published as Carfax Monograph #3 (reprinted in Hidden Lore by Kenneth and Steffi Grant, London: Skoob, 1989), as a black and white line drawing by the same artist in the 1973 RKP edition of Crowley's Magick, and as a colour graphic redrawn by an unidentified illustrator on the dust-jacket of the 1994 "Blue Brick" Weiser edition of Magick – T.S.  
 6: See also The Books of the Beast by Timothy d'Arche Smith for Crowley's use of "talismanic" principles in book design – T.S.   
-  
+
 ### Chapter XXI: My Theory of Astrology  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 A few well-chosen words about Astrology? Madam, I am only too happy to oblige: our aim is to serve. The customer is usually wrong; but statistics indicate that it doesn't pay to tell him so.  
 It seems a long while since I set up your Nativity, and read it, but it is very clear in my mind that you were astonished, as so many others have been, by the simplicity and correctness of my reading. It began, you remember, by your giving me the usual data when we dropped in for tea at the Anglers' Rest. I calculated the Ascendant on the spot, and remarked "Rubbish!" I looked at you again very carefully; and, after many grunts, observed, "More likely half-past ten—within an hour one way or the other." You insisted; I insisted. Unwilling to make a Fracas in the Inn, we decided to put you to the trouble of writing to your mother to settle the dispute. Back came the answer: "within a few minutes of eleven. I remember because your father had hung on as long as he could—he had to take the morning service."  
 This occurrence is very common in my experience; I have contradicted what sounded like ascertained fact and proved on enquiry to have been right; so, considering that the statistics I made many years ago showed me to have been right 109 times out of 120, I think two things are fairly near probation; firstly, I am not guessing—that doesn't matter much; but, secondly, which is of supreme importance, there is a definite connection between the personal appearance and manner of the native, and the Sign of the Zodiac which was rising when he first drew air into his lungs.  
 Let me add, to strengthen the argument, that on the few occasions where I have erred there has been a good astrological reason for it. E.g. I might plump for Pisces rising when it was actually Capricornus; but in that case Saturn would have been afflicted by being in Cancer, with bad aspects from Venus and the Moon, thus taking away all his rugged, male, laborious qualities, and in the Ascendant might have been Jupiter, suggesting many of the qualities of Pisces: and so forth.  
 Now let me start! You want me to explain the system—or no-system!—which I use. I do not "move in a mysterious way My wonders to perform;" for nothing could be simpler. For its origin I have to thank Abramelin the Mage, who empties the vials of his scorn upon the astrologers of his time with their meticulous calculations of "the hours of the planets" and so on. I think he goes too far when he says that a planet can have no influence at all, or very little, unless it is above the horizon; but he meant well, bless him! And, though he does not say so, I believe that I do my stuff in very much the same way as he did.  
 Modern astrologers multiply their charts until their desks remind me of a Bargain Basement in the rush hour! They compare and contrast until they are in bat-eyed bewilderment bemused; and when the answer turns out absolutely false, exclaim, what a shout: "By Ptolemy, I forgot to look at the last Luniation for Buda-Pesth!" But then they can always find something or other which will explain how they came to go wrong: naturally, when you have several hundred factors, helplessly bound and gagged, it would be just too bad if you couldn't pick out one to serve your turn—after the event! No, dear girl, it should be obvious to an unweaned brat:  
-  
+
 (a) they can't see the wood for the trees,  
 (b) they are using Ruach on a proposition which demands Neschamah. Intellect is quite inadequate; the problem requires mother-wit, intuition, understanding. Here is my system in a Number 000 Ampoule.  
 Put up the figure at birth: study it, make notes of the aspects and dignities, concentrate—and turn on the Magical Tap!   
@@ -1467,28 +1468,28 @@ The answer, I believe, is manifold. It might be, for example, that Poland and Ir
 Something of this sort is really an obvious truth. Flood in China, famine in India, pestilence anywhere, evidently depend on maps of a scale far more enormous than the personal.  
 Then—on this point I feel reasonably sure—there may be one or more factors of which we know nothing at all, by which the basic possibilities of a figure are set to work. (Just as a car with engine running will not start until the clutch is put in.)  
 I will conclude by announcing a rather remarkable position.  
-  
+
 1. I see no objection at all to postulating that certain "rays," or other means of transmitting some peculiar form or forms of energy, may reach us from the other parts of the solar system; for we can in fact point to perfectly analogous phenomena in the discoveries of the last hundred years or so. But that is no more than a postulate.  
 2. The objections to Astrology as such, indicated by what I have already pointed out, and several others, would suffice to place me among the most arrogant disbelievers in the whole study, were it not for what follows.  
 3. The facts with regard to the Ascendant are so patent, so undeniable, and so inexplicable without the postulate in (1), that I am utterly convinced of the fundamental truth of the basic principles of the science.  
 I said, "I will conclude"; and I meant it. For now that (or so I hope) you respect sufficiently my conviction that Astrology is a genuine science and not a messy mass of Old Wives' Tales, you will obviously demand instruction as to how to learn it, that you may verify my opinion in the light of your own experiments.  
 This will look much better if I put it in a separate letter.  
 'Till then—  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 1: By now this term has appeared several times, and it will be going by more than a few times ahead. Crowley disdained to apply "Theosophical" to the movement of Anne Besant, preferring to reserve the word for older systems. He coined the word "TOSHosophical" to replace "Theosophical" in these references – WEH.   
-  
+
 ### Chapter XXII: How to Learn the Practice of Astrology  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 "Up guards, and at 'em!" First, you must know your correspondences by heart backwards and upside down (air connu.) They are practically all in The Book of Thoth; but "if anyone anything lacks," look for it in 777.  
 Then, get a book on Astrology, the older the better. Raphael's Shilling Handbook is probably enough for the present purpose. Get well into your head what the menu says about the natures of the planets, the influence of the aspects, what is meant by dignities, the scope of the houses, and so on.  
 Dovetail all this with your classical knowledge; the character and qualities, the powers and the exploits, of the several deities concerned.  
@@ -1519,19 +1520,19 @@ Remember constantly that the Statistical Method is your one and only safeguard a
 Within the limits of a letter I could hardly hope to go into matters much more fully or deeply than I have done; but 'pon my soul! I think that what I have said should be enough for an intelligent and assiduous student. Let me insist that all that is worthwhile comes by experience. Learning one thing will give you the clue to another.   
 Well do I know to my sorrow how hard it is, as a rule, to learn how to do a thing solely from written instruction; so perhaps you had better arrange to see me one day about the actual setting-up of a figure. Probably, too, there will be a few points that you would like to discuss.  
 I will end by betting you six clothing coupons to a pound of sugar that in two years' concentrated work on these lines you will become a better astrologer than ever I was. (This is very cunning of me; in two years we shall all be getting clothes without coupons.)  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 ### Chapter XXIII: Improvising a Temple  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 (This letter has been provoked by points discussed in your recent visit.)  
 As some of your daily practices are ceremonial, it should not come amiss to vouchsafe a few hints of practical service. For in ritual Magick, it will of course be the first care to get everything balanced and tidy.  
 If you propose to erect a regular Temple, the most precise instructions in every detail are given in Book 4, Part II. (But I haven't so much as seen a copy for years!) There is a good deal scattered about in Part III (Magick, which you have) especially about the four elemental weapons.  
@@ -1602,13 +1603,13 @@ This plaint of yours tails off—and perks up in so doing—with confession of A
 No, better still, concentrate on the Next Step! After all, it is the only one you can take, isn't it!  
 Without lust of result, please!  
 And I shall leave anything else to the next letter.   
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 P.S. "Next letter," yes, they are running into one another more than somewhat; it is better so, for life is like that. And we have the bold bad editor to sort them out.  
 1: The reference is to Liber LXXXIV vel Chanokh, otherwise known as "A brief abstract of the symbolic representation of the Universe as derived by Dr John Dee from the skrying of Sir Edward Kelly."  
 2: The Circle described in Book 4 part II has an overall diameter of about 17 times the side of each square comprising the Tau (this assumes the distance between the inner and outer circle is about the same as the side of each square). The double cube altar is traditionally 44 inches high (about navel height on a six foot person) which will make the circle over 30 feet in diameter. This might be possible if you have the use of a small sports hall; it will not fit in most peoples' living rooms – T.S.  
@@ -1616,13 +1617,13 @@ P.S. "Next letter," yes, they are running into one another more than somewhat; i
 4: The transcript gave the factorisation as 7 times 9 times 13; this is wrong, but the analysis ("unity" is Qabalistically referred to 13) suggests it may have been a slip by Crowley rather than a transcription error) – T.S.  
 5: Chapter 51, "Terrier-Work." See also Chapter 45, "Chinese Music." Quoted in chapter 29 of MWT – T.S.  
 6: O.F., "drink." vide François Rabelais, The Fifth and Last Book of the Heroic Acts and Sayings of the Good Pantagruel (in Gargantua and Pantagruel), cap. 45; Crowley, Liber Aleph vel CXI, cap. .. (208).   
-  
+
 ### Chapter XXIV: Necromancy and Spiritism  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Really, you make me ashamed of You! To write to ignorant me to wise you up about necromancy, when you have at your elbow the one supreme classic—Lévi's Chapter XIII in the Dogme et Rituel!   
 What sublimity of approach! What ingenuity of "considerations!" With what fatally sure steps marches his preparation! With what superb technique does he carry out his energised enthusiasm!  
 And, finally, with what exact judicial righteousness does he sum the results of his great Evocation of Apollonius of Tyana!  
@@ -1655,22 +1656,22 @@ No, by no means always fraud. Yet at any séance the "investigators" take no mag
 As for those mediums who possess magical ability, they almost always come from the most ignorant classes—Celts are an exception to this rule—and have no knowledge whatever of the technique of the business. Worse, they are usually of the type that delights in the secret dirty affinities, and so naturally and gladly attract entities of the Qliphothic world to their magical circle. Hence tricksters, of the lowest elemental orders, at the best, come and vitalise odds and ends of the Ruach of people recently deceased, and perform astonishing impersonations. The hollow shells glow with infernal fire.  
 Also, of course, they soak up vitality from the sitters, and from the medium herself.  
 Altogether, a most poisonous performance. And what do they get out of it? Even when the "Spirits" are really spirits, they only stuff the party up with a lot of trashy lies. To this summary the Laws of Probability insist that there shall be occasional exceptions.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: sic, s.b. Daniel Dunglas – T.S.  
 2: Iophiel: the Intelligence of Jupiter; Hismael: the Spirit of Jupiter; A'arab Zereq: the Ravens of Dispersion, Qliphoth of Netzach – T.S.   
-  
+
 ### Chapter XXV: Fascinations, Invisibility, Levitation, Transmutations, "Kinks in Time"  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Dear me! dear me! The world's indeed gone topsy-turvy if you have to ask me for the secrets of Fascination! Altogether tohu-bohu and the Temurah Thash raq!1  
 So much for a display of Old-World Courtly Manners; actually rubbish, for you might very well be fascinating without knowing how you worked the trick. In fact, I think that is the case ninety-nine times in a hundred. Besides, I read your letter carelessly; I overlooked the phrase in which you mention that you use the word as Lévi did; i.e. to cover all those types of "miracle" which depend on distracting the attention of, or otherwise composing, the miraclee—I invent a rather useful word, yes?  
 So let us see what sort of miracles those are.  
@@ -1726,23 +1727,23 @@ That scene in Victoria Street, is as clear and vivid in my mind, in every detail
 That secret is published only in that passage of that book. And—the book was not published until three years later, and from an address of which in 1910 I had not so much as thought of. The date of my adhesion to the O.T.O. (which, by the way, upset every principle and plan that I had ever held) is equally certain by virtue of subsequent published writings.4  
 Now go away and explain that!  
 Well I've given you a fair account of some of the principal fascinations; as to the rest, bewitchments, sorceries, inhibitions and all that lot, it is enough if I say that they follow the regular Laws of Magick; in some, fascination proper plays a prominent part; in others, it is barely more than walking on to say "My lord, the carriage waits!" But—even that can be done well or ill, and a small mistake may work a mighty mischief.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: A "Qabalistic" method of exegesis mentioned by Mathers in the introduction to Kabbalah Unveiled; it involves writing words backwards – T.S.  
 2: Book 4, part II: "An Interlude" (following the chapter on the Cup) – T.S. 3: The reference is generally believed to be to Chapter 36 of The Book of Lies, a.k.a. Liber XXXVI, the Star Sapphire – T.S.  
 4: The dates are not as hard to reconcile as Crowley maintains. While the first edition of The Book of Lies claims to have been published in 1913 (the second edition contains the strange remark "There is no joke or hidden meaning in the publisher's imprint") it is advertised as "now ready" in the September 1912 Equinox. Since, according to the account in Confessions, Crowley was already a member of O.T.O. at the time of this alleged incident, Reuss having admitted him to the VII° after the Mathers versus the Equinox trial to spite Mathers and his claims to be head of the Rosicrucian Order, Crowley could be conflating two distinct visits by Reuss. Crowley's O.T.O. charter is dated April 1912 and he only began promoting his O.T.O. branch in the September 1912 Equinox – T.S.   
-  
+
 ### Chapter XXVI: Mental Processes—Two Only are Possible  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 "Occult" science is the most difficult of them all. For one thing, its subject-matter includes the whole of philosophy, from ontology and metaphysics down to natural history. More, the most rarefied and recondite of these has a direct bearing upon the conduct of life in its most material details, and the simplest study of such apparently earthbound matters as botany and mineralogy leads to the most abstruse calculations of the imponderables.  
 With what weapons, then, are we to attack so formidable a fortress?  
 The first essential is clear thinking.  
@@ -1773,22 +1774,22 @@ I had a marvellous lesson myself some years earlier. I had cut down a certain ri
 All right for most of it; one could show him the words typed on slips. But during part of the ceremony he was hoodwinked; one was reduced to the deaf-and-dumb alphabet devised for such occasions. I am as clumsy and stupid at that as I am at most things, and lazy, infernally lazy, on top of that. Well, when it came to the point, the communication of the words became abominably, intolerably tedious.  
 And then! Then I found that about two-thirds of my "absolutely essential" ritual was not necessary at all!  
 That larned 'im.2  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 1: In accordance with my oaths I will not here comment on whether or not ritual officers in my experience have taken advantage of this – T.S.  
 2: Crowley has told this story already, in the letter on Noise – T.S.   
-  
+
 ### Chapter XXVII: Structure of Mind Based on that of Body (Haeckel and Bertrand Russell)  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Was the sudden cloudburst at the end of my last letter somewhat of a surprise, and more that somewhat of a shock? Cheer up! The worst is yet to come.  
 This is where clean thinking—a subject whose fringes I seem to remember having touched—wins the Gold Medal of the Royal Humane Society.  
 It is surely the wise course to accept the plain facts; to try to explain them away, or to excuse them, is certain to involve one in a maelstrom of sophistry; and when, despite these laudable efforts, the facts jump up and land a short jab to the point, one is even worse off than before.  
@@ -1811,7 +1812,7 @@ Let me put it that the body is formed by the super-position of layers, each repr
 Now I want to put forward a thesis—and as far as I know it is personal to myself, based on my work at Cefalu—to the effect that the mind is constructed on precisely the same lines.  
 You will remember from my note on "Breaks" in meditation how one's gradual improvement in the practice results in the barring-out of certain classes of idea, by classes. The ready-to-hand, recent fugitive thoughts come first and first they go. Then the events of the previous day or so, and the preoccupations of the mind for that period. Next, one comes to the layer of reveries and other forms of wish-phanstasm; then cryptomnesia gets busy with incidents of childhood and the like; finally, there intrudes the class of "atmospherics," where one cannot trace the source of the interruption.  
 All these are matters of the conscious rational mind; and when I explored and classified these facts, in the very first months of my serious practice of Yoga, I had no suspicion that they were no more than the foam on a glass of champagne: nay,  
-  
+
 Rather of "black wine in jars of jade  
 Cooled all these months in hoarded snow,  
 Black wine with purple starlight in its bosom,  
@@ -1820,7 +1821,7 @@ Brought from the forenoon's archipelago,
 Her brows bound bright with many a scarlet blossom  
 Like the blood of the slain that flowered free  
 When we met the black men knee to knee."  
-  
+
 How apt the verses are! How close are wine and snow to lust and slaughter! I have been digressing, for all that; let us return to our goats!  
 The structure of the mind reveals its history as does the structure of the body.  
 (Capitals, please, or bang on something; that has got to sink in.)  
@@ -1829,20 +1830,20 @@ Now then! In the course of that kind of initiation conferred by Sammasati, the l
 (There is a way of acquiring a great deal of strange and unsuspected knowledge of these matters by the use of Sulphuric Ether, (C2H5)2O, according to a special technique. I wrote a paper on it once, 16 pp. 4{to}, and fearing that it might be lost had many copies made and distributed. Where is it? I must write you a letter one day.1)  
 Accordingly, one finds oneself experiencing the thoughts, the feelings, the desires of a gorilla, a crocodile, a rat, a devil-fish, or what have you! One is no longer capable of human thoughts in the ordinary sense of the word; such would be wholly unintelligible.  
 I leave the rest to your imagination; doesn't it sound to you a little like some of the accounts of "The Dweller on the Threshold?"  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
 1: This paper is still extant; I am unaware of details of publication. Internal evidence gives it an earliest possible date of 1920 – T.S.   
-  
+
 ### Chapter XXVIII: Need to Define "God", "Self", etc.  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Artless remark!  Oh you!  
 Well, I suppose it's a gift—to stir Hell to its most abysmal horror with one small remark slipped in at the end. Scorpion!  
 "Higher self"—"God within us."  
@@ -1906,35 +1907,35 @@ loathe them
 and da capo.  
 and to get on with your practice. Then when you get the results, you can try, albeit uselessly, to fit your own words to the facts, if you should wish to communicate, for any good reason, your experiences to other people.  
 Then, despairing of your impotence, how glad you will be that you have been trained not to let anyone fob you off with phrases.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally yours,  
-  
+
 666  
-  
+
 1: Crowley sometimes carries his despite for euphemism to a point that obscures his purpose. The use of the term "nigger" here gives such offense to the modern reader that the point can be missed!  
 This was not so in Crowley's youth, when this term was used without regard for its effect. For the record, "nigger" does not derive from "negro" = "black" but from "niggard" = "lazy." Crowley uses it here for the stereotype; but he also uses it deliberately to shock, as a lazy way to make such an effect. That makes Crowley a "nigger" at this point, as the word is properly defined! – WEH  
 2: Apocalpyse, XXII. 15.  
 3: Shipley's Dictionary of Word Origins sneaks the following in under the word "goodbye": "God, Goth.  guth, may be traced to Aryan ghut, god, from ghuto, to implore: God is the one to whom we pray." "God" might also be a contraction of "Odin", as "'Od"—have the English speaking Christians been praying to the Aesir all this time? – WEH.   
-  
+
 ### Chapter XXIX: What is Certainty?  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Well, I suppose I ought to have expected you to cock that wise left eyebrow at me! Right you are to wonder precisely what I mean by "certainty," in the light of:  
-  
+
 "On Soul's curtain Is written this one certainty, that naught is certain."  
-  
+
 Then there is that chapter in The Book of Lies (again!)1  
 The Chinese cannot help thinking that the Octave has five notes.  
 The more necessary anything appears to my mind, the more certain it is that I only assert a limitation.  
 I slept with Faith, and found a corpse in my arms on awaking; I drank and danced all night with Doubt, and found her a virgin in the morning.  
 I wouldn't start to argue with the Chinese, if I were you; they might remind you that you exude the stench peculiar to corpses.  
 Again, that other "Hymn to St. Thomas", as I ought perhaps to have called it:2  
-  
+
 Doubt.  
 Doubt Thyself.  
 Doubt even if thou doubtest thyself.  
@@ -1948,16 +1949,16 @@ Then, wind the Mort!
 Once more—what a book that is: I never realised it until now! it says—see that double page at the onset, one with "?" and the other with "!" alone upon the blank. Moreover you should read the long essay The Soldier and the Hunchback: ! And ? in the first volume and number of The Equinox.  
 But every one of those—rather significant, nich wahr?—slides into a rhapsody of exaltation, a dithyramb, a Paean.  No good here. For what you want is a penny plain pedestrian prose Probability-Percentage. You want to know what the Odds are when I say "certain."  
 A case for casuistry? At least, for classification. It depends rather on one's tone of voice? Yes, of course, and as to the classification, off we jog to the Divine Pymander, who saw, and stated, the quiddity of our query with his accustomed lucidity. He discerns three degrees of Truth; and he distinguishes accordingly:—  
-  
+
 1. True  
 2. Certain without error  
 3. Of all truth.3  
-  
+
 Clear enough, the difference between 1 and 2: ask me the time, I say half-past two; and that's true enough. But the Astronomer Royal is by no manner of means satisfied with any approximation of that kind. He wants it accurate. He must know the longitude to a second; he must have decided what method of measuring time is to be used; he must make corrections for this and for that; and he must have attached an (arbitrary) interpretation to the system; the whole question of Relativity pops up.  
 And, even so, he will enter a caveat about every single ganglion in the gossamer of his calculations.  
   It seems natural to me—apodeictic after a fashion—to treat Doubt as positive, even aggressive.  
 There is none of the wavering, wobbling, woebegone wail of the weary and bewildered wage-slave; it is a triumphant challenge, disagreement for its own sake. Irish! Browning painted a quite perfect picture of my Doubt.  
-  
+
 Up jumped Tokay on our table,  
 Like a pigmy castle-warder,  
 Dwarfish to see but stout and able,  
@@ -1974,7 +1975,7 @@ For twenty such knaves he should laugh but the bolder;
 And so, with his sword-hilt gallantly jutting,  
 And dexter hand on his haunch abutting,  
 Went the little man, Sir Ausbruch, strutting!  
-  
+
 It's not the least bit like Tokay; rather the Bull's Blood its neighbour, or any rough strong red wine like Rioja. Curious, though, his making him a hunchbacked dwarf; there must be something in this deep down. I wonder what! (Ask Jung!)  
 Well then, all this intricate differentiation and integration and verification and Lord knows what leads at last to a statement which may be called "Certain without Error."  
 Excuse me just a moment! When I was staying at the Consulate of Tengyueh, just inside the S.W.  frontier of China, our one link with England, Home, and Beauty was the Telegraph Service from Peking. One week it was silent, and we were anxious for news, our last bit of information having been that there was rioting in Shanghai, seventeen Sikh policemen killed. For all we knew the whole country might rise en masse at any moment to expel the "Foreign Devils." At last the welcome messenger trotted across from the city in the twilight with a whole sheaf of telegrams. Alas, save for the date of dispatch, the wording in each one was identical: each told us that it was noon in Peking!  
@@ -2001,24 +2002,24 @@ Not unaware am I that these conceptions are at first exceedingly difficult to fo
 The prime function of intellect is differentiation; it deals with marks, with limits, with the relations of what is not identical; in Neschamah all this work has been carried out so perfectly that the "rough working" has passed clean out of mind; just so, you say "I" as if it were an indivisible Unity, unconscious of the inconceivably intricate machinery of anatomical, physiological, psychological construction which issues in this idea of "I."  
 We may then with some confidence reaffirm that our certainties do assert our limitations; but this kind of limitation is not necessarily harmful, provided that we view the situation in its proper perspective, that we understand that membership of the of-all-Truth class does not (as one is apt to think at first sight) deepen the gulfs which separate mind from mind, but on the contrary put us in a position to ignore them. Our acts of "love under will," which express our devotion to Nuit, which multiply the fulfilments of our possibilities, become continually more efficacious, and more closely bound up with our Formula of Initiation; and we progressively become aware of deeper and vaster Images of the ofall-Truth class, which reconcile, by including within themselves, all apparent antinomies.  
 It is certain without error that I ought to go to bed.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 1: Chapter ME (45), "Chinese Music."  
 2: Chapter NA (51), "Terrier-Works."  
 3: This schema is, as far as I can tell, derived from a loose translation of the first line (or rather, preamble), of the "Emerald Tablet" a "Hermetic" writing believed to be of Alchemical significance (the earliest known copies are in Arabic). It is more usually rendered along the lines of "True without error, certain and most true." I do not know the origins of the "of All Truth" reading – T.S.  
 4: A detective in sensational fiction of the period – T.S.   
-  
+
 ### Chapter XXX: Do you believe in God?  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 You are quite right, as usual. True, we have gone over a great deal of the ground in various learned disquisitions of Gods, Angels, Elves, et hoc genus omne.  
 But God with a capital "G" in the singular is a totally different pair of Blüchers—nicht wahr?  
 Let me go back just for a moment to the meaning of "belief." We agreed that the word was senseless except as it implies an opinion, instinct, conviction—what you please!—so firmly entrenched in our natures that we act automatically as if it were "true" and "certain without error," perhaps even "of the essence of truth.”1 (Browning discusses this in Mr Sludge the Medium.) Good: the field is clear for an enquiry into this word God.  
@@ -2034,46 +2035,46 @@ She went on without a word from me for a long while, tying herself up into fresh
 In the end, "curiouser and curiouser," she arrived at a practically identical conclusion: she believed, but what she believed in was Nothing!  
 As to our old criterion of what we imply in practice when we say that we believe, she began by saying that If we "helped" God in His mysterious plan, He would in some fashion or other look after us. But about this she was even more vague than in the matter of intellectual conviction; "helping God" meant behaving decently according to one's own instinctive ideas of what "decently" means.  
 It is very encouraging that she should have seen, without any prompting on my part, to what a muddle the question necessarily led; and very nice for me, because it lets me out, cara soror!  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 P.S. I thought it a good plan to put my fundamental position all by itself in a postscript; to frame it.  
 My observation of the Universe convinces me that there are beings of intelligence and power of a far higher quality than anything we can conceive of as human; that they are not necessarily based on the cerebral and nervous structures that we know; and that the one and only chance for mankind to advance as a whole is for individuals to make contact with such Beings.  
-  
+
 1: Crowley is alluding to the preamble to the "Emerald Tablet of Hermes" which is more usually translated along the lines of: "True, without error (or "falsehood"), certain and most true." – T.S.  
 2: The original had the symbols for alchemical mercury, sulphur and salt.   
-  
+
 ### Chapter XXXI: Religion–Is Thelema a "New Religion"?  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 "Would you describe your system as a new religion?" A pertinent question, you doubtless suppose; whether it may happen to mean anything is—is—is—well, is what we must try to make clear.  
 True, it's a slogan of A.'. A.'. "The method of science—the aim of religion.& Here the word "aim" and the context help the definition; it must mean the attainment of Knowledge and Power in spiritual matters—or words to that effect: as soon as one selects a phrase, one starts to kick holes in it! Yet we both know perfectly well all the time what we do mean.  
 But this is certainly not the sense of the word in your question. It may clear our minds, as has so often happened, if we examine it through the lens of dear old Skeat.  
 Religion, he says, Latin: religio, piety. Collection or paying attention to: religens as opposed to negligens, neglecting; the attitude of Gallio. But it also implies a binding together i.e. of ideas; in fact, a "body of doctrine." Not a bad expression. A religion then, is a more or less coherent and consistent set of beliefs, with precepts and prohibitions therefrom deducible. But then there is the sense in which Frazer (and I) often use the word: as in opposition to "Science" or "Magic." Here the point is that religious people attribute phenomena to the will of some postulated Being or Beings, placable and moveable by virtue of sacrifice, devotion, or appeal. Against such, the scientific or magical mind believes in the Laws of Nature, asserts "If A, then B"—if you do so-and-so, the result will be so-andso, aloof from arbitrary interference. Joshua, it is alleged, made the sun stand still by supplication, and Hezekiah in the same way cause it to "go back upon the dial of Ahaz;" Willett did it by putting the clock back, and getting an Act of Parliament to confirm his lunacy. Petruchio, too "It shall be what o'clock I say it is!" The two last came close to the magical method; at least, to that branch of it which consists of "fooling all the people all the time." But such an operation, if true Magick were employed, would be beyond the power of any magician of my acquaintance; for it would mess up the solar system completely. (You remember how this happened, and what came of it, in a rather clever short story by H.G. Wells.) For true Magick means "to employ one set of natural forces at a mechanical advantage as against another set"—I quote, as closely as memory serves, Thomas Henry Huxley, when he explains that when he lifts his water-jug—or his elbow—he does not "defy the Law of Gravitation." On the contrary, he uses that Law; its equations form part of the system by which he lifts the jug without spilling the water.  
 To sum up, our system is a religion just so far as a religion means an enthusiastic putting-together of a series of doctrines, no one of which must in any way clash with Science or Magick.  
 Call it a new religion, then, if it so please your Gracious Majesty; but I confess that I fail to see what you will have gained by so doing, and I feel bound to add that you might easily cause a great deal of misunderstanding, and work a rather stupid kind of mischief.  
-  
+
 The word does not occur in The Book of the Law.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 ### Chapter XXXII: How can a Yogi ever be Worried?  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 That question I have been expecting for a very long time! And what you expect is to see my middle stump break the wicket-keeper's nose, with the balls smartly fielded by Third Man and Short Leg!  
 I admit that it looks like a strong case. Here (you put it in your more elegant prose) we have a Yogi, nay more, a Paramahamsa, a Bodhisattva of the best: yea, further, we have a Master of the Temple—and is not his Motto "Vi veri vniversom vivus vici?" and yet we find him fussing like an old hen over the most trivial of troubles; we find him wrapped in the lacustrine vapours of Avernus, fretting himself into a fever about imaginary misfortunes at which no normal person would do more than cast a contemptuous glance, and get on with the job.  
 Yes, although you can scarcely evade indictment for unnecessarily employing the language of hyperbole, I see what you mean. Yet the answer is adequate; the very terms of his Bargain with Destiny not only allow for, but imply, some such reaction on the part of the Master to the Bludgeonings of Fate. (W. E. Henley )  
@@ -2086,21 +2087,21 @@ That tiger across the paddy-field looks hungry. There are several ways of dealin
 One can run away, or climb a tree, or shoot him, or (in your case) cow him by the Power of the Human Eye; but the way of the Tao is to take no particular notice. (This, incidentally, is not such bad Magick; the diversion of your attention might very well result in your becoming invisible, as I have explained in a previous letter.) The theory appears to be that, although your effort to save yourself is successful, it is bound to create a disturbance of equilibrium elsewhere, with results equally disastrous. Even more so; it might be that to be eaten by a tiger is just what you needed in your career through the incarnations; at that moment there might well be a vacancy somewhere exactly where it will do most good to your Great Work. When you press on one spot, you make a corresponding bulge in another, as we often see a beautiful lady, unhappy about her waistline, adopt drastic measures, and transform herself into the semblance of a Pouter Puffin!   
 In theory, I am particularly pleased about this Method, because it goes for everybody, requires no knowledge, no technical training, "no nuffin." All the same, it won't do for me, except in a much modified form, and in very special cases; because no course of action (or inaction) is conceivable that would do great violence to my nature.  
 So let me worry along, please, with the accent on the "along;" I will grin and bear it, or, if it gets so bad that I can't do my Work, I will make the necessary effort to abate the nuisance, always most careful to do as little damage as possible to the main current of my total Energy.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
   An English poet.   
-  
+
 ### Chapter XXXIII: The Golden Mean  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 You would think that one who like myself has the Sun, the Lord of His Horoscope, in Libra, with Venus who rules that sign in close conjunction with him, with Saturn trine, Uranus sextile, Mars square and Luna quincunx to him, would wear the Golden Mean as a breastplate, flaunt it on my banneret, quarter it on my escutcheon, and grave it on the two-edged blade of my thrice trusty falchion!  
 Just so, objects that instinct itself! "Had you been born a few hours earlier, with Aries rising, its lord Mars aggravated by the square of Sol and Venus, you would indeed have been a Wild Man of the Woods, arrogant, bigoted, domineering, incapable of seeing a second side to any question, headstrong, haughty, a seething hell-broth of hate; and this fact disables your judgment."  
 All perfectly true. My equable nature is congenitally hostile to extreme measures, except in imagination. I cannot bear sudden violent movements. Climbing rocks, people used to say that I didn't climb them, that I oozed over them!  
@@ -2123,39 +2124,39 @@ The Book of the Law constantly implies a very different policy; listen to its cl
 Remember that which is written: "Moderate strength rings the bell: great strength returns the penny."  
 It is always the little bit extra that brings home the bacon. It is the last attack that breaks through the enemy position. Water will never boil, however long you keep it at 99° C. You may find that a Pranayama cycle of 10-20-30 brings no result in months; put it up to 10-20-40, and Dhyana comes instantly. When in doubt, push just a little bit harder. You have no means of finding out what are exactly the right conditions for success in any practice; but all practices are alike in one respect; the desired result is in the nature of orgasm.  
 I guess that's about what I think.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 ### Chapter XXXIV: The Tao (1)  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 This is the hardest question you have yet put to me: to explain the Tao. The only proper answer would be Silence, trusting to the slow dispersion and absorption of the disturbance created by your asking it. In that sentence there lies, really, the whole explanation; but I see well enough that it won't do for you. You are not yet old or wise enough to understand that the only way to clear muddy water is to leave it alone. Still, you doubtless expect me to tell you just how that comes to pass; I will not disappoint you. First of all, what is the Tao? No proposed equivalent in any other language comes within a billion light-years of giving even an approximation. For one thing, it is itself a paradox; for another, it has several meanings which are apparently quite distinct. For instance, one sinologist calls it "Reason"; another, "The Way"; another "Tat" or "Shiva." These are all true in one sense or another. My own "White Hope" (see The Book of Thoth) is to identify it with the Qabalistic Zero. This last attribution is useful, as I will show presently, for hard practical reasons; it is an assumption which indicates the method of the Old Wise One who approaches the Tao.  
 As you know, the supreme classic of this subject, is the Tao Teh King; and I must suppose that you have read this in at least one of the several translations, else I should have to start by pushing my own version at you. (This has been ready for a quarter of a century, and I seem to be unable to get it printed!) None of these published translations, learned and admirable though they may be as such, can be of use except to familiarise you with the terminology; for not one of these scholars has the most nebulous idea of that Laotze was talking about. I can hardly hope to emphasize sternly enough how deep and wide is the "Great Gulf fixed" between the initiate and the profane, when questions of this kind are on the Magic Carpet. Suppose you were transported (on that Carpet!) to a planet where the highest means of reproduction was germination; try to make the denizens understand Catullus, Shelley, Rossetti, or Emily Bronte!  
 It is, honestly, quite as bad as that. How can anyone grasp the idea of perfect and absolute negation being at the same time the sole motive force of all that exits?  
-  
+
 "Tao hath no will to work;  
 But by its influence even  
 The Moon and Sun rejoice to run  
 Among the starry Seven."  
 King Kang Khang.1  
-  
+
 The Book of the Law states the doctrine of Tao very succinctly: "...thou hast no right but to do thy will. Do that, and no other shall say nay. For pure will, unassuaged of purpose, delivered from the lust of result, is every way perfect." (AL I, 42-44)  
 "Thus also the Sage, seeking not any goal, attaineth all things; he does not interfere in the affairs of his body, and so that body acteth without friction. It is because he meddleth not with his personal aims that these come to pass with simplicity." Tao Teh King, VII, 2.  
 The ideal analogy seems to be that of a planet in its orbit. It has its "true motion;" it meets the minimum of friction from circumambient space. When it suffers the attraction of another body, it sways slightly to make the proper adjustment without effort or argument; it can, consequently, continue indefinitely in its orbit.  
 This is roughly the plan of the Taoist in his attitude to life. Having ascertained the Path which satisfies the equations of his Nature (as we say, "found his True Will") he continues "without lust of result," acting only when it happens to be necessary to adjust himself to any external stress that affects him, and so proceeds happily  
-  
+
 "thinking of a way  
 To feed oneself on batter,  
 And so go on from day to day  
 Getting a little fatter."  
-  
+
 —assuming that his "True Will" is of that variety. Basil King Lamus asserts this in The Diary of A Drug Fiend when he says: "If I were a dog, I should bark; if I were an owl, I should hoot." It is rather like the pattern in the game of dominoes; you put the card that matches. No other consideration comes into it at all.  
 It is the extreme simplicity of this idea which baffles people's minds, and the universal quality of impatience which makes everybody fidget, and so injure the delicacy of the "fine adjustment" which is the essence of the work.  
 When I used to climb rocks, I never jumped, I never grabbed, I never made a sudden or a violent movement; therefore, with thin smooth arms like a young girl's, and legs, tough enough it is true but always slow and steady, I used to find myself at the top of pitches that had beaten all the gymnasts.  
@@ -2166,34 +2167,34 @@ As I said above, it is a matter of Neschamah; but what follows may help you.
 Why is the Tao translated "Reason"? Because by "Reason" is here meant the structure of the mind itself; a Buddhist who had succeeded with Mahasatipatthana might call it the Consciousness of the Tendency to Perceive the Sensation of Anything. For in the last resort, and through the pursuit of one line of analysis, this structure is all that we can call our consciousness. Everything of which we can in any way be aware may be interpreted as being some function of this structure.  
 Note! Function. For now we see why Tao may also be translated "The Way"; for it is the motion of the structure that we observe. There is no Being apart from Going.  
 You are familiar with the Four Powers of the Sphinx, attributed by the Adepts of old time to their Four Elements.  
-  
+
 Air is to Know, Scire; Fire is to Will, Velle; Water is to Dare, Audere; and Earth is to Keep Silence, Tacere. But now that a fifth Element, spirit, is generally recognised in the Qabalah, I have deemed it proper to add a Fifth Power corresponding: to Go, Ire. (Book of Thoth, p. 275) 3  
-  
+
 Then, as Spirit is the Origin, the Essence, and the Sum of the other four, so is to Go in relation to those powers. And to Go is the very meaning of the name God, as elsewhere shewn in these letters; hence the Egyptian Gods were signalised as such by their bearing the Ankh, which is a Sandal-strap, and in its form the Crux Ansata, the Rosy Cross, the means whereby we demonstrate the Godhead of our Nature. See then how sweetly each idea slides into the next! How right this is, that the Quintessence should be dynamic and not static! For if there were some form of Being separate from Going, it would necessarily be subject to decay; and, in any case, a thing impossible to apprehend, since apprehension is itself an Act, not an idea immobile which would be bound to change in the very moment of grasping it.  
 As I have tried to shew in another letter, the "Point-Event" (or whatever it is) of which we are aware is a change, or, less inaccurately, the memory of one; the things that change remain relentlessly unknown.  
 It does seem to me, young woman, that you ought to go over these ideas again and again, familiarising yourself intimately with this process of passing from one to another, so intimately that it becomes automatic and spontaneous for you to run round the circle in perfectly frictionless ease; for otherwise your mind will be for ever pestering you all your life, and even your conscience reproaching you; they will say "But you have never got a definite answer to any single one of your original questions." We are all—most of us, anyhow—born with this hankering after the definite; it is our weakness that yearns for repose. We do not see that this is death; if any of these answers could be cut off short and neatly trimmed with paper frills like a ham, it would no longer be even an approximation to truth.  
 I am quite sure that this is the Doctrine of the Tao, and of opinion that no other body of teaching puts forward its thought more clearly or more simply.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: The Khing Kang King, or "Classic of Purity" is a short Taoist writing attributed to one Ko Yüan (or Hsüan); an English translation by James Legge appeared as an appendix to the two volumes of Taoist texts in the "Sacred Books of the East" series. While he was in America between 1914 and 1919 Crowley wrote a poetic paraphrase which he designated Liber XXI. The verse quoted was originally translated by Legge as "The Great Tâo has no passions, but It causes the sun and moon to revolve as they do." I do not currently have access to any modern translations – T.S.  
 2: The Fourth Dimension by C.H. Hinton; London, 1884; facsimile reprint by Kessinger available – T.S.  
 3: The initials of the five "powers" in the Latin language thus form the initials of Sub Umbra Alarum  
 Tuarum, Iehova (or Isis). Compare the concluding prayer of the Fama Fraternitatis – T.S.   
-  
+
 ### Chapter XXXV: The Tao (2)  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 You are only one of a number of people who are interested in my translation of the Tao Teh King.  
 Naturally, I want to publish it; but so many other things come first. So I am sending you the Introduction, in the hope that it will stimulate that interest to the point of getting some other publisher to give it sea-room.1  
-  
+
 I bound myself to devote my life to Magick at Easter 1898 (era vulgari) and received my first initiation on November 18 of that year.  
 My friend and climbing companion, Oscar Eckenstein, gave me my first instructions in learning the control of the mind early in 1901, in Mexico City. Shri Parananda, Solicitor General of Ceylon, an eminent writer upon, and teacher of, Yoga from the orthodox Shaivite standpoint, and Bhikkhu Ananda Mettaya, (Allan Bennett) the great English Adept, who was one of my earliest instructors in Magick, and joined the Sangha in Burma in 1902, gave me my first groundings in mystical theory and practice. I spent some months of 1901 in Kandy, Ceylon with the latter, until success crowned my work.  
 I also studied all varieties of Asiatic philosophy, especially with regard to the practical question of spiritual development, the Sufi doctrines, the Upanishads, the Sankhra, Veda and Vedanta, the Bhagavad-Gita and Purana, the Dammapada, and many other classics, together with numerous writings on the Tantra and Yoga of such men as Patanjali, Vivekananda, etc., etc. Not a few of these teachings are as yet wholly unknown to scholars. I made the scope of my studies as comprehensive as possible, omitting no school of thought however unimportant or repugnant.  
@@ -2217,27 +2218,27 @@ Such experience is only to be attained by unswerving application to the practice
 Nor must the aspirant content himself with the mere attainment of spiritual enlightenment, however sublime. All such achievements are barren unless they be regarded as the means rather than the end of spiritual progress; allowed to infiltrate every detail of the life, not only of the spirit, but of the senses. The Tao can never be known until it interprets the most trivial actions of every day routine.  
 It is a fatal mistake to discriminate between the spiritual importance of meditation and playing golf.  
 To do so is to create an internal conflict. "Let there be no difference made among you between any one thing & any other thing; for thereby there cometh hurt." He who knows the Tao knows it to be the source of all things soever; the most exalted spiritual ecstasy and the most trivial internal impression are from our point of view equally illusions, worthless masks, which hide, with grotesque painted pasteboard false and lifeless, the living face of truth. Yet, from another point of view, they are equally expressions of the ecstatic genius of truth—natural images of the reaction between the essence of one's self and one's particular environment at the moment of their occurrence. They are equally tokens of the Tao by whom, in whom, and of whom, they are. To value them for themselves is to deny the Tao and to be lost in delusion. To despise them is to deny the omnipresence of the Tao, and to suffer the illusion of sorrow. To discriminate between them is to set up the accursed dyad, to surrender to the insanity of intellect, to overwhelm the intuition of truth, and to create civil war in the consciousness.   
-  
+
 From 1905 to 1918 the Tao Teh King was my continual study. I constantly recommended it to my friends as the supreme masterpiece of initiated wisdom, and I was as constantly disappointed when they declared that it did not impress them, especially as my preliminary descriptions of the book had aroused their keenest interest. I thus came to see that the fault lay with Legge's translation, and I felt myself impelled to undertake the task of presenting Lao Tze in language informed by the sympathetic understanding which initiation and spiritual experience had conferred on me. During my Great Magical Retirement on Aesopus Island in the Hudson River during the summer of 1918, I set myself to this work, but I discovered immediately that I was totally incompetent. I therefore appealed to an Adept named Amalantrah, which whom I was at that time in almost daily communication. He came readily to my aid, and exhibited to me a codex of the original, which conveyed to me with absolute certitude the exact significance of the text. I was able to divine without hesitation or doubt the precise manner in which Legge had been deceived. He had translated the Chinese with singular fidelity, yet in almost every verse the interpretation was altogether misleading. There was no need to refer to the text from the point of view of scholarship. I had merely to paraphrase his translation in the light of actual knowledge of the true significance of the terms employed.  
 Anyone who cares to take the trouble to compare the two versions will be astounded to see how slight a remodelling of a paragraph is sufficient to disperse the obstinate obscurity of prejudice, and let loose a fountain and a flood of living light; to kindle the gnarled prose of stolid scholarship into the burgeoning blossom of lyrical flame.  I completed my translation within three days, but during the last twenty years I have constantly reconsidered every sentence. The manuscript has been lent to a number of friends, scholars who have commended my work, and aspirants who have appreciated its adequacy to present the spirit of the Master's teaching. Those who had been disappointed with Legge's version were enthusiastic about mine. This circumstance is in itself sufficient to assure me that Love's labour has not been lost, and to fill me with enthusiastic confidence that the present publication will abundantly contribute to the fulfilment of my True Will for which I came to earth. Let us wring from labour and sorrow the utmost of which humanity is capable. Fulfil my Will to open the portals of spiritual attainment to my fellowmen, to bring them to the enjoyment of that realisation of Truth, beneath all veils of temporal falsehood, which has enlightened mine eyes and filled my mouth with song.  
 So there you are.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: The bulk of this letter is Crowley's introduction to his "translation" of the Tao Teh King (now more usually transliterated Dao De Jing) which, as he indicates, was rather a revision and free paraphrase of Legge's translation. It was finally published, along with Crowley's commentary, in two different editions in the mid-1970s. One of these was reprinted in 1995 by Weiser, with Liber XXI, (a verse  
 paraphrase by Crowley of a shorter Taoist writing) as an appendix – T.S.  
 2: Greek., "Being" or "the Existent."   
-  
+
 ### Chapter XXXVI: Quo Stet Olympus: Where the Gods, Angels, etc. live  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 We settled what Gods, angels, demons, elementals were some little while ago; we also wrote of how they live, so now, insatiable Seeker, you ask where.  
 But surely, even as a child—did you not sing that immemorial Gregorian plain-chant  
 "There's a Friend for little children Above the bright blue sky."  
@@ -2252,19 +2253,19 @@ Nothing but empty space with swarming galaxies; no room for "heaven." Simpler to
 Yet all the time the difficulty is of our own silly making. The most elementary consideration of the nature of Gods, angels, demons, and the rest, as shown by their peculiar faculties, stamps them all instantly as Beings pertaining to more than three dimensions! Just as no number of lines is enough to produce the smallest plain, as a cube is capable of containing an infinite number of squares, so, far from there being no room for heaven, there is absolutely nothing but room!  
 Yet of course the nature of that space is for ever incomprehensible, nay inconceivable, by any being of a lower dimension. Only when we have succeeded in uniting our Conscious (three-dimensional) with our Unconscious (four-dimensional) Self can we expect even a symbolic conception of how things go on "in them furrin parts."  
 Speculation on such points is unpardonably profitless; I have only devoted these few paragraphs to the subject because it is useful to rebut the somewhat soapbox type of critic who thinks to rebut the whole thesis "Sunt Daemones" by the snook-cocking query "Quo Stet Olympus."  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 ### Chapter XXXVII: Death—Fear—"Magical Memory"  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 You ask me, very naturally, for details of the promise of Nuit (AL I, 58) "...certainty, not faith, while in life, upon death; ..."  
 In the first place, I think that it means what it says. There may be, probably is, some Qabalistic inner meaning: Those four nouns most assuredly look as if there were; but I don't feel at all sure what the Greek (or Hebrew, or Arabic) words would be; in any case, I have not yet made any attempt in this direction.  
 To the straightforward promise, then! Certainly no word more reassuring could be given. But avoid anxiety, of course; remember "without lust of result," and AL III, 16: "Deem not too eagerly to catch the promises; ..." Now, full speed ahead!  
@@ -2301,17 +2302,17 @@ Of the Mary Queen of Scots persuasion was old Lady Caithness, who seems moreover
 Well, that was a big laugh, of course; it tended to discredit the whole theory of Reincarnation.  
 Quite unnecessarily, if one looks a little deeper.  
 What do I mean when I say that I think I was Eliphaz Lévi? No more than that I possess some of his most essential characteristics, and that some of the incidents in his life are remembered by me as my own. There doesn't seem any impossibility about these bundles of Sankhara being shared by two or more persons. We certainly do not know enough of what actually takes place to speak positively on any such point. Don't lose any sleep over it.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: Lat., "You've hit the nail on the head" (lit. "touched the matter with a pin."   
-  
+
 ### Chapter XXXVIII: Woman—Her Magical Formula  
-  
+
 Issa.  
 Wine rots the liver; fever swells the spleen;  
 Meat clogs the belly; dust inflames the eye;  
@@ -2320,13 +2321,13 @@ Man born of woman is most full of trouble;
 God, a gorged fool that belches him, a bubble!  
 But of all plagues wherewith a man is cursed,  
 Take my word for it, woman is the worst!  
-  
+
 The World's Tragedy  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 "Pibrock of Dhonuil Dhu,  
 Kneel for the onset!"  
 for this letter is to put Woman once and for ever in her place.1  
@@ -2371,9 +2372,9 @@ Blue am I and gold in the light of my bride: but the red gleam is in my eyes; & 
 Lest it should all prove too difficult, I have not quoted several passages which are completely beyond my comprehension; even in those here set down, there is quite a little that I should not care to boast that I had altogether clear in my own mind.  
 Leaving out nearly everything, the only way to simplify it is to call Hadit the "Point-of-view," and "Anywhere" to be the radix of all possible "Point-Events," or "experiences," or "phenomena;" Nuit is the complement, the total possibilities of any such radix. You can only get this properly into that part of your mind which is "above the Abyss," i.e. Neschamah: even so, Neschamah must be very thoroughly fertilised by Chiah, and illuminated by Jechidah, to make any sort of a job of it.  
 But to come down from the contemplation of Abstract Reality (which, being static and "infinite," is ultimately immeasurable) to these Ideas in their interaction (and thus directly observable), it is easy enough to understand the Magical Formula of their interaction. Of course, whatever I say can be no more than a rough approximation, even a suggestion rather than a statement; but I cannot help the nature of the case. Nuit is the centripetal energy, infinitely elastic because it must fit over the hard thrust directed against it; Hadit, the centrifugal, ever seeking to penetrate the unknown. Nuit is not to dissimilar from the Teh described in Lao-Tze.  
-  
+
 Nor would it be proper to ignore the Book of Lies:  
-  
+
 PEACHES  
 Soft and hollow, how thou dost overcome the hard and full!  
 It dies, it gives itself; to Thee is the fruit!  
@@ -2382,7 +2383,7 @@ To all impressions thus. Let them not overcome thee; yet let them breed within t
 impressions, come to its perfection, is Pan.  
 Receive a thousand lovers; thou shalt bear but One Child.  
 This child shall be the heir of Fate the Father. (p. 12) 5  
-  
+
 I want you to realise that this collaboration of the equal opposites is the first condition of existence in any form. The trouble (I think) has always been that nobody ever looked at things from outside; they were always at one end or the other. This is because one haphazard collection of Point-Events chooses to think of itself as a Male; another, as a Female. It is totally absurd to think of Winnie as a woman, and Martin as a man. The quintessence of each is identical: "Every man and every woman is a star." It is only a superficial accident that has made one set determine to function in one particular incarnation as the one or the other. I say function; for there is no difference in the Quintessence.  
 Yet, since it is with a Being in its present function that one has to deal, it needs must that one acts in practice as if "does" were the same as "was." ou might be described as one instance of the 0 = 2 equation, and I as another; and any 0 = 2 is indistinguishable from any other. Yet you and I are not identical, because all that I can know of you, or you of me, is a presentation of a part of that 0 = 2 "Universe;" if we were both equally conscious of that Whole, there would be no means of becoming aware, as we are in fact aware, of that distinction.  
 Somewhat of this is perhaps intended in The Book of the Law:  
@@ -2393,20 +2394,20 @@ The case is not wholly unlike that of a man on a mountain who should see two oth
 I don't believe I can put it much better than that, and I'm too lazy to try; but I do want to emphasise that Weininger (in Sex and Character) merely scratched the surface. All of us, whether we are "full of strange oaths and bearded like the pard" or "in our hours of ease Uncertain, coy, and hard to please" do in every most minuscule sort of act exercise both the male and female functions almost equally; the determination is rarely more than a matter of a casting vote.  
 It is so even in the embryo. It is much less than 1/10 of 1% that decides whether the foetus will turn out an Alexander or an Alice. Nature delights in delicate touches of this sort; it is one part of Sulphuric Acid in I don't remember how many million parts of water that is enough to turn blue litmus red; and even with our own gross apparatus we can arrange for a ten-thousandth part of a grain to send a scale down with a bang. Think of a roulette ball hovering on the edge at the end of a long spin! Think of Buridan's ass!  
 So, once for all, shut up, you screaming parrot! Gabble, gabble, gabble, it's enough to break one's tympana, and drive a man stark staring mad.  
-  
+
 Shut up!  
 Shut up!!  
 Shut UP!!!  
 These women!  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 P.S. One ought, perhaps, to give an outline of how these facts work out in the social system of Thelema. It may be useful to classify women in three groups, (I exclude the fourth, which while anatomically woman, does not function in that capacity: the "spinster.") corresponding to Isis, Osiris and Horus.  
-  
+
 The Isis-Class consists of the mother-type. To them the man is no more than the necessary creator and sustainer of her children.  
 The Osiris-Class comprises those women who are devoted to their man qua man, and to his career.  
 Her children, if any, she values as reproductions of the Beloved; they carry him on into futurity by virtue of her deathless love.  
@@ -2414,20 +2415,20 @@ The Horus-Class is composed of those women who remain children, the playgirls, w
 Each of these classes has its qualities and its defects; each should be held in equal, although dissimilar, honour.  
 And what, you ask, has the man got to say about all this? Nothing simpler; all women are subordinate to his True Will. Only the Osiris-Class, provided he can find one of them, are of more than transient use to him; and even in this case, he must be careful to avoid being ensnared.  
 But the really important issue is the recognition of each type of True Will in woman.  
-  
+
 1: Develop something here about Benny Hill to orient people toward Crowley's sense of humour, et al. – WEH. I have left this note as I found it in the plaintext. I am not familiar with the works of Benny Hill (British comedian, fl. 1970s I believe) – T.S.  
 2: Arthur Schopenahauer (1788-1860), German philosopher. One of the first Western philosophers to emphasise the notion of the Will, he may have been an influence on Crowley's development of the concept of Thelema, although contra Crowley, Schopenhauer believed that the Will was evil and should be denied. The reference in this instance is probably to the essay "On Women" (in Schopenhauer's Parerga und Paralipomena) one of the most notoriously misogynistic rants in the history of Western philosophy. Crowley is presumably being ironic here – T.S.  
 3: In the MS the word "disunion" appears at this point but it has been crossed out and "division" written in above – T.S.  
 4: Actually the amended reading is in the same hand as the original. There are two points in the MS where Ouada (Crowley's wife Rose) has supplied a missing or indistinctly heard phrase, and the first is in one of the lines here quoted, to wit I.60 where before "My colour is black &c." is an insertion mark, with "(Lost 1 phrase)" in Crowley's hand above, and below, "The shape of my star is —" also in Crowley's hand, then in another hand "The Five Pointed Star, with a Circle in the Middle, and the circle is Red." (I am not convinced that the initial 'f' of 'five' is actually a capital, but it is impossible to be certain given the small sample of Rose's handwriting on the MS of AL, and it is the same shape as the  
 initial 'f' in 'force' (III, 72) which is also transcribed as a capital) – T.S.  
 5: Cap. . (4); p. 18 of the second edition.   
-  
+
 ### Chapter XXXIX: Prophecy  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Now, now, now! I really had hoped that this at least you might have spared me. Still, I have to admit that your reason for asking me to go all pontifical about Prophecy is a good one; you want a chucker-out for the loafers that come cadging into your Taverne de la Belle Sibylle, and waste your time with piffle about Pyramids.  
 What a game!  
 So naturally you need a Book of the Rules, and a list of the classes of offensive people, whether prostitutes, policemen, or verminous persons. (I quote from the Regulations for secular Pubs!) who think the easiest of all possible refuges from their Fear (see other letters!) is reliance upon the mouldy mumblings of moth-eater mountebanks.  
@@ -2447,7 +2448,7 @@ In the end now, that's the question; answer that!
 Had I seen, perhaps, what hand was holding mine,  
 Leading me whither, I had died of fright  
 So, I was made believe I led myself.   
-  
+
 2. The date of the prophecy must antecede that of its fulfilment. The very greatest care must be taken to insure this. When both dates are remote, as in the case of "fulfilled" Biblical prophecies, this is often impossible.  
 3. The prophecy must be precise. This rules out cases where alternative verifications are possible.  
 4. The prophecy must be more than a reasonable calculation of probability. This rules out stuff like "The Burden of Nineveh”1 and the like. Incidentally, "The Burden of Damascus" does not seem to have had much luck so far! By latest accounts, the old burg wasn't feeling too badly.  
@@ -2518,13 +2519,13 @@ Nine months elapsed, and I was able to overprint, also to reprint, enlarged to f
 I have always maintained that Munich marked the true outbreak of the war, because Hitler's rape of Czechoslovakia, however justifiable, was irreconcilably incompatible with our Foreign Policy; and Munich is Nine Months to a day after my Gesture.  
 This then I consider a completely documented case of Prophecy.  
 And I shall be a completely documented case of Brain-Fag unless I shut up NOW.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: Nahum I.1  
 2: Apocalypse, XXII, 20.  
 3: See First Maccabees, I. 54, and the back-dated "prophecies" of pseudo-Daniel (XI. 31, XII. 11); the reference was to the erection of a statue to Zeus-Serapis in the Temple of Jerusalem by Antiochus Epiphanes following his conquest of Judea – T.S.  
@@ -2535,13 +2536,13 @@ Yours fraternally,
 8: sic., should be 1930 – T.S.  
 9: The postscript was apparently hand-written by Crowley into one of his copies of Magick in Theory and Practice.  
 10: See "An Evocation of Bartzabel the Spirit of Mars" in Equinox I (9), and "The Bartzabel Working" (Liber CCCXXV) in Equinox IV (2) – T.S.   
-  
+
 ### Chapter XL: Coincidence  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 When I was writing that letter about prophecy, I was hot and bothered all the time by my faithful sentinel, the well-greased Hoplite that stands at the postern of my consciousness, ready to challenge every thought—and woe to the intruder who cannot give the countersign! This time the dear old ruffian thought the matter serious enough to report Higher Up. "It is put plainly enough, emphatically enough, incontrovertibly enough" was the gist of his communication "that the first and most irretrievable trick of the enemy is to dupe you into passing Captain Coincidence as 'Friend,' whereas he is naturally the most formidable of all your foes when it comes to a question of proof."  
 Quite right, Sergeant-Major! But it is not only about prophecy, but about all sorts of things, in particular, of course, the identification of angels and similar problems.  
 Well, we have captured quite a few lads of the company of Captain Coincidence; let us have them up for examination and learn what we can about their weapons and other warlike matters!  
@@ -2561,10 +2562,10 @@ And if they fall, they dash themselves to pieces.
 Richard III, Act I, Sc. 3.  
 Now here's a story that's too good to lose; not the mistiest phantasm of an ideogram how to class it; for one thing, it's chock-a-block with moral lessons and economic theories and political summats; but there's coincidence in it somewhere, and under coincidence down it shall go. Even if only by coincidence.  
 From 1895 e.v. onwards I dealt with Colin Lunn.  
-  
+
 "Of all the tobacconists under the sun,  
 There is none, there is none, like the great Colin Lunn—"  
-  
+
 of Sidney Street, Cambridge. When I started round the world, alas for fidelity! I began to forget him.  
 By 1906 e.v. the operation was practically complete.  
 In '42 e.v. I spent a few days with friends in Cambridge. Sauntering along K.P. (King's Parade to you, madam!) on my way back to the station with half an hour or so to kill, I thought I would pop in to Lunn's new shop there, and pass the time of day. He might have something to take my fancy. So I did. Needless to say, I didn't know the shop man from Adam, as he did not offer me a view of his identification mark. I asked after old friends; we gossiped of old times and new; presently he observed, putting a hand under the counter: "I think this is yours sir." "How do you know who I am?  
@@ -2576,9 +2577,9 @@ The ship arrived at Aden without incident. While she was coaling, it was the idl
 I hope you don't think I'm letting my pen run away with me:  
 "Pens! Good Lord,  
 Who knows if you drive them or they drive you?"  
-  
+
   Indian Civil Servant.  
-  
+
 No, I have not forgotten that I am here to instruct as well as to amuse: also, to make certain observations which will, I flatter myself, be rather new to you.  
 I plunge headlong.  
 Everything that happens, no matter what, is an inconceivably improbable coincidence. You remember how you had to begin when you first came to me for help. I said to you, "Here are you, and no other person, come to see me, and no other person, in this room, and no other room, at this time, and no other time. How did that come about?" The answer to that question is the first entry in your Magical Diary: and, with a slightly different object in view, the first step in the practice of Liber Thisharb and the acquisition of Magical Memory.  
@@ -2597,19 +2598,19 @@ Extend this line of thought a little, and link it up with what I was saying abou
 How then can any event be more improbable than any other? Why, very simply. Go back to Monte; proclaim that at Table No. 3 Black will turn up 7 times running, after this next spin. (Or, of course, any other series of 7.) Now you see how Coincidence links up with Prophecy!  
 A fortiori, Coincidence is destroyed by Purpose, if, wishing to enlighten you on the subject, I write this letter and post it to your address, your receipt of it is no longer Coincidence. So then coincidence must be entirely both unforeseen and unintentional; in other words, absolutely senseless. But we have just proved that the Universe is nothing but Coincidence; it therefore is senseless.  
 So, having established the asymptote of our hyperbolic hyperbola, and shewn it to be asynartete, why should we not acquiesce, and say olive oil?  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 ### Chapter XLI: "Are we Reincarnations of the Ancient Egyptians?"  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 That accursed conscience of mine has been pricking me ever since I dashed off that rather curt and off-hand letter card in answer to yours of the 18th. I had intended as a matter of fact to let you have the present coruscation as soon as I could get my secretary in the offing, but I thought I would snap your head off in the strength of your question as salutary chastisement.  
 I do wish you would understand that all these speculations are not only idle and senseless because you cannot possibly verify their accuracy, but a deadly. You ask if we, meaning, I suppose, the English, are now reincarnating the Egyptians. When I was a boy it was the Romans, while the French undertook the same thankless office for the Greeks. I say "deadly poison;" because when you analyse you see at once that this is a device for flattering yourself. You have a great reverence for the people who produced Luxor and the Pyramids; and it makes you feel nice and comfortable inside if you think that you were running around in those days as Ramesses II or a high priest in Thebes or something equally congenial.  
 You may say that I am myself the chief of sinners in this respect because of Ankh-f-n-Khonsu, but this was not my doing. It was imposed upon me by The Book of the Law, and I do not feel particularly flattered or comforted by this identification. The only interest to me is the remarkable manner in which this is interwoven with the existence of the "Cairo working."  
@@ -2622,19 +2623,19 @@ As the practice proceeds, you should find not only that your dreams increase in 
 I am not quite sure whether this is a complete and adequate answer to your question 4, "How can I best bring my sleeping memory into my waking hours?"   
 I have studied, and my secretary has studied, and we can make no head or tail of your remark about brain exercises with sketch.  
 Well, I must hope for the best, and leave you with my blessing.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 ### Chapter XLII: This "Self" Introversion  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 "...It is a lie, this folly against self...." (AL II, 22)  
 The English is very un-English, and the context hardly helpful. But the meaning is clear enough; the idea is to dismiss, curtly and rudely, the entire body of doctrine which insists on altruism as a condition of spiritual progress.  
 Why do I jump in with this text without warning? Because at the end of my letter on Sammasati the Dweller of the Threshold popped up, and that brings us to the Black Brothers, and the Left-hand path, all of which subjects are very generally supposed to depend for origin upon "Selfishness."  
@@ -2675,16 +2676,16 @@ Parallel with this, in my psychoanalytic practice I have had excellent success w
 In these cases, even though I have often been successful in "curing" the condition, so that the man has been able to carry on with satisfaction to himself and his family the normal functions of a husband, I have never really got rid of the peculiar mental and moral characteristics which have been, if not implanted, at least encouraged and fostered, by this devastating habit.  
 Now do remember this; it is the guarantee of wholesomeness in any Invocation that there should be contact with another. It is better to conjure up the most obnoxious demons from the most noisome pit of Hell than to take one's own exhilarations for Divine benediction; if only because there was never a demon yet so atrocious as that same old Ego.  
 You will discover the truth of these remarks when you approach the Frontier of the Abyss. Well, now, if that isn't too funny! The text of this stupendous sermon was AL II, 22. I take this verse in its most obvious and ordinary sense; for instance, the following sentence: "... The exposure of innocence is a lie. ..."; for that means clearly enough Hypocrisy. So "... It is a lie, this folly against self. ..." only means, "To hell with sentimental altruism, with false modesty, with all those most insidious fiends, the sense of guilt, of shame—in a word, the 'inferiority complex' or something very like it." The whole tenor of The Book of the Law, is to this effect. The very test of worth is that one should be aware of it and not afraid to sock the next man on the jaw if he disputes it!  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 P.S. But what do I mean when I say "myself" in normal speech? I mean Tiphareth, the human self as determining the identity of the Supreme Triad plus as much Ruach as I have succeeded in organising as extensions of it. Though your Supernal Triad is in essence identical with mine, your Tiphareth is quite definitely not mine. It is like mine in its nature and many of its sympathies, but your Ruach is altogether different from mine in (at a guess) 80% of its components.  
 We must add Malkuth as the medium which crystallizes the characters of our respective "Selves."   
-  
+
 This is all horribly, hatefully difficult to put into words; there is bound to be misunderstanding, however cleverly I concoct the potion. But we understand pretty well for all that, at least so far as is necessary for most practical purposes.  
 Note: The original key-entry also contained a transcription of a handwritten note which was made completely unintelligible by a number of omissions, either of illegible words or of symbols which could not be rendered in ASCII. It ran thusly:  
 {The following note in handwriting may be a proper element of the text. This will be cross-check from available materials:}  
@@ -2695,13 +2696,13 @@ thus Nuit ... ... Hadit --- and as you
 said yourself, ... she .... --- never  
 There may be a reference to AL II, 4 in the last few words.  
 1: Probably "heroin and cocaine" – T.S.   
-  
+
 ### Chapter XLIII: The Holy Guardian Angel is not the "Higher Self" but an Objective Individual  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 On going over some recent letters I see that you question about William Gillette and the Angels was indeed "a red-hot two-prong that you stick to hiss i' the soft of" me. You meant not only to inquire into the order of being to which angels belong, but as to whether they are liable to accident, misfortune and the like.  
 The answer is that it depends on the Angel—for the purposes of this letter I propose to use the word "angel" to include all sorts of disembodied beings, from demons to gods—in all cases, they are objective; a subjective "angel" is different from a dream only in nonessentials.  
 Now, some angels are actually emanations of the elements, planets, or signs to which they are attributed. They are partial beings in very much the same way as are animals. They are not microcosms as are men and women. They are almost entirely composed of the planet (or whatever it is) to which they are attributed. The other components of their being I take to be almost accidental.  
@@ -2722,22 +2723,22 @@ It is true that the process of analysis leads finally to the realisation of ones
 But do remember this, above all else; they are objective, not subjective, or I should not waste good Magick on them.  
 Let me say in particular in regard to Gods, that the God Jupiter whom you invoke is not necessarily the same as he whom I invoke. It is clear in any case that the revelation of himself to you is modified in many ways by your own particular sensitiveness; just as in ordinary life, your idea of a friend may be very different from my own conception of the same individual. Suppose, for example, he happens to be a musician, there will be an entire side of his character to which I am practically insensitive.  
 You could talk to him for hours, and I would understand little or nothing of what was said. Similarly, if he were a mountaineer, it would be your turn to be odd man out.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: Sic. The sum of the first forty-nine natural numbers is 1225 which is thus the fourth "magic number" of Venus; 175 is the third, being 1225 ÷ 7, hence the sum of the numbers on each row of the "magic square" of Venus – T.S.  
 2: This is basically Golden Dawn teaching, with slight elaborations by Crowley – T.S.   
-  
+
 ### Chapter XLIV: "Serious" Style of A.C., or the Apparent Frivolity of Some of my Remarks  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Alas! It is unlikely that either you or I should come upon a copy of Max Beerbohm's portrait of Mathew Arnold; but Raven Hill's famous cartoon is history, and can be told as such without the illustration.  
 We shall have to go into the matter, because of your very just criticism of my magical writings in general—and these letters, being colloquial, are naturally an extreme case.  
 Far-off indeed those sunny days when life in England was worth living; when one could travel anywhere in Europe—except Russia and Turkey, which spiritually, at least, are in Asia—or America, without a passport; when we complained that closing time was twelve-thirty a.m.; when there was little or no class bitterness, the future seemed secure, and only Nonconformists failed to enjoy the fun that bubbled up on every side.  
@@ -2753,9 +2754,9 @@ My dear good sister, do be logical!
 Here am I who set out nigh half a century ago to seek "The Stone of the Wise, the Summum Bonum, True Wisdom and Perfect Happiness:" I get it, and you expect me to look down a forty-inch nose and lament!   
 I have plenty of trouble in life, and often enough I am in low enough spirits to please anybody; but turn my thoughts to Magick—the years fall off. I am again the gay, quick, careless boy to whom the world was gracious.  
 Let this serve for an epitaph: Gray took eleven years; I, less.  
-  
+
 Elegy Written in a Country Farmyard  
-  
+
 By Cock-a-doodle-doo  
 Here lies upon this hospitable spot  
 A youth to flats and flatties unknown;  
@@ -2773,7 +2774,7 @@ He had the gift of laughing at himself;
 Most affably he walked and talked with God;  
 And now the silly bastard's on the shelf,  
 We'll bury him beneath another sod.  
-  
+
 In all the active moods of Nature—her activity is Worship! There is an element of rejoicing; even when she is at her wildest and most destructive. (You know Gilbert's song "When the tiger is alashing of his tail"?) Her sadness always goes with the implied threat of cessation—and that we know to be illusion.  
 There is nothing worse in religion, especially in the Wisdom-Religion, than the pedagogic-hortatory accents of the owlish dogmatist, unless it be the pompous self-satisfaction of the prig. Eschew it, sister, eschew it!  
 Even in giving orders there is a virile roar, and the commander who is best obeyed is he who rages cheerfully like an Eights Coach or a Rugger Captain. "Up Guards and at 'em!" may not be authentic; but that is the right spirit.  
@@ -2788,21 +2789,21 @@ Besides, what says the poet? "Love's at its height in pure love? Nay, but after 
 Oh! "One word more" as Browning said, and poured forth the most puerile portentous piffle about that grim blue-stocking "interesting invalid," his spouting wife. Here it is, mercifully much shorter, and not in tripping trochees!  
 "Actions speak louder than words." (I positively leak proverbs this afternoon—country air, I suppose): and where actions are the issue, devil a joke from Aleister!  
 Do you see what is my mark? It is you that I am going to put in the dock about "being serious;" and that will take a separate letter—part of the answer to yours received March 10th, 1944 and in general to your entire course of conduct since you came to me—now over a year ago.1  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally yours,  
-  
+
 666  
-  
+
 1: See Chapter XLV   
-  
+
 ### Chapter XLV: "Unserious" Conduct of a Pupil  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Here pops us Zola again—this time he says J'Accuse! Today's Hexagram for me is No.  
 X. Lî, the Tiger: and the Duke of Chau comments on the last line as follows: "The sixth line, undivided, tells us to look at the whole course that is trodden, and examine the presage which that gives. If it be complete and without failure, there will be great good fortune." O.K.; Let's! It is now well over a year since you came to me howling like a damned soul in torment—and so you should be!—and persuaded me to take you as my pupil. What have you done with that year?  
 First, suppose we put down what you agreed to do: The essential preliminaries of the work of the A.'. A.'.—you are to be heartily congratulated upon your swift perception that the principles of that august body were absolute.  
@@ -2825,13 +2826,13 @@ How can one take you as a serious student? Only because you do have moments when
 To advance—that means Work. Patient, exhausting, thankless, often bewildering Work. Dear sister, if you would but Work! Work blindly, foolishly, misguidedly, it doesn't matter in the end: Work in itself has absolute virtue.  
 But for you, having got so far in this incarnation, there must be a revolution. You must no longer hesitate, no longer plan; you must leap into the dark, and leap at once.  
 "The Voice of my Higher Soul said unto me: Let me enter the Path of Darkness; peradventure thus I may attain the Light.”1  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally yours,  
-  
+
 666  
-  
+
 P.S. Let me adduce an example of the way in which the serious Aspirant bends to the oar. This is not boasting as if the facts denoted superlative excellence; they speak. The only comment is that if such conduct is not normal and universal, it ought to be. Yet no! I would add this: that I have not yet heard of anyone who has attained to any results of importance who does not attribute his success to devotion of quite similar quality. Here they are:  
 1. The Cloud on the Sanctuary. On reading this book, Mr X.,2 who was desperate from the conviction that no success in life was worth a tinker's dam, decided: "This is the answer to my problem; the members of the Secret Fraternity which this book describes have solved the riddle of life. I must discover them, and seek to be received amongst them."  
 2. X., hearing a conversation in a café which made him think that the speaker3 might be such an one as he sought, hunted him down—he had gone on his travels—caught him, and made him promise an interview at the earliest possible date.  
@@ -2852,25 +2853,25 @@ For one thing, you acquire also the habit of dishonourable failure; and you very
 "Good!" you say quietly, with a determined nod; "I'm watched, I'm helped: I'll do my bit; the rest will come about without my worrying or meddling."  
 And so it is.  
 Good-night.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally yours,  
-  
+
 666  
-  
+
 1: The quote is from the Golden Dawn Neophyte ritual – T.S.  
 2: Crowley is talking about himself, as usual – T.S.  
 3: Julian Baker, a member of the Golden Dawn – T.S.  
 4: S.L. "MacGregor" Mathers – T.S.  
 5: The reference is to the Abramelin operation – T.S.   
-  
+
 ### Chapter XLVI: Selfishness  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Selfishness? I am glad to find you worrying that bone, for it has plenty of meat on it; fine juicy meat, none of your Chilled Argentine or Canterbury lamb. It is a pelvis, what's more; for in a way the whole structure of the ethics of Thelema is founded upon it. There is some danger here; for the question is a booby trap for the noble, the generous, the high-minded.  
 "Selflessness," the great characteristic of the Master of the Temple, the very quintessence of his attainment, is not its contradictory, or even its contrary; it is perfectly compatible (nay, shall we say friendly?) with it.  
 The Book of the Law has plenty to say on this subject, and it does not mince its words.  
@@ -2893,31 +2894,31 @@ Now in practice, in everyday life, this unselfishness is always cropping up. Not
 In practice, I begin afresh, it is almost entirely a matter of the point of view. That poor chap looks as if a square meal wouldn't hurt him; and you chuck him a half-crown. You offend his pride, you pauperize him, you make a perfect cad of yourself, and you go off with a glow of having done your good deed for the day. It's all wrong. In such a case, you should make it the request for favour. Say  
 you're "dying for someone to talk to, and would he care to join you in a spot of lunch" at the Ritz, or wherever you feel that he will be the happiest.  
 When you can do this sort of thing as it should be done, without embarrassment, false shame, with your whole heart in your words—do it simply, to sum up—you will find yourself way up on the road to that royal republic which is the ideal of human society.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 P.S. Let me insist that "pity" is nearly always an impostor. It is the psychic consolation for fear, the "pitiful man" really is a pitiful man! for his is such a coward that he dare not face his fear, even in imagination!  
 P.P.S. The day after I had written the above postscript I came upon a copy of Graham Greene's The Ministry of Fear—after a long search. He points out that pity is a mature emotion; adolescents do not feel it. Exactly; one step further, and he would have reached my own position as set forth above. It is the twin of "moral responsibility," of the sense of guilt or sin. The Hebrew fable of Eden and the "Fall" is clearly constructed. But remember that the serpent Nechesh {Nun-Cheth-Shin} is equivalent to Messiach, {MemShin-Yod-Cheth}, the Messiah. The M is the "Hanged Man," the sinner; and is redeemed by the insertion of the Phallic Yod.  
 P.P.P.S. An amusing coincidence. Just as I was polishing up this letter the lady whom I had just engaged to help me with some of my work irritated me to the point when my screams became so heartrending that the village will never sleep again as smoothly as its wont. They split the welkin in several places; and although invisible menders were immediately put on the job it is generally felt that it will never more be its original wholeness. And why? Just because of her anxiety to please! She asked me if she might do something; I said "Yes;" she then went on begging for my consent, explaining why she had made the request, apologizing for her existence! She could not understand that all she had to do was to try and please herself—the highest part of herself—to be assured of my full satisfaction.  
 P.P.P.P.S. "But the A.'. A.'. oath; aren't you—we—all out to improve the race, not counting the cost to ourselves!" Pure selfishness, child, with foresight! I want a decent place to live in next time I come back. And a longer choice of first rate vehicles for my Work.   
-  
+
 ### Chapter XLVII: Reincarnation  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Don't I think I ought to write a book on the Four Last Things, or summat? I do not. What's more, I'll see you in Yorkshire's most important seaport first.  
 But all the same you are within your rights when you insist on knowing if I believe in Reincarnation; and, if so why; and how do I feel about it. In other letters there is quite a lot of detail about the constitution of Man, and there is my Essay No. 1, in Little Essay Towards Truth; you had better get these well fixed in your mind, in case some of what now follows should prove obscure. I can't be bothered to define all the technical terms all over again.  
-  
+
 Do I believe in it?  
 Yes.  
 Why?  
-  
+
 (1) Because I remember a dozen or so of my previous lives on earth. (See Magick, Chapter VI.)  
 (2) Because no other theory satisfies my feeling for "justesse," for equilibrium, for Newton's Third Law of Motion.  
 (3) Because every religion asserts, or at least implies, it in some sense of other. Even the Judaism—Christianity—Islam line of thought contains some such element. The Jews were always expecting Elias to return; the disciples of Christ constantly asked questions involving it; and I feel that the Mohammedan doctrine of Antichrist and the Judgment at least toys with the idea. Were I not so ignorant, I could dig up all sorts of support for this thesis. But it doesn't matter so much in any case; we do not trouble to find "authority;" we put our shirts on Experience.  
@@ -2933,22 +2934,22 @@ What is important is the Oath.
 One who is vowed to the A.'. A.'.'s Mission for Mankind, who takes it dead seriously, and who will be neither frightened nor bored from Its majestic purpose, may at any time bind himself by an Oath to reject the rewards of Devachan, and reincarnate immediately again and again. By "immediately" is meant about 6 months before the birth of the new Adept, about 3 months after his last death. It depends to some extent, no doubt, on whether he can find a suitable vehicle. Presumably he will make some sort of o preparation while still alive. It seems that I personally must have taken this Oath quite a long while ago; for the Incarnations which I actually remember leave very few gaps to be filled in the last dozen centuries or so.  
 Now, dear sister, I don't like this letter at all, and I am sorry that I had to write it. For most of these statements are insusceptible of proof.  
 And yet I feel their truth much more strongly than I have ventured to express. How many times have I warned you against "feelings?"  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 Note: In the original a lengthy excerpt from Liber ThIShARB (CMXIII), from section 27 to end, was appended to this letter. It is here omitted.  
 1: From the context it appears Crowley means a universal (for all x, f(x)) or negative existential (there is no x such that f(x)), in which case we should perhaps real "an A or ~E proposition." The point is that on any empirical matter (as opposed to, say, mathematical expressions which can be proved by induction) to prove such a proposition involves examining every possible x to find out whether or not f(x) — T.S.   
-  
+
 ### Chapter XLVIII: Morals of AL—Hard to Accept, and Why nevertheless we Must Concur  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 No man alive can appreciate better than myself the difficulties connected with The Book of the Law.  
 You ask me, if I have rightly analysed your somewhat complicated series of questions, to advise you as to your attitude towards that Book.  
 Naturally, if you wished for detailed explanations, I could no more than refer you to that voluminous commentary, verse by verse, which still awaits publication.1 But I think I can sum up the main business in a letter of not too exorbitant length.  
@@ -2977,26 +2978,26 @@ How many "Martyrs to X-ray dermatitis?" Willing experimenters who knew the risks
 But a new Magical Formula is on a vastly bigger scale. Cast your mind for a moment back to the last occasion, when Osiris succeeded to Isis. In that great cataclysm not only Empires, but civilisations crashed one after another. Three quarters of the Aeon had elapsed before the wine of that vintage was really drinkable.  
 I expect as I hope that this time (communication being universally better established, the foundations better laid, and things in general moving quicker) we may be able to enjoy the harvest in very much less time. But hang it all! it's hardly reasonable to expect complete fruition after only 40 years.  
 What seems to me the most encouraging symptom of all is this: the Book itself, and the system of Magick based thereon, and the bankruptcy of all previous systems (as set forth in Eight Lectures on Yoga, Magick, The Book of Thoth, and other similar works) do furnish us all with a clear, concise practical Method (free from all contamination of the humbug of faith and superstition) whereby any one of us may attain to "the Knowledge and Conversation of the Holy Guardian Angel," and that the many other Beings of intelligence and power indefinitely more exalted than anything which we recognise as human—and, let us hope, capable of bestowing upon us a modicum of Wisdom adequate to get us out of the quagmire into which the crisis has temporarily plunged us all!  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally yours,  
-  
+
 666  
-  
+
 P.S. It has seemed better to make a postscript of the most important argument of all; for it is completely separate. It is this. The Book's meaning is "...not only in the English..." etc. (AL I, 36: I, 46: I, 54 -55: II, 76: III, 16: III, 39: III, 47: III, 63-68; and III, 73) ). These passages make it clear that there is a secret interpretation, which, being hidden as it is hidden, is presumably of even graver importance than the text as it stands. Such passages as I have been able to decipher confirm this view; so also does the discovery of the key number 31 by Frater Achad.3 We must also expect a genius to arise who will accomplish all this work for us. Again we know that much information of the utmost value has been given through the Hebrew, the Greek and very probably the Arabic Qabalah.  
 There is only one logical conclusion of these premises. We know (a) the Book means more than it appears to mean, (b) this inner meaning may modify, or even reverse, the outer meaning, (c) what we do understand convinces us that the Author of the Book is indeed what he claims to be; and, therefore, we must accept the Book as the Canon of Truth, seeking patiently for further enlightenment.  
 This last point is of especial virtue: see AL III, 63-68. The value to you of the Book varies directly with the degree of your own initiation.  
 1: Various editions published, the most complete being Magical and Philosophical Commentaries on The Book of the Law edited by Symonds and Grant (Montreal: 93 Publishing, 1974). The only one readily available at the time of writing is The Law is for All (New Falcon), based on an abridgement made by Louis Wilkinson in the 1940s – T.S.  
 2: Martha Küntzel.  
 3: See Achad's Liber 31.   
-  
+
 ### Chapter XLIX: Thelemic Morality  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Right glad am I to hear that thy have so astutely detected the bulk of my remarks on morals as little better than plain sophistry.  
 "After all," you tell me, "there is for every one of us an instinct, at least, of what is 'right' and what is wrong," And it is plain enough that you understand the validity of this sense in itself, in its own right, wholly independent of any Codes or systems whatsoever.  
 Of what, then, is this instinct the hieroglyph? Our destructive criticism is perfect as regards teleology; nobody knows what to do in order to act "for the best." Even the greatest Chess Master cannot be sure how his new pet variation will turn out in practice; and the chessboard is surely an admirable type of a limited "universe of discourse" and "field of action." (I must write you one day about Cause and Effect in magical practice.)  
@@ -3006,7 +3007,7 @@ The Law of Thelema helps us to deal with this question very simply and succinctl
 Then as to his "Means:" as he cannot possibly know for certain whether they are suitable or not, he can only rely on his inherited instincts, his learning, his traditions, and his experience. Of these all but the first lie wholly in the intellectual Sphere, the Ruach, and can accordingly be knocked into any desired shape at will, by dint of a little manipulation: and if Thelema has freed him morally, as it should have done, from all the nonsense of Plato, Manu, Draco, Solon, Paul (with his harpy brood), John Stuart Mill and Kant, he can make his decision with purely objective judgment. (Where would mathematics be if certain solutions were a priori inadmissible?) But then, what about that plaguy first weapon in his armoury? It must be these instincts, simply because we have eliminated all the other possibilities.  
 What are they?  
 Two are their sources: the spiritual (Neschamah) and the physiological (Nephesch). Note that both these are feminine. They pertain to H‚ and H‚ final in Tetragrammaton respectively. That implies that they are, in a sense, imposed on you from the beginning. Of course it is your own higher principles, Yechidah and Chiah, that have saddled you with them; but the "Human Consciousness," being in Tiphareth, cannot control Neschamah at all; and it has to be admirably unified, fortified, and perfected if it is to act efficiently upon Nephesch.   
-  
+
 (How exquisitely keen is the Qabalah! How apt, how clear, how simple, how pictorially assimilable are its explanations of the facts of Nature! If you will only learn to use it, to refer your problems to it, you will soon need no Holy Guru!)  
 In practice, we most of us do act upon Nephesch a great deal. All learning, training, discipline, tend to modify our physiological reactions in a thousand minor manners. A complete branch of Yoga, Hatha Yoga, is occupied with nothing else. And you can have your face "lifted." Apart from this, we nearly all of us attend to matters like our waistline, our hours of sleep, our digestion, or our muscular development. Some men have even taught themselves to reduce the pulse-beat both in rate and in volume: so much so that they have sometimes been credited with the power to stop the heart altogether at will. (Wasn't it Colonel Somebody—not Blimp—who used to show off to his friends, after dinner? Did it once too often, in any case!)  
 Neschamah is an entirely different proposition. One of Tiphareth's prime assets is the influence, through the path of "The Lovers," from Binah. The son's milk from the Great Mother. (From his Father, Chiah, Chokmah, he inherits the infinite possibilities of Nuit, through the path of H‚, "The Star;" and from his "God," Kether, the Divine Consciousness, the direct inspiration, guidance, and ward of his Holy Guardian Angel, through the path of Gimel, the Moon, "The Priestess.")1  
@@ -3044,22 +3045,22 @@ Hardly that.
 What I really mean is that these two terms are unconnected. One decides about the "End" in one way: about the "Means" in another. But every proposition in your sorites has got to justify itself; and, having done so, to estimate its exact weight in relation to all the other terms of your problem.  
 "Confusion worse confounded?" I dare say it is; it's the best I can do with such a difficult question.  
 But I am perfectly happy about it; the one important thing (as Descartes —and Francis Bacon—saw) is that you should acquire and assimilate the METHOD of Thelemic thinking.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: Note that in this paragraph Crowley settles an often asked question about allocation of Tarot and Hebrew Letters on the Tree of Life in his modified system. The letters stay in their traditional positions, and the Tarot Atu's of "Star" and "Emperor" switch places. Crowley identifies the influence of the HGA with the path of Gimel, and this is more remarkable in some ways than the Tarot attribution. If the K & C of the HGA comes from Neschamah, it would be expected to flow by the path of "The Lovers." Perhaps there is a distinction between unconscious influence and conscious Knowledge and Conversation. Crowley never completely resolved some questions related to Aiwass and some related to the objective existence of the HGA. Speculation on these matters is not closed, and this might be a good issue for resumption of the discussion – WEH.  
 2: This from the son of a Brewer! – WEH.   
-  
+
 ### Chapter L: A.C. and the "Masters"; Why they Chose him, etc.  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 "Details about Book 4?" This question lacks precision. I must pull a trigger at a venture.  
 The idea of 4 was due to my observation of St. Peter's in Rome; it is built with an eye unwavering from the number, as you will see when next you go there, aware of the fact. Also, 4 means, on the political plane, Temporal Power. (The Qabalistic Architect of St. Peter's knew that, and designed his talisman ad hoc.) This book was then, according to Ab-Ul-Diz,  to achieve worldly success. It is my fault if it did not; still, these are early days to judge of that.  
 Soror Virakam1 insisted that I should write this in such language that the charwoman and the chimney-sweeper could understand it easily. She pulled me up at the first hint of obscurity.  
@@ -3075,15 +3076,15 @@ In Paris,  in a mood of blank despair about it all, out came the Comment. Easy, 
 All Parliamentary requirements thus fulfilled according to the famous formula of the Irish M.P., we can get on to your other questions untroubled by doubt.  
 One Textus Receptus, photographically guaranteed. One High Court of Interpretation, each for himself alone. No Patristic logomachies! No disputed readings! No civil wars and persecutions.  
 Anyone who wants to say anything, off with his head, and On with the Dance; let Joy be unconfined, You at the prow and Therion at the helm! Off we go.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 Error: It was actually in Tunis, November 1925. Editor.  
-  
+
 "The Masters contacted you." Can you by any chance mean "The Masters made contact with you?"  
 Assuming that such is the deplorable case, we may proceed.  
 Firstly, the effort on my part was precisely nil, I resented Their interference with proud bitter angry disbelief. The Equinox of the Gods describes this in detail.  
@@ -3107,37 +3108,37 @@ Also, asceticism is all right when it is the proper means of attaining some spec
 Even so, it too often strains vital organs, especially the heart and lungs, so that few rowing "Blues" live to be 50. But worst of all is the effect on the temper!  
 When it is permanent and mistaken for a "Virtue," it poisons the very soil of the soul. The vilest weeds spring up; cruelty, narrow-mindedness, arrogance—everything mean and horrible flowers in those who "Mortify the flesh." Incidentally, such ideas spawn the "Black Brother." The complete lack of humour, the egomaniac conceit, self-satisfaction, absence of all sympathy for others, the craving to pass their miseries on to more sensible people by persecuting them: these traits are symptomatic.  
 Well, this is a very brief synopsis, but I hope that it will answer your question at least so far as to enable you to understand more easily the account of these matters given in The Vision and the Voice.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 P.S. On reading this over, it has struck me that you may have meant to raise a totally different issue; that of "abstract morality." Rather an extensive battlefield; I will dispose my forces in array in my next letter of "morality, heavenly link.”3  
 1: Mary Desti Sturges.  
 2: See also "The Abuldiz Working" in Equinox IV (1).  
 3: I am not totally clear which this is, but letters LXX and LXXI are titled "Morality" – T.S.   
-  
+
 ### Chapter LI: How to Recognise Masters, Angels, etc., and how they Work  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 I have been thinking over what I wrote in my last letter with regard to the verification of appearances in the Astral Plane.1  
 I did not mention a parallel question of even greater immediate practical importance: that of one's relations with Astral or discarnate intelligences or with Those whom we call "The Masters" or "The Gods": the messages of gestures which reach us through the normal physical channels. The importance is that they actually determine one's line of conduct in critical situations.  
 It seemed therefore a good idea to give you three examples from The Spirit of Solitude:2 and here they are!  
 The first extract refers to the "miraculous" discovery of the MS of Liber AL some years after I had deliberately "lost" it.  
 The second, to the finding of a villa suited to the Work.  
 The third to my rescue from a state of despair.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 [The following is from Vol. 4 of The Confessions, pp. 369 – 371.3]  
 It was part of my plan for the Equinox to prepare a final edition of the work of Dr Dee and Sir Edward Kelly. I had a good many of the data and promised myself to complete them by studying the manuscripts in the Bodleian Library at Oxford—which, incidentally, I did in the autumn; but it struck me that it would be useful to get my large paintings of the four Elemental Watch Towers which I had made in Mexico. I thought these were probably in Boleskine. I decided to go up there for a fortnight or so. Incidentally, I had the conveniences for conferring upon Neuburg the degree of Neophyte, he having passed brilliantly through this year as a Probationer.  
 I consequently asked him and an Emmanuel man named Kenneth Ward, to come and stay with me. I had met Ward at Wasdale Head shortly before, having gone there to renew my ancient loves with the creeds of the gullies. It happened that Ward was very keen on skiing. I had several pairs and offered to give him some. This casual circumstance proved an essential part of the chain by which I was ultimately dragged behind the chariot of the Secret Chiefs. At least I thought it was a chain. I did not realise that steel of such exquisite temper might be beaten into a sword fit for the hand of a free man.  
@@ -3149,17 +3150,17 @@ The ground was completely cut away from under my feet. I remained for two whole 
 I once more solemnly renounced all that I have or am. On departing (at midnight from the topmost point of the hill which crowns my estate) instantly shone the moon, two days before her fullness, over the hills among the clouds.  
 This record is couched in very general terms, but it was intended to cover the practical point of my resuming the task laid upon me in Cairo exactly as I might be directed to do by my superiors.  
 Instantly my burden fell from my back. The long crucifixion of home life came to a crisis, immediately on my return to London. At the same time every other inhibition was automatically removed. For the first time since the spring of 1904 I felt myself free to do my Will. That, of course, was because I had at last understood what my Will was. My aspiration to be the means of emancipating humanity was perfectly fulfilled. I had merely to establish in the world the Law which had been given me to proclaim: "...thou hast no right but to do thy will." Had I bent my energies from the first to proclaiming the Law of Thelema I should doubtless have found no obstacle in my path. Those which naturally arise in the course of any work soever, would have been quietly removed by the Secret Chiefs. But I had chosen to fight against myself for five years, and "If Satan shall be divided against Satan, how shall his kingdom stand?" The more I strove, the more I encouraged an internal conflict, and stultified myself. I had been permitted to complete my initiation, for the reason that by doing so I was fitting myself for the fight; but all my other efforts had met with a derisory disaster. More, one does not wipe out a lustre of lunacy by a moment of sanity. I am suffering to this day from the effects of having wasted some of the best years of my life in the stupid and stubborn struggle to set up my conscious self against its silent sovereign, my true Soul. 'Had Zimri peace who slew his master?'  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 The preparation for this was in some ways trying to the candidate. For instance, he had to sleep naked for seven nights on a litter of gorse.  
-  
+
 [The following is from Vol. 4 of The Confessions, pp. 590 – 598. 5]  
-  
+
 A boisterous party was in progress. The dancer's lifelong friend, whom I will call by the name she afterwards adopted, Soror Virakam, 6 was celebrating her birthday. This lady, a magnificent specimen of mingled Irish and Italian blood, possessed a most powerful personality and a terrific magnetism which instantly attracted my own. I forgot everything. I sat on the floor like a Chinese God, exchanging electricity with her.  
 After some weeks' preliminary skirmishing, we joined battle along the whole front; that is to say, I crossed to Paris, where she had a flat, and carried her off to Switzerland to spend the winter skating.  
 Arrived at Interlaken, we found that Murren was not open, so we went on to St. Moritz, breaking the journey at Zurich. This town is so hideous and depressing that we felt that our only chance of living through the night was to get superbly drunk, which we did . . .   
@@ -3180,15 +3181,15 @@ We drove on; we came to a tiny piazza, on one side of which was a church. "That 
 We drove on a few yards. Then the chauffeur made up him mind to revolt, and stopped the car. On the left was a wide open gate through which we could see a gang of workmen engaged in pretending to repair a ramshackle villa. Virakam called the foreman and asked in broken Italian if the place was to let. He told her no; it was under repair. With crazy confidence she dragged him within and forced him to show her over the house. I sat in resigned disgust, not deigning to follow. Then my eyes suddenly saw down the garden, two trees close together. I stooped. Their tops appeared. They were Persian Nuts! The stupid coincidence angered me, and yet some irresistible instinct compelled me to take out my note book and pencil and jot down the name written over the gate—Villa Caldarazzo. Idly I added up the letters.10 Their sum struck me like a bullet in my brain. It was 418, the number of the Magical Formula of the Aeon, a numerical hieroglyph of the Great Work. Ab-ul-Diz had made no mistake. My recognition of the right place was not to depend on a mere matter of trees, which might be found almost anywhere. Recognition beyond all possibility of doubt was what he promised. He had been as good as his word.  
 I was entirely overwhelmed. I jumped out of the car and ran up to the house. I found Virakam in the main room. The instant I entered I understood that it was entirely suited for a temple. The walls were decorated with crude frescoes which somehow suggested the exact atmosphere proper to the Work. The very shape of the room seemed somehow significant. Further, it seemed as if it were filled with a peculiar emanation. This impression must not be dismissed as sheer fancy. Few men but are sufficiently sensitive to distinguish the spiritual aura of certain buildings. It is impossible not to feel reverence in certain cathedrals and temples. The most ordinary dwelling houses often possess an atmosphere of their own; some depress, some cheer; some disgust, others strike chill to the heart.  
 Virakam of course was entirely certain that this was the Villa for us. Against this was the positive statement of the people in charge that it was not to be let. We refused to accept this assertion. We took the name and address of the owner, dug him out, and found him willing to give us immediate possession at a small rent. We went in on the following day, and settled down almost at once to consecrate the Temple and begin the book.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 [The following is from The Confessions, Vol. 4, pp. 379 – 384.11]  
-  
+
 I knew in myself from the first that the revelation in Cairo was the real thing. I have proved with infinite pains that this was the case; yet the proof has not strengthened my faith, and disproof would do nothing to shake it. I knew in myself that the Secret Chiefs had arranged that the manuscript of The Book of the Law should have been hidden under the Watch Towers and the Watch Towers under the ski; that they had driven me to make the key to my position the absence of the manuscript; that they had directed Kenneth Ward's actions for years that he might be the means of the discovery, and arranged every detail of the incident in such a way that I should understand it as I did.  
 Yes; this involves a theory of the powers of the Secret Chiefs so romantic and unreasonable that it seems hardly worth a smile of contempt. As it happens, an almost parallel phenomenon came to pass ten years later. I propose to quote it here in order to show that the most ordinary events, apparently disconnected, are in fact only intelligible by postulating some such people as the Secret Chiefs of the A.'.A.'. in possession of some such prevision and power as I ascribe to them. When I returned to England at Christmas, 1919, all my plans had gone to pieces owing to the dishonesty and treachery of a gang which was bullying into insanity my publisher in Detroit. I was pledged in honour to look after a certain person; but I was practically penniless. I could not see any possible way of carrying on my work. (It will be related in due course how this condition of things came about, and why it was necessary for me to undergo it.) I found myself at Morêt, on the edge of the Forest of Fontainebleau, with nothing to do but wait. I did not throw up the sponge in passionate despair as I had done once before to my shame—I had been rapped sufficiently hard on the knuckles to cure me of that—but I said to the Gods "Observe, I have done my damnedest, and here I am at a dead centre. I am not going on muddling through: I demand a definite sign from you that I am still your chosen prophet." I therefore note in my diary, on January 12, 1920, as follows:  
 I am inclined to make my Silence include all forms of personal work, and this is very hard to give up, if only because I am still afraid of 'failure,' which is absurd. I ought evidently to be non-attached, even to avoiding the Woes-Attendant-Upon-Refusing-The-Curse-Of-My-Grade, if I may be pardoned the expression.  
@@ -3214,13 +3215,13 @@ If these events be indeed the result of calculation and control on the part of t
 Our previous relations, the girl's to opium, my friendship with her lover, and his interest in my work; omit any item and the whole plan fails. But this assumption is unnecessary. The actual preparation need not go back further than three years, when the Stèle was embroidered. We may allow the Secret Chiefs considerable option, just as a chess player is not confined to one special combination for his attack. We may suppose that had these people not been available, the sign which I demanded might have been given me in some other equally striking way.  
 We are not obliged to make extravagant assumptions in order to maintain that the evidence of purpose is irresistibly strong.  
 To dismiss this intricate concatenation of circumstances, culminating as they do in the showing forth of the exact sign which I had demanded, is simply to strain the theory of probabilities beyond the breaking point. Here then are two complicated episodes which do to prove that I am walking, not by faith but by sight, in my relations with the Secret Chiefs; and these are but two links in a very long chain. This account of my career will describe many others equally striking. I might, perhaps, deny my inmost instinct the right to testify were any one case of this kind in question; but when, year after year, the same sort of thing keeps on happening, and, when, furthermore, I find myself able to predict, as experience has taught me to do in the last three years, that they will happen, and even how the pieces will fit into the puzzle, I am justified in assuming a causal connection.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
   Society for Psychical Research.  
 1: The reference is probably to Chapter XVII – T.S.  
 2: This was the original title of Crowley's Confessions – T.S.  
@@ -3233,17 +3234,17 @@ Yours fraternally,
 9: Leilah Waddell.  
 10: Hebrew numeration, reading the O as Ayin: (6 + 10 + 30 + 30 + 1) + (20 + 1 + 30 + 4 + 1 + 200 + 1 + 7 + 7 + 70) = 77 + 341 = 418) – T.S.  
 11: Cap. 65 pp. 598-601 in the Symonds and Grant edition – T.S.   
-  
+
 ### Chapter LII: Family: Public Enemy No. 1  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 In your last letter you mention "family pressure." Horrid word, family! Its very etymology accuses it of servility and stagnation.  
 Latin, famulus, a servant; Oscan, Faamat, he dwells.  
 It almost deserves the treatment it gets in that disreputable near-Limerick:  
-  
+
 Three was a young lady named Emily  
 Who was not understood by her femily,  
 She acted so rummily,  
@@ -3255,7 +3256,7 @@ So the head of the fommily,
 Read her a homily—  
 And the devil flew out of the Chim-b-illy!  
 A word ought to have more respect for itself!  
-  
+
 Then, think what horrid images it evokes from the mind. Not only Victorian; wherever the family has been strong, it has always been an engine of tyranny. Weak members or weak neighbours: it is the mob spirit crushing genius, or overwhelming opposition by brute arithmetic. Of course, one must be of good family to do anything much that is worth doing; but what is one to say when the question of the Great Work is posed?  
 Bless you, the whole strength of the family is based on the fact that it cares for the family only: therefore its magical formula thus concentrated is of necessity hostile to so exclusively individual an aim as Initiation.  
 Its sentiments are reciprocated.  
@@ -3304,22 +3305,22 @@ This too is painful beyond words at first. Until the process starts, you have no
 (The Baltis are like this, you know; they wrap the baby when it is born, and add rag after rag, never removing any, until a prosperous citizen at 40 is more like a bale of cloth than a human being!) May I add that you are going to be shocked? Ideas of the most atrocious and abominable nastiness, things literally unthinkable by your normal conscious apparatus, are discovered as the mainsprings of your character!  
 Those in attendance at confinements are always at first amazed and horrified by the remarks of the most virtuous and refined ladies; but that is the mere loosening of a few superficial layers, such as are accessible to anaesthetics. These revelations amount to not 1/10 of 1% of the grisly horrors that are revealed by Sammasati.  
 Now go ahead!  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 ### Chapter LIII: "Mother-Love"  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 You enthusiastically remark that the love of the mother for the off-spring is something that no man can understand: and you appear to prize it!  
 Well, some men have had a jolly good shot at it, notably Emile Zola. The Usher goes into the corridor, and calls that name in strident and stentorian tones. In he waddles, the squat obese bespectacled studious Jew, with the most devastating of all his thunderbolts under his arm—La Terre, and so what?  
-  
+
 "How he will prologuize, how he will perorate" about:  
 "The dewy musk-rose, mid-May's eldest child,  
 The murmurous haunt of flies on summer eves!"  
@@ -3354,13 +3355,13 @@ It is surely unnecessary to state the rider to this theorem; so perhaps I had be
 Anyone who has not totally and for ever destroyed in himself every vestige of this instinct, extirpating every root and charring it with Fire, cannot take the first step on the Path of the Wise.   
 How nobly opposite is the Man-Formula! Its freight the wealth of the whole Universe, that splendid Argosy leaps free upon the glittering Ocean, to cast the very Soul of Life upon uncharted and enchanted isles!  
 It is not to these few but well-chosen words that I propose to look to enhance my popularity in the Woman's Clubs of the United States.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 P.S. "Mother-Love" is, of course, a branch of family affection about which I have already written to you in no uncertain terms. Of all its sub-sections this is the worst because it is the strongest, the most natural, that is to say, the most brutish. You have complained pathetically on more than one occasion that I do not seem to know my own mind about Nature; that I am always contradicting myself. Sometimes I tell you that everything is in Nature; that everything moves by Nature: that to oppose Nature is to provoke endothermic reaction, and then I leap headlong through the hoop of my own construction and want you to defy nature, to attack her, to overcome her. Really, dear Master, it is too bad of you! I know it sounds bad but there is not really the opposition that on the surface there seems to be. Perhaps it is that we are talking about two kinds of Nature. In one sense it might be asserted that the final formula of Nature is Inertia; in other words, that the dyad of manifested existence is an arbitrary and artificial development of the Zero to which everything must always cancel out.  
 Now by saying that, we have to all intents and purposes, answered the question which it poses; all positive development must be a conflict with that Inertia. It is the opposition between the magical Path and the Mystical; we may therefore say fearlessly that all forms of progress, although they make use of the formulae of nature which have brought them to their present situation, are attempts to proceed further on the way of the True Will.  
 It is particularly important to understand this at the present time when the Aeon of Horus is just getting under way. For the Aeon of Isis, that of the Mother, appears to have regarded the whole of Nature as a spontaneous growth of universal scope. In the Aeon Of Osiris, the restriction of Family appears for the first time.  
@@ -3369,16 +3370,16 @@ Totalitarianism in any of its forms tends to break down the family structure. It
 Experience will doubtless prove that this idea simply will not work. The Individual will come to his own, but it will be impossible to reconstruct the Family System.  
 It will in particular be impossible to maintain the intimate relation between Mother and Child, which has been so dominant a feature of past civilizations.  
 The very social and economic causes which in the old time tended to cement the relationship, have become centrifugal in their effect.  
-  
+
 1: It is by no means clear that Huxley saw the kind of society he described in Brave New World as particularly desirable; and it is odd that Crowley, given his scathing remarks on the subject of Utopias constructed on a priori grounds (vide chapter 79, "Progress" should seem to endorse such things. In the "New Comment" on AL I, 40 Crowley similarly quotes, apparently favourably (in connection with the "Three Grades") a proposal for a "Rational State" outlined by a character in an earlier Huxley novel, Chrome Yellow (the scheme in question was in any case straight out of Plato's Republic); and yet in any such regulated society, "Irregularity, Eccentricity, Disorder, the Revolutionary Spirit, Experiment" are precisely those qualities which are stamped on, and hard – T.S.  
 2: sic, s.b. "fission" – T.S.   
-  
+
 ### Chapter LIV: "On Meanness"  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Yes, indeed! As you surmise, the injunction to "buy the egg of a perfectly black hen without haggling" is another way of putting the Parable of the Pearl of Great Price; a much better way. For the Pearlbuyer did think of equating the values, which is precisely what one must not do. That Egg is incommensurable with money.  
 (Further, the saying teaches one to insist on perfection; the hen must not have one tinge of aught but black in any feather.)  
 However, that is neither here nor there; what you want me to do is to discuss Economy in its magical aspects.  
@@ -3407,20 +3408,20 @@ When I first landed in the U.S.A. (1900) I noticed instantly that practically ev
 Somehow, it made for stickiness. When one hesitates to pay money out, one cannot expect other people to feel otherwise. So everything becomes increasingly constipated. I am not denying the virtues of thrift, but it's a long and tedious business; and all the big fortunes are made by shrewd gambling. Even if your policy be "small profits," it is a failure unless it ensures "quick returns." This is the deeper meaning of the proverb "time is money."  
 Then, isn't there a little Bonus? Isn't it worth something to have a pleasant life, and to have people like you. It leaps to the eye if one is a "tightwad;" the Saturnian constriction shows itself in a myriad ways. "The liberal soul shall be made fat; and he that watereth shall be watered also himself."  
 Now, then expand your thought; from he consideration of money (which we chose merely for convenience of discussion) apply these principles to the spheres of all the other planets. You will very soon heighten the enjoyment of life beyond all measure and belief!  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
-  
+
+
 ### Chapter LV: Money  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 You ask me for the initiated view about the power of money. As the poet says: "O.k. oke; I'm yer bloke." F. Marion Crawford, a Victorian novelist, now (I think deservedly) obsolescent, thought I saw one of his books last week on the shelves of a tuppenny shark-library,  wrote a tale Mr Isaacs based on the life of one Mr Jacobs, the Indian Rothschild of two generations ago, financing princes, little wars—everything. One night in Bombay the burden of his wealth broke his nerve; he stood at the window of his hotel, and flung masses of money to the mob. Soon after came a stranger, and said to him, "You have insulted the fourth of the great powers that rule this world; it shall be taken from you." It was so; he lost all. In the end he became, after a fashion, Sannyasi, and died (I suppose) in the usual odour.  
 I thought of this incident in Paris in the twenties, when I saw American tourists plaster the bonnets of their cars with 1000 franc notes, or tear them up and strew the floors of banks with them. Grimly I prognosticated Twenty-Nine. And it was so.  
 "Nice work!" you charmingly remark; but hardly what I sought to know." Patience, child!  
@@ -3437,19 +3438,19 @@ A couple of Japanese wrestlers may be worth more than Phidias, Robert Browning, 
 Most obviously of all, when it comes to The Great Work, money does not count at all. I do not write of any Magical work, in the restricted sense of the phrase. Shaw says: "Admirals always want more battleships" and J.F.C. Fuller: "if a lawyer, more wretches to hang." It applies to any one whose heart is in his job. (Of course, in this case, money is like all other things of value; nothing counts but the Job.) This, too, is sound Magical doctrine.  
 Lack of money is another matter altogether.  
 Isn't it about time you sent me a cheque?  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 ### Chapter LVI: Marriage—Property—War—Politics  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Directly or indirectly, you have already all you need about marriage in its relation to Magical Training.  
 The Hindu proverb sums it all up: "There are seven kinds of wife—like a mother, a sister, a daughter, a mistress, a friend, an enemy and a slave; of these the only good one is the last."  
 But from your questions I gather that what you want is advice on how to advise, how marriage as an institution is regarded by The Book of the Law. Very good.  
@@ -3462,19 +3463,19 @@ Notice also Verse 28 , a surprising conclusion to the long magical instruction a
 There are any number of other passages, equally warlike; but see II, 24. It is a warning against internecine conflict between the masters; see also III 58, 59. Hitler might well quote these two reminders that the real danger is the revolt of the slave classes. They cannot rule or build; no sooner do they find themselves in a crisis than mephitic rubbish about democracy is swept into the dustbin by a Napoleon or a Stalin.  
 There is just one exception to the general idea of ruthlessness; some shadowy vision of a chivalrous type of warfare is granted to us in AL III, 59: Significant, perhaps, that this and a restatement of Thelema came immediately before "There is an end of the word of the God enthroned in Ra's seat, lightening the girders of the soul." (AL III, 61) And this is "As brothers fight ye!" Perhaps the Aeon may give birth to some type of warfare "under Queensbury rules" so to say. A baptism of those who assert their right to belong to the Master class. Something, in short, not wholly dissimilar from the jousts of Feudal times. But on such points I should not care to adventure any very positive opinion.   
 The last part of your question refers to politics. "The word politics surprises by himself," as Count Smorltork observed. Practically all those parts of the Book which deal with social matters may be considered as political in the old an proper sense of the word; of modern politics it disdains to speak.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally yours,  
-  
+
 666  
-  
+
 ### Chapter LVII: Beings I have Seen with my Physical Eye  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Well do you know my lifelong rule never to make any assertion that cannot be verified, or at least supported by corroborative evidence, on any subject pertaining to Magick.  
 When, therefore, you express curiosity as to how much of the normally super-sensible world has been revealed to my senses, and especially that of sight, you must take my answer as "without prejudice," "e. and o.e.", "under the rose," and "in a Pickwickian sense." If you choose to call me a lunatic and/or a liar, I shall accept the verdict with mine accustomed imperturbability. Whether what I am about to tell you is "true" or not doesn't matter, as in any case it proves nothing in particular. What does matter is to accept nothing whatever from the "Astral Plane" without the most conclusive and irrefragable internal evidence.  
 That is enough for the caveat part of it; now I plunge direct into the autobiographical.  
@@ -3505,21 +3506,21 @@ Yes, as I think it over, that by-law is to thank. This Spring I saw very plainly
 And I've never been able to see any more. This, however, it is a positive duty to tell you. One can acquire the power of seeing, with this kind of sight that is neither wholly normal nor wholly astral, all the natural inhabitants of the various places that one reaches in one's travels; one can make intimate contact with individual "elementals" as closely as one can with human beings or animals, although the relation is rarely continuous or permanent.  
 The conditions of such intercourse are complex: (a) one must have the necessary degree of initiation, magical efficiency, and natural ability; (b) one must be at the time in the appropriate magical state, or mood; (c) both parties must desire to make the contact, or else one must be lawfully the superior, a master and slave relationship, (d) the magical conditions at the time must be suitable and propitious; e.g., one would not make love to a salamandrine during a sandstorm. Of course, like all operations, any such efforts must be justified by their consonance with one's True Will.  
 On this note I end this abortive letter.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: Lat., "I want to know." George Cecil Jones.   
-  
+
 Chapter LVIII: "Do Angels Ever Cut Themselves Shaving?"  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 A very witty way to put it! "Do angels ever cut themselves shaving?" Rem acu tetigisti,1 again.  
 (English: you big tease?)  
 What sort of existence, what type or degree of reality, do we attribute to them? (By angel, of course, you mean any celestial—or infernal—being such as are listed in the Hierarchy, from Metatron and Ratziel to Lilith and Nahema.) We read of them, for the most part, as if they were persons—although of another order of being; as individual, almost, as ourselves. The principal difference is that they are not, as we are, microcosmic. The Angels of Jupiter contain all the Jupiter there is, within these limits, that their rank is not as high as their Archangel, nor as low as their Intelligence or their Spirit. But their Jupiter is pure Jupiter; no other planet enters into their composition.  
@@ -3552,23 +3553,23 @@ But this he meant merely to enquire whether it would now be in order for him to 
 But the Adept thought that this was Question No. 1: meaning "Is there any valid means of making contact between two minds?"  
 He remained intensely silent—intensely, as opposed to his previous rather fidgety abstention from talking—for a very long time, and then broke slowly into a long seductive ripple of hushed laughter, suggestive of the possession of some ineffably delicious secret, of a moonlight revel of Pan with his retinue of Satyrs, nymphs and fauns.  
 I shall say no more, save to express the hope that you have understood this story, and the Truth and Beauty of this answer.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally yours  
-  
+
 666  
-  
+
 1: Lat. "You've hit the nail on the head" (lit. "you've touched the matter with a needle."  
 2: Swinburne, Atalanta in Calydon.  
 3: U.S.W is German for "etc." – W.E.H.   
-  
+
 ### Chapter LIX: Geomancy  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Your last letter has really put me up a gum tree. I do not see how I can write you an account of Geomancy. At first sight it looks as if all I could do was to refer you to the official text book of that sublime and difficult art. You will find in the Equinox, Volume I, No. 2. (or am I mistaken and it is No. 4?) I cannot bother to refer to it, and the books are not under my hand.1  
 There is, of course, a short account in Magick and I do not think that it is a very satisfactory one, certainly not in view of what you have asked me. No, it certainly won't do at all.  
 The main point of your letter appears to be a question as to whether I think it worth your while to devote a great amount of time to it; whether its usefulness repays the pains required to master it.  
@@ -3602,24 +3603,24 @@ The system is consequently based upon 16 figures and no more. Of course all syst
 However, if you are the type of person who has a natural bent towards this particular Art you will be able to develop it on your own lines, guided by your own experience.  
 I do not think there is anything further to add to these scattered remarks except that so far as I know none of the treatises on the subject (with the single exception of the official instruction) are of any use at all.  
 I feel rather acutely how unsatisfactory these remarks must sound to you, but it is the best that I can do for you. You must regard it either as an excuse, or a confession of incompetence, that I have always had this instinctive distaste for the subject.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: The item on "Geomancy" is in Equinox, Vol I, No. 2. The method provided there is the French adaptation of an African method like the Ifa Oracle of the Yoruba people at Great Zimbabwe. This technique has superficial similarities to the Yi King, and four-line Geomancy was known in Europe from late Medieval times. The Geomancy mentioned in The Sacred Magic of Abra-Melin and in a few stories of the Arabian Nights is usually based on recognition of shapes, including Arabic letters, in randomly disturbed sand. This French method uses a count of odd or even in a series of random strikes against a sand or earth surface to determine the figure – WEH.  
 The instruction in the Equinox is taken almost verbatim from a Golden Dawn paper, itself adapted from the treatise on Geomancy attributed to Agrippa which was published in the 16th century (see Agrippa, Opera, vol. I). Certain crucial omissions were made and the method was delineated very unclearly; the version in Regardie (ed.) The Golden Dawn is more intelligible although it omits some of  
 the tables which appear in the Equinox publication – T.S.  
 2: According to the version of this story in Confessions, this was James Windram, Frater Semper Paratus, who later became head of the South African section of the O.T.O. under Crowley – T.S.   
-  
+
 ### Chapter LX: Knack  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 I am very glad that it has not been necessary in all this long correspondence with you, to discuss the question of Knack. You seem to be specially gifted; you were able to get the results directly from following out the instructions, and I am glad that it is through you, on behalf of other people, to whom you have communicated these instructions, that this letter has become necessary.  
 When Otto Morningstar was trying (with indifferent success) to teach me how to play French Billiards in Mexico City I found one particular difficulty, and that was how to play the massé shot. He kept on explaining and explaining and demonstrating and demonstrating, and none of it seemed any good. I understood intellectually, well enough; but somehow or other it never came off. Presently he said that he guessed he knew what was the matter. Although I had the whole thing perfect in my mind I had not made the link between my mind, my eye and my hand, and what I must do was not to go to him for teaching, of which I had had already enough and more than enough. He told me if I went on trying it would happen quite suddenly and unexpectedly one day that I found I could do it. This was particularly decent of him because it was in direct contradiction with his financial interest. But he was an all-round good man.  
 So I cut him out so far as the massé shot was concerned and redoubled my practice of it. What he said came out right; one day I found that I had acquired the knack of it.  
@@ -3640,19 +3641,19 @@ The Irishman came back fairly cheerful; he rubbed his hands; "Well, there's half
 When the Scotsman came back his face was full of gloom: "I'm afraid," he says, "that half a bottle has gone."  
 Then the Englishman had his turn. He came in all over smiles, rubbing his hands, and said: "There's not a drop left, so that's that."  
 Moral—Be English!  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 ### Chapter LXI: Power and Authority  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Thanks very much for your last letter. I expected no less. As soon as anybody gets into a position of authority, even on a very small scale, their troubles begin on a very large one.  
 Imagine, if you can, what I have been through in the last quarter of a century or more. My subordinates are always asking me for advancement in the Order; they think that if they were only members of the 266th degree everything in the garden would be lovely. They think that if they only possessed the secrets of the 148th degree they would be able to perform all those miracles which at present escape them.  
 These poor fish! They do not understand the difference between Power and Authority. They do not understand that there are two kinds of degrees, altogether different.  
@@ -3670,19 +3671,19 @@ I know that it must seem hard to the weaker brethren of the Order that we should
 But a far truer and deeper satisfaction is found when the student has contentedly gone on with his work all by his own efforts. Surely you have had sufficient example in these letters, where in moments of despair one suddenly awakes to the fact the despite all appearances one has been watched and guarded from a higher plane. I might say, in fact, that one such experience of the secret guardianship of the Chiefs of the Order is worth a thousand apparently sufficient witnesses to the facts.  
 I would have you lay this closely to your heart, dear Sister, and moreover always to keep in mind what I have written in this letter so that you may be able to recognise when the occasion arises how much better evidence of the power and intelligence of the Order is this to being constantly cheered up along the difficult way by incidents such as it is possible to explain by what might be considered normal circumstances.  
 Finally, let me insist that it is a definite symptom of Magical ill-health when the craving for manifestation of that power and intelligence come between the worker and his work.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 ### Chapter LXII: The Elastic Mind  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 You ask me what I mean by an "elastic mind"—from our telephone conversation on Friday.  
 It is hard to define; but let me give you an example of the bad kind: an old riddle. "Why is a story like a ghost?" Because  
 "A story's a tale  
@@ -3695,7 +3696,7 @@ a trap is a snare
 a snare's a gin  
 gin is a spirit  
 and a spirit's a ghost."  
-  
+
 You will have noticed a logical blunder—usually non distributio medii or Hobson Jobson—at every step in the sorites. It is your instinctive, or instructed, objection to commit these that prevents your mind from actually moving on such lines.  
 But these "correspondences," such as they are, ought to present themselves, be judged as false or true, and rejected or accepted accordingly.  
 The inelastic mind, on the other hand, is tied by training to a rigid sequence, so that it never gets a chance to think for itself.  
@@ -3705,20 +3706,20 @@ But always behind all these must be Will, the restraining and controlling purpos
 Remember that the slightest sign of inelasticity means that the rubber has already "perished;" and that the test of perfection is that one can "Snap back" to the original condition, with no trace of the stress to which it has been subjected.   
 Beyond all, be armed against the "doctrinaire" type of mind, in yourself or in another. One very soon falls into the habit of repeating ones pet ideas; as the French say. "C'est enfoncer une porte ouverte;" and, probably before you know it yourself, you have become that most obscene, abhorred and incurable of human monsters, a BORE.  
 I perceive a slight danger of this kind in the letter: moral, SHUT UP!  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
-  
+
+
 ### Chapter LXIII: Fear, a Bad Astral Vision  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Your letter of yesterday: so happy that my last was useful: but the vision! I must have failed to make myself clear. We shall come to that later in this letter.  
 It is reassuring to learn that you are two-thirds human! Greed, anger and sloth are the three Buddhist bed-rock badnesses; and you have certainly given the last a miss in baulk. It is my own darkest and deadliest foe, and oh how mighty! With me he never relaxes. Sounds a paradox! but so it is.  
 Now as to fear. In the Neophyte ceremony of G.'. D.'., when the bandage is first removed from the eyes of the Aspirant, Horus, who was in that Aeon "the Lord in the West," tells him: "Fear is failure, and the forerunner of failure: be thou therefore without fear for in the heart of the coward virtue abideth not."  
@@ -3748,7 +3749,7 @@ That evening Mohammed was returning from prayer "Nowit asali fardh salat al magh
 "Peace be with thee!" says Death. "And peace with thee," replied the sage. "But I did not expect to see thee here to-night; I thought you were to meet my friend Isaak, and he's in Baghdad." "It wants an hour yet of the time," says Death briskly; "and he's galloping hither as fast as he can."  
 At least, don't let the Gods have the laugh on you! Hello! Here's the Book of Lies again! What fun.  
 Now I ring up POL 5410 and borrow the book and get the chapter we need copied and—oh! With luck we shall get this space filled in a month or two!  
-  
+
 The Smoking Dog  
 Each act of man is the twist and double of an hare.  
 Love and Death are the greyhounds that course him.  
@@ -3759,7 +3760,7 @@ He is no more hare, but boar.
 There are no other comedies or tragedies.  
 Cease then to be the mockery of God; in savagery of love and death live thou and die!  
 Thus shall His laughter be thrilled through with Ecstasy.  
-  
+
 Very good! Now where were we? in the "blitz?" Oh, yes! No sense in scuffling or slinking or skulking; so one decides to take no notice so far as practical action is concerned.  
 So, the noise making work rather difficult, one lies down in Shavasana (the "CorpsePosition"—flat on the back, arms by sides, everything relaxed) or the Templar (Sleep of Siloam2) position, which is that of the Hanged Man in the Tarot. One then imagines a bomb dropping first in one place, then in another; one imagines the damage, and what one then has to do to counteract the new dangers— perhaps a wall of your house has gone, and you must get clear before the roof falls in. And so on—close the practice by a blockbuster hitting you accurately on the tip of the nose.3 This must be done realistically enough to make you actually afraid. But presently the fear wears off, and you get interested in your various adventures after each explosion: ambulance taking you to hospital, getting tools and digging out other people and so as far as your imagination takes you. After that comes yet another stage; your interest declines; you find yourself indifferent to the entire proceedings. After a few nights you can no longer distinguish between the real thing and your own private and peculiar Brock's Benefit. The fear will have vanished; familiarity breeds contempt. Finally, one is no longer even aware that the boys are out again on a lark.  
 Incidentally, one may draw a quite close parallel between these four stages and those accompanying Samadhi (probably listed in Mrs Rhys David's book on Buddhist Psychology, or in Warren's bran-tub of translations from the Tripitaka, or Three baskets of the Dhamma. I haven't seen either book for forty years or more, don't remember the exact titles; scholars would help us to dig them out, but it isn't worthwhile. I recall the quintessence accurately enough.  
@@ -3801,25 +3802,25 @@ Apollo is the God of Music, pre-eminently; but He is too all-comprehensive, all-
 ruled by Sol (or Venus), Fire, Air and Water in the Tablet of one of these, with an appropriate Character on the summit of the Pyramid. If so, all would be plain sailing.  
 Of course, there are other Gods, notably Pan. (I must ask you to set my Hymn to Pan to music). But I doubt if any of these are what you want. Probably the most practical plan would be to make a musical conjuration of Sol: use this as your invocation when you go on the Astral Plane: there find a suitable guide to the proper authority—and so on!  
 And that, dear Sister, for to-night will be exactly and precisely that!  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 1: The reader should bear in mind that traffic was primarily horses in the era in which Crowley worked out this method! – WEH  
 2: The "sleep of Siloam" (or 'Sialam') appears to have been a term used in certain occult fraternities to denote a controlled deliberate trance state (according to the editors of The Hermetic Brotherhood of Luxor the term originates in a 19th-century British army officer's memoir of his time in India, and was taken up by P.B. Randolph and H.P. Blavatsky). An unpublished (possibly lost, or never written) official instruction of A.'.A.'. supposedly deals with the matter. One ritual by Crowley which mentions "the Sleep of Siloam" survives (it was published in The Magical Link in 1999), and this does indeed have the magician lying down in the Hanged Man posture at one point in the ritual – T.S.  
 3: This letter may have been written in the early 40's before the blockbuster hit behind Crowley's residence while he was out. A caution regarding visualisation is in order! – W.E.H.  
 4: Chapters 177-182.  
 5: Jane Wolfe (Soror Estai), Hollywood actress in the 1920s; briefly resident at the Abbey of Thelema; later a member of Agapé Lodge #2 in California. Some of the other letters in Magick Without Tears may have also been originally written to her, though most were for Ms. Anne Macky (Soror Fiat Yod) – T.S.   
-  
+
 ### Chapter LXIV: Magical Power  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Rightly you remark that most of these letters have dealt with self-development in one form or another; now, what of the "causa finalis"1, the "practical angle" some would call it. Are the outrageous quack advertisements of the swindlers with their "Great Free Book" and so on, all baseless? My dear child, then back to those letters that gave you a glimpse of the History of Magick, and those in which I told you something of the ways in which the Masters work. Oh, I see! What you want now is to learn how to apply the knowledge and power that you have gained to the execution of your True Will, to accomplishment of the Great Work.  
 Obviously, much must be left to your own common-sense; the one technical point on which I insist above all others is the Magical Link.  
 You must lay to heart Magick Chapter XIV (pp. 106-122) and never forget one detail. More failure comes from neglect of this than from all other causes put together. Most of the qualities that you need are inborn; all the material is to your hand; and to develop them is a natural process, equally your birth right. But the making of the Link is an intellectual, even mechanical, task; success depends on purely objective considerations.  
@@ -3837,22 +3838,22 @@ And really they are quite a bit of a nuisance. Their possession is so flattering
 Nevertheless, "even the evil germs of Matter may alike become useful and good" as Zoroaster reminds us.2 For one thing, their possession is indubitably a sheet-anchor, at the mercy of the hurricane of Doubt— doubt as to whether the whole business is not Tommy-rot!  
 Such moments are frequent, even when one has advanced to a stage when Doubt would seem impossible; until you get there, you can have no idea how bad it is!  Then, again, when these powers have sprung naturally and spontaneously from the exercise of one's proper faculties in the Great Work, they ought to be a little more than leaks. You ought to be able to organise and control them in such wise that they are of actual assistance to you in taking the Next Step. After all, what moral or magical difference is there between the power of digesting one's food, and that of transforming oneself into a hawk?  
 That being the case, let me transform myself into a butterfly, and flit on to other honeysuckles!  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: Lat., "final cause." Aristotelean and medieval philosophy recognised four kinds of "cause" (a.t.a): material, formal, efficient and final; the "final cause" is the "for the sake of which," the purpose an intelligent agent has when making or doing something, the end or goal for which a thing exists, and so on – T.S.  
 2: Chaldæan Oracles, fragment 191 in the Westcott edition, where it is rendered "Nature persuadeth us that there are pure Dæmons, and that evil germs of Matter may alike become useful and good." A modern translation (by Johnston in Hekate Soteira) runs "Physis persuades us to believe that the daemones are pure, and that the products of evil matter are propitious and good." Johnston (also Lewy in Chaldæan Oracles and Theurgy) interprets this verse in a manner almost diametrically opposed to that of Crowley, arguing that the Oracles have a basically hylophobic perspective and this fragment is rather a warning about the delusiveness of "nature" (f.s..) – T.S.   
-  
+
 ### Chapter LXV: Man  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 In previous letters I hope I have been able to give you some idea of the initiated conception of the Macrocosm, and also to have made it clear to you why we must all use a symbolic language, and the necessity of constructing a special alphabet as the basis of our conversations about Magick.  
 I have also furnished you with charts of this alphabet. It would of course have been too clumsy and cumbersome to put all the different systems of symbol on to the Tree of Life. That Tree is indeed the basis of all our classification and I hope by now you have got fairly familiar with the process of sticking everything that turns up on its correct branch of the Tree.  
 In your last letter you thank me for having made clear to you the initiated teaching with regard to the Universe; and you now very rightly enquire "this being so, where do we come in?" You hold up to me one of the oldest axioms of the Qabalah. "That which is above is like that which is below," and you ask me for details. What, you enquire, is the constitution of Man? With what parts of the Great System is the Little System to coincide?  
@@ -3862,24 +3863,24 @@ But, after all, it is the same difficulty which every child finds when he begins
 You must be patient; you must go over and over again everything that is presented to you, and by obeying you will not only come to a clear comprehension of the subject, but find yourself automatically thinking in the language which you have been at such pains to acquire.  
 I feel then that I must leave you with these descriptions and these charts until painfully at first, but at the end with intense pride and gratification, you find yourself spontaneously grasping the more complex combinations of these letters and words which are the anatomy of the body of our Learning.  
 And do not forget the old and well-worn saw: "Drink deep, or taste not the Pierian Spring!—A little learning is a dangerous thing."  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 Note: In the original this letter was accompanied by four Tree of Life diagrams, three of which were copies of those which appeared in The Book of Thoth. They have been redrawn and in some cases re-arranged in an attempt to make the information readable on a computer screen.   
-  
+
 THE KEY SCALE  
 This figure shows the Sephiroth with their numbers only and the Paths with Hebrew letters corresponding. The first number on each Path is its "key scale" number, the second is the numerical value of the letter.  
-  
+
 HEBREW NAMES OF NUMBERS AND LETTERS.  
 This figure shows the name of the Sephiroth and the letters of the Paths in English, Hebrew and transliterated Hebrew. In the original edition the information on this and the above were combined into a single diagram which thus became unreadable in places.  
 THE CHINESE COSMOS.  
 This shows Crowley's later attributions of the Taoist principles including the eight trigrams of the Yi King to the Sephiroth. These differ somewhat from those in 777 col. XLVI and Appendix I.  
 GENERAL ATTRIBUTION OF THE TAROT.  
-  
+
 Names of Tarot Trumps, suits and court cards have been conformed to those employed in The Book of Thoth.  
 •  
 ATU VIII, "Adjustment," was traditionally called Justice.  
@@ -3906,19 +3907,19 @@ The Prince court cards (male figures in chariots) are sometimes known as Emperor
 (confusing, eh?).  
 •  
 The Princess court cards are sometimes known as Empresses or Pages.  
-  
+
 THE CONSTITUTION OF MAN  
-  
+
 The figure on which this is based was probably a copy of the diagram accompanying the first edition of Little Essays Toward Truth and shows the A.'.A.'. grades on the Tree of Life along with the Four Worlds and the Qabalistic Soul.1  
 1: This duplicates the G.'.D.'. confusion of the parts of the soul with the four Qabalistic worlds—as started by Mathers through misinterpretation of traditional Qabalah. The error of omitting the sixth traditional part, the Guff, is also perpetuated here. No big issue, but I'm picky – WEH. The confusion  
 between the Qabalistic worlds and parts of the soul first appears to have been perpetrated by Mathers in his introduction to Kabbalah Unveiled (s.72 and subjoined plate). The G'uph, identified with the physical body, is mentioned in the account of the Qabalistic Soul in Zalewski, Kabbalah of the Golden Dawn – T.S.   
-  
+
 ### Chapter LXVI: Vampires  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 So you want me to tell you all about Vampires? Vampire yourself!  
 I ask you, how does this come within the scope of your enquiries? Is this information essential to your Accomplishment of the Great Work? As the Government might say "Is your journey really necessary?"  
 So musing, I rang you up for details. Vampires, you say, might be a temptation to yourself, or they might sap your energy. Very good. I will tell you the little I know.  
@@ -3964,25 +3965,25 @@ Be that as it may, I once knew a lady of some seventy summers. She came of a nob
 young I mean up to forty). She not only looked twenty-five but she lived twenty-five. It was a genuine, natural, spontaneous twenty-five, not a gallant effort. She would dance the night through and go a long walk in the morning. You may apply to her for details of the treatment; I dare say she is still about, thought I did hear that she moved to South America when she saw 1914 coming. In any case, you have had some fairly plain hints so I can say in all simplicity, "Go thou and do likewise!"   
 I think my old friend Claude Farrère had more than an inkling of these matters; the idea of using young cellular tissue to fortify the old is plainly stated in La maison des hommes vivants; but as to the method of transmission his water was drawn from Wells (H.G.)  
 After that—you will agree that I have written enough.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 1: See De Arte Magica; the chapter on Vampirism is titled "Of a certain other method of Magick not included in the instruction of O.T.O." – T.S.  
 2: See Liber XXIV, chapter on Incubi and Succubi – T.S.  
 3: See Crowley's essay "On Food," printed in the Teitan Press edition of Amrita – T.S.  
 4: The quote is from Atalanta in Calydon, chorus "Who hath given man speech?" – T.S.  
 5: ... and note that the "male child" (p.95) equals the Serpent.   
-  
+
 ### Chapter LXVII: Faith  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Dear me! dear me! this is very unexpected. I wrote you a long while ago about doubt, and now I suppose the seed fell in fertile ground! My chaste remarks have prompted a new question "arising out of the previous answer, Sir."  
 You point out quite correctly that the doubt of which I wrote in passages of such burning eloquence is after all what used to be called "philosophic" doubt; and by "philosophic" people apparently meant something rather like "Pickwickians."  
 Not the genuine McCoy, determining action, but—well, rather like scoring points in an intellectual game.  
@@ -3990,7 +3991,7 @@ Now then (air connu) what is Faith? There are two kinds; and they are almost exa
 Then the third kind, which is moral, not intellectual; as in "good faith," bona fide, yours faithfully; and this is probably the hallmarked sense, for it implies just that endurance which goes with bide, and is not dependent in any way upon reason or conviction. This then I may dismiss as impertinent to the question in your letter, and stick to the other two.  
 Faith in its Meaning Number One was perfectly well defined by the schoolboy: "the faculty of believing that which we know to be untrue." It is at least the acceptance of any statement as true without criticism, examination, verification, or any other method of test. Faith of this sort is evidently the main symptom of the moron, the half-wit, the village idiot. It is this kind of faith upon the possession and exercise of which religious persons always insist as the first condition of salvation.  
 Here is my own lamentable foresight on the subject!  
-  
+
 The Convert (A Hundred Years Hence)1  
 There met one eve in a sylan glade  
 A horrible Man and a beautiful maid.  
@@ -4002,14 +4003,14 @@ A horrible Man and a beautiful maid.
 "I'm afraid you're a wicked man; Good-night."  
 While this sort of thing is styled success  
 I shall not count failure bitterness.  
-  
+
 Sometimes, note well! they are even frank about it, and say plainly that there would be no merit in it if there were any reasonable basis for it! This position is at the worst both honest and intelligible; the only trouble is that there is no possible means of deciding which to two conflicting statements to accept.  
 In faith of this kind there are of course in practice delicately shaded degrees; these depend mostly upon the authority of the speaker and your relations with, and opinion of, him. In practice, moreover, faith is usually tinged—should I say clouded?—by questions of probability. I see no need to weary you with examples of varying degrees; it is enough to dismiss the subject with the remark that faith is not true faith if any considerations of any kind sully its virgin nullity.   
 To prop faith is to destroy it: I am reminded of Mr Harry Price's young lady of Brocken fame, who was so timorously careful of her virginity that she never felt it safe unless she had a man in bed with her.  
 What is the other kind of faith? Like its hostile twin, it must have no truck with reason, at least no conscious truck, or it ceases to possess a moral meaning. It is that confidence  in oneself which assures one that the long shot at the tiger will fly true to the mark, that the tricky putt will go down, that the man one never beat before will go down this time; also its horrid contrary, the moral certainty that something will go wrong, even with the easiest problems, with one hundred to one in one's favour.  
 I think the official answer is that one's certainty is in reality based upon subconscious calculation, so that faith has nothing whatever to do with it. If there is any answer to this, I don't know it.  
 After all, that is neither here nor there; there is but one material issue: how to acquire that kind of faith. Suppose we hunt it up in that precious Book of Lies! Any luck? Sure, kiddums, here we are!  
-  
+
 Steeped Horsehair  
 Mind is a disease of semen.  
 All that a man is or may be is hidden therein  
@@ -4017,40 +4018,40 @@ Bodily functions are parts of the machine; silent, unless in dis-ease.
 But mind, never at ease, creaketh "I."  
 This I persisteth not, posteth not through generations, changeth momently, finally is dead.  
 Therefore is man only himself when lost to himself in The Charioting.  
-  
+
 Nothing in that to contradict the official view, is there? Nothing in biology either.  
-  
+
 Or in Blake:  
 "If the Sun and Moon should doubt They'd immediately go out."  
 Or in that other chapter of the Book of Lies:  
-  
+
 The Mountaineer  
 Consciousness is a symptom of disease.  
 All that moves well moves without will.  
 All skilfullness, all strain, all intention is contrary to ease.  
 Practise a thousand times, and it becomes difficult; a thousand, thousand, and it becomes easy; a thousand, thousand times a thousand, thousand, and it is no longer Thou that doeth it, but It that doeth itself through thee. Not until then is that which is done well done.  
 Thus spoke FRATER PERDURABO as he leapt from rock to rock of the moraine without ever casting his eyes upon the ground.  
-  
+
 Or in The Book of the Law. You know the passage well enough.  
 Conclusion: this discussion has for ever abolished the use of the word faith to imply conscious belief of any sort.  
 At least, if there should ever be an element of awareness, it is of the nature of a sudden leap into daylight of the quintessence of a mass of subconsciously selected and ordered experience.  
 Then what, if you please, did Paul mean when he wrote "Faith is the substance of things hoped-for, the evidence of things unseen." Oh, spot the Lady!  
-  
+
 Love is the law, love under will.  
-  
+
 Yours etc.  
-  
+
 P.S. Don't take any wooden money.  
 P.P.S. I have a marvellous proposition for you; I wouldn't let in anyone on it but my very best friend: there's a man in San Luis Potosi in a mine there; he stole about $20,000 worth of gold dust and now he's afraid to get rid of it, but he knows I'm safe and knows how to handle it and I've been his very best friend for twenty years, and he's as straight as a die, and I know he'd let us have it for $10,000 and I've only got $4,000—and that is where you come in!  
   "Confidence" = cum, with; fidere, to trust = to trust fully. This confidence of which I write is usually a sort of "hunch".  
 1: Originally published in The Winged Beetle (1910).   
-  
+
 ### Chapter LXVIII: The God-Letters  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Maybe it was Devanagri that began it! This "sacred" character, used rightly for Sanskrit alone, is supposed (so Allan Bennett told me) to be constructed on—can one call them ideographic?—principles. The upright line is the soft palate; the horizontal the hard; and the line between them shows the position of the tongue when one pronounces the letter. He demonstrated this most elegantly for the letter T ( ); but I was never able to follow this up with most of the other fifty-five (isn't it?) letters.  
 However, it did start me thinking (why?) about the possibility of a direct relation between the sound of a letter and its meaning in some primitive manner of speech.  
 So I used to alarm my fellow-citizens, usually passengers on a liner, by spending most of my time repeating some unhappy letter over and over, while I looked into my mind to see if the sound suggested any particular idea. (It was rather fun, you know; but it was most certainly one of the most delicate, subtle, and difficult experiments that I have ever undertaken.)  
@@ -4058,10 +4059,10 @@ Bound to flop, obviously, from the word "gun", if only because the same-sounding
 The importance of all this: I'm sure I've told you how Thoth, God of all Magick, the Wisdom and the Word, is usually shown with style and papyrus, as inventor of writing, which is the real Magical Art.  
 Hence "grimoire" is nothing but grammar; to cast a "spell" explains itself; and the Angel (e.g. of a Church, see Revelations I, II) was merely the Secretary.1  
 Never mind! I was thinking of language in its (supposed) primal state, when grunts and groans and moans and yells and squeaks and the like were the nearest anybody ever got to:  
-  
+
 "Sweet articulate words  
 Sweetly divided apart."  
-  
+
 And yet I persisted. I wanted to go right back, before letters were put together to make words at all.  
 This is, I believe, almost wholly original work, though I'm not sure that Fabre d'Olivet didn't skate round the edges.  I put to myself this question: when I pronounce the letter so-and-so, what thought or class of thought tends to arise in my mind? (If you practise this in public, people may wonder!)  
 With the vowels, one does seem to find a natural correspondence. (I wrote a ballet "The Blind Prophet" on these lines, long before it struck me to investigate on scientific lines).  
@@ -4072,14 +4073,14 @@ Students of language have been accustomed to group the consonants exactly as we 
 Dentals, Labials, Gutturals.  
 Various modifications extend them to fifty-nine and there are twenty- seven vowels. I shall naturally concern myself only with those that matter to the subject: in practice, the twenty-two letters of the Hebrew Alphabet will serve for this preliminary study, especially as in that case, we have already the attributions. I will begin by classing them.3  
 Gutturals  
-  
+
 1. G. Luna.  
 2. Ch. Cancer, house of Luna; Jupiter here exalted.  
 3. K. Jupiter.  
 4. Q. Pisces, house of Jupiter. Atu XVII "The Moon." You will note that either Jupiter or Luna occurs in every case; in two, doubly. Guttur, moreover, is the Latin word for throat. Both planets emphasise the soft open expansive aspects of Nature; they both refer accordingly to the feminine throat, the tube either of present or of future Life. (Jupiter, when in Sagittarius, has an aggressive, masterful, male side; but his letter when there is Samekh.) Now pronounce these letters; observe the motions of opening and expulsion of the breath. Well, then, you will no longer wonder at that list we had in another letter of the words Cwm, coombe, quean, queen, and so on; also (?) quill, queer, quaintest, curious, (?) quick, (?) quince: especially with the U vowel, which sounds prehensile, ready to suck.  
 Kupris (or Ctytto) the Greek or Syrian Aphrodite-Venus, is the outstanding example in Theogony.  
 But, you ask, what has all this to do with the Gods? Patience, child; this will develop as we proceed.  Let us look at the dentals. These, for the profane scholar, include the "sibilants," and "liquids."  
-  
+
 Dentals:  
 1. D. Venus.  
 2. Z. Gemini, house of Mercury.  
@@ -4091,20 +4092,20 @@ Dentals:
 8. R. Sol.  
 9. Sh. Fire.  
 10. Th. Saturn; the Earth. Here, we see at one glance, there is no such simple obvious relationship, as in the previous list. Nor indeed is there, to my ear, any close connection in the sounds. Better luck, perhaps, with the last lot.  
-  
+
 Labials  
 1. B. Mercury.  
 2. V. (or F 4) Taurus. House of Venus; Luna exalted therein.  
 3. P. Mars. Not a bit of it; almost worse than before. Here, then, I say it, weeping, with agonised reluctance, the Holy Qabalah has let us down with a bump! (It did look, too, didn't it, as if it was all going to go so miraculously well!) All is not lost—not even honour! Suppose you reflect that (after all) Hebrew is a late language, invented; far, far removed from the primitive grunts and groans (with their corresponding motions) that we set out to study. Let us take the high hand, and say that the Guttural Correspondence doesn't rime with anything, that it is just an amazing piece of sheer luck:  
 nay, that it should serve us as a warning not to be led away like Macbeth—you remember how  
-  
+
 Banquo warned him that  
 "Oftentimes, to win us to our harms,  
 The instruments of darkness tell us truths,  
 Win us with honest trifles, to betray us  
 in deepest consequence."  
 —and breaks off abruptly to speak with his cousins.  
-  
+
 Never forget the abiding temptation of men of science, the hidden rocks on which so many have been wrecked, to generalise on insufficient data. May the gods keep us from that! I dread it more than all the other snags put together.  
 With all due caution, therefore, let us attack our puzzle from the other end; let us see what astral experiment tells us about the philology of it!  
 Good! We'll call it D-Day and drop our paratroops. D is a sharp, sudden, forceful explosive sound, cut off smartly. Now then I can't tell whether you will connect this with ejaculation, with the idea of paternity. Whether or not, a vast number of people did so in the dawn of speech. Even today children seem instinctively to say "Dad" for "Father," though no allowance can be made for cases of mistaken identity. And the most ancient Father-Gods of the oldest and simplest civilisations are thus named. In Sumer He was AD, or ADAD, whence the later Egyptian Hadit, and the Semitic Adonai.  
@@ -4119,13 +4120,13 @@ I can't be helped; and I feel that I shall have rendered you quite a bit of serv
 The subject is closely bound up with Mantra-Yoga, and with Invocation. You will doubtless have noticed (for instance) that many chapters of the Q'uran have the letter L for a leit-motif. Islam attaches immense importance to this liquid L, as it appears in Allah (compare the Hebrew L-Gods, AL, Aloah, Elohim, A'alion, etc., and look up the L-idea in your Book of Thoth, and in Magick, pp. 331 sqq.6) and other peculiarly sacred names and words.  
 Before cursing my way to dinner—oh! how I hate the need of food unless I am practising the "Ninth Art" and disguise myself as a gourmet—I must mention the letter M. This is the only letter that can be pronounced with the lips firmly closed; it is the beginning of speech, and so the Mother of the Alphabet. (Distinguish from N, the letter of the Female). Look up Magick again; Chapter VII (pp. 45- 49) gives a good account of M in discussing AUM. Note, too, the root MU "to be silent," form which we have the words Mystic, Mystery and others. As the letter of the Mother it appears to this day in nature everywhere, the first call of the child to "Mamma." In nearly every language, moreover, the word for Mother is based on M. Madar, Mere, Mutter, Umm, AMA or AIMA and the rest.  
 The vibrant R suggests light-rays: Ra, the Sun; the labials bring to mind the curves in Nature you will soon discover the words with a few little experiments; the T is a D, only lighter, quicker and younger—and so Good-night!  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 1: Grk., a..e...., a messenger or envoy; one that announces (Liddell & Scott intermediate) – T.S.  
 2: For multiple examples of this kind of thing, see also The Greek Magical Papyri in Translaiton (Uni.  of Chicago Press, 1986, 1992) – T.S.  
 3: In a note to Kabbalah Unveiled (I.Z.Q. cap. XIX. s. 694) Mathers gives the division thus:  
@@ -4138,28 +4139,28 @@ Fraternally,
 4: Here represent the obsolete Greek letter digamma.  
 5: The reference is to the discussion of the formula of LAShTAL in the essay accompanying Liber V vel Reguli – T.S.  
 6: The reference is again to Liber V – T.S.   
-  
+
 ### Chapter LXIX: Original Sin  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 It was at Dover. I had passed the Customs Inspector. Turning back, I said: "But perhaps I ought to have declared my Browning?" Much agitated, he muttered: "How ever did I come to miss that?" and began all over again. I helped him out: "You see, you were thinking of pistols, I of poetry." (There is a lesson in that!)  
 And now you—of all people!—fire him off at me. "Gold Hair" you write; "what about R.B's defence of Christianity?" You mean, of course,  
-  
+
 "'Tis the faith that launched point-blank its dart  
 At the head of a lie, taught Original Sin, The corruption of man's heart."  
-  
+
 It is impossible to commit all the possible logical errors in the course of a single syllogism; but he has an honest try.  
-  
+
 1. It's not a man's heart, but a girl's.  
 2. He argues from an extravagantly rose case of aberration as if it were an universal rule.  
 3. All his premises are false; and even at that, defective.  
 4. Non distributio medii.  
 5. Ignoratio elenchi.  
 6. Need I go on?  
-  
+
 For one thing, I have yet to learn who told the "lie." It was not until Rousseau that we had the nonsense about the "noble savage." But it is at least true that man's deepest instincts, being natural and necessary, are, for him, "right." It is true that an artificial society creates artificial crimes; but this is not "Original" Sin; on the contrary. What's that you say?  
 I laugh! I wondered when you were going to pull me up, and send me packing to my Skeat about what "Sin" means. O.K. Police routine does beat the gifted amateur. Sin, astonishingly, means real!  
 Curtius tells us "Language regards the guilty man as the man who it was." Then, what is "guilt"? A.S.  gylt, trespass; in our own Thelemic language, "deviation from (especially in the matter of excess, trespasser) the True Will." Please take notice that most of the words which denote misconduct imply wandering, either from the home or from the path: error, debauch, wrong (=twisted), wry, evil (excessive) detraquer, go astray, and several others. So I too leap into the breach with Curtius, and point out that "Language itself asserts the doctrine of the True Will." But what says The Book of the Law? It is at pains to define Sin in plain terms: "The word of Sin is Restriction. ..." (AL I, 41). From  
@@ -4167,7 +4168,7 @@ the context it seems clear that this refers more especially to interference with
 This statement is the first need of the world to-day for we are plagued with Meddlesome Matties, male and female, whose one overmastering passion is to mind other peoples' business. They can think of nothing but "control." They aim at an Ethic like that of the convict Prison; at a civilisation like that of the Bees or the Termites. But neither history nor biology acquaint us with any form of progress achieved by any of these communities. Penal settlements and Pall Mall Clubs have not even made provision for the perpetuation of their species; and all such "well-ordered" establishments are quite evidently defenceless against any serious change in their environment. They have failed to comply with the first requirements of biology; at best, they stagnate, they achieve nothing, they never "get anywhere."  
 A settled society is useful at certain periods; when, for instance, it is advisable to consolidate the gains gotten by pioneer adventurers; but history shows with appalling clarity that the very qualities which serve to protect must inevitably destroy the very conditions which they aim to preserve.   
 Hey! Hasn't the dear old Book of Lies got its word on the subject? Never known to fail!  
-  
+
 The Wound of Amfortas  
 The Self-mastery of Percivale became the Self-Masturbatery of the Bourgeois.  
 Vir-tus has become "virtue."  
@@ -4179,27 +4180,27 @@ If only the Archbishop of Canterbury were to go naked in the streets and beg his
 The new Christ, like the old, is the friend of publicans and sinners; because his nature is ascetic.  
 O if everyman did No Matter What, provided that it is the one thing that he will not and cannot do.  
 That settles it.  
-  
+
 We do progress; but how? Not by the tinkering of the meliorist; not by the crushing of initiative; not by laws and regulations which hamstring the racehorse, and handcuff the boxer; but by the innovations of the eccentric, by the phantasies of the hashish-dreamer of philosophy, by the aspirations of the idealist to the impossible, by the imagination of the revolutionary, by the perilous adventure of the pioneer. Progress is by leaps and bounds, but breaking from custom, by working on untried experiments; in short, by the follies and crimes of men of genius, only recognisable as wisdom and virtue after they have been tortured to death, and their murderers reap gloatingly the harvest of the seeds they sowed at midnight.  
 Damn it! All this is so trite that I am half ashamed to write it; and yet—everyone acquiesces with a smile, and goes off to vote another set of fetters for his feet!  
 Sin? This is the sin of sins: Restriction. All boots from the one last: all beautifully polished on parade; the March of Time will find not much but hobbling!  
 More of this when I answer your letter (just in as I drew rein to read this over) about Education.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 P.S. On reading this, I note that I passed over with deserved contempt the theory of "original sin" in the sense which you probably meant me to take: the defect deliberately implanted in man by "Old Nobodaddy" with no better object than to prepare the grotesquely tragic farce of the "Atonement." I will merely remark that no idea at once so base and so contemptible, so bestial and so idiotic, can challenge its ignoble absurdity. Rotten with sex-perversion, it is a noisome blend of sadism and masochism based on the most abject form of fear.  
 The only argument for it is that it ever did exist; but it does not exist for wholesome minds.   
-  
+
 ### Chapter LXX: Morality (1)  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 "Tu l'as voulu, Georges Dandin!" I knew from the first that your sly, insidious, poisoned poniard, slipped in between my ribs, would soon or late involve a complete exposition of the whole subject of Morality.  
 Of we go! What really is it? The word comes from Mos, Latin for custom, manner. Similarly, ethics: from Greek .T.S, custom. "It isn't done" may be modern slang, but it's correct. Interesting to study the usage of "moeurs" and "manières" in French. "Manner" from "manus"—hand: it is "the way to handle things."  
 But the theological conception has steered a very wrong course, even for theology; brought in Divine Injunction, and Conscience, and a whole host of bogeys. (Candles in hollow turnips deceive nobody outside a churchyard!)  
@@ -4234,15 +4235,15 @@ Now then, I hope that we have succeeded in clarifying this exceptionally muddy m
 In the passive elements of Earth and Water is no creative virtue to cleanse themselves from such impurity as they chance to acquire; it is therefore of cardinal importance to watch them, guard them, keep their Purity untainted and unsoiled; shall the Holy Grail brim with poison of Asps, and the golden Paten be defiled with the Bread of Iniquity? Come Fire, come Air, cleanse ye and kindle the pure instruments, that Spirit may indwell, inform, inspire the whole, the One Continuous Sacrament of Life!  
 We have considered this Morality from quite a number of very different points of view; wrought subtly and accurately into final shape, you should find no further difficulty in understanding fully at least the theoretical and abstract aspects of the business.  
 But as to your own wit of judgment as to the general rules of your own private Code of Morals, what is "right" and what is "wrong" for you, that will emerge only from long self-analysis such as is the chief work of the Sword in the process of your Initiation.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 P.S. Most of this is stated or implied in AHA!  
-  
+
 MARSYAS  
 . . . . . . . . . . Be ever as you can   
 A simple honest gentleman!  
@@ -4278,17 +4279,17 @@ MARSYAS Enough. The soul is subtlier fed
 With meditation's wine and bread.  
 Forget their failings and our own;  
 Fix all our thoughts on love alone!  
-  
+
 1: This is a reference to the school of thought of Rudolf Steiner. By the time of this writing, Steiner's students were being taught that Crowley was a "bad man." Tit for tat. Anthroposophy presents a merging of several branches of mysticism with dance and movement. It rewards study, but one shouldn't mention A.C. at the Steiner schools until one has acquired what one wants! – WEH.  
 2: John XIII, 2-3 in the King James translation reads: "And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon's son, to betray him; Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God." Crowley, or the typesetter, or transcriber, may have got the references slightly confused, as Luke VIII, 3 (KJV) reads:  
 "And Joanna, the wife of Chuza Herod's steward, and Susanna, and many others, which ministered unto him of their substance." Crowley alludes to this verse in a similar connection in The Gospel According to Saint Bernard Shaw – T.S.   
-  
+
 ### Chapter LXXI: Morality (2)  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 The contents of your letter appalled me. I had hoped that you had left behind forever all that quality of thinking. It is unclean. It is stuffy and flabby. You write of a matter about which you cannot possibly have information, and what you say is not even a good guess; it is simply contrary to fact. It shows also that you have failed to grasp the nature of the O.T.O. Its main raison d'être, apart from social and political plans, is the teaching and use of a secret method of achieving certain results. This secret is a scientific secret; it is guarded against betrayal or abuse by a very simple automatic arrangement. Its guardians cannot be "dying" any more than electricians as a class can be. It is really difficult to answer your letters. You have got things so higgledy-piggledy. You write of the constitutions of two orders, the A.'. A.'. and the O.T.O.; yet you ignore the printed information about them which you are supposed to have read.  
 I have to answer each sentence of your letter separately, so incoherent have you become!  
 You are a "student" of A.'. A.'., and become a Probationer as soon as you take and pass the examination. (This is intended mostly to make sure that you have some general idea of the principal branches of the subject, and know the more important correspondences,) The rest:—please read One Star in Sight again, and do for God's sake try to assimilate the information there very clearly and very fully given!  
@@ -4297,7 +4298,7 @@ You say that you must tread the Path alone: quite true, if only because anything
 You quote odd opinions at random without the means of estimating their value.  
 Cannot I ever get you to understand the difference between an honest and dishonest teacher? I have always made it a rule never to put forward any statement of which I cannot produce proof; when I venture a personal opinion it is always Marked in Plain Figures to that effect. (I refer you to Magick p.368: - p. 375, , paragraphs 1 and 2:. and p. 415, paragraphs 000 and 00. We insist from the beginning on the individual character of the work, and upon the necessity of maintaining the objective and sceptical standpoint. You are explicitly warned against reliance upon "authority," even that of the Order itself.)  
 Consider my own assets, personal, social, educational, experiential and the rest: don't you see that all I had to do was to put out some brightly-coloured and mellifluous lie, and avoid treading on too many toes, to have had hundreds of thousands of idiots worshipping me?  
-  
+
 Please get a Konx om Pax somehow, and read p. XII:  
 "It's only too easy to form a cult,  
 To cry a crusade with 'Deus Vult' . . . .  
@@ -4306,7 +4307,7 @@ And I, or any otherguess ass,
 Could bring to our mystical Moonlight Mass  
 Those empty-headed Athenians."  
 and so on.   
-  
+
 But I never forget that I am working on the 2,000 year basis; my work will stand when all the pompous platitudes and pleasant pieties have withered for the iridescent soft-soap bubbles that they are.  
 Soap! Yes, indeed. I work on gold, and gold must be cleansed with acid.  
 I really cannot understand how you can be so inaccurate, with the very text before your eyes! You write—"you write that in Jan. 1899 etc." But I don't. Captain J. F. C. Fuller wrote it.1 A small point; but you must learn to be careful about every tiniest detail.  
@@ -4329,23 +4330,23 @@ I think this idea is a monstrous growth upon the tetanus-soaked soil of your fea
 Observe how all these mealy-mouthed prigs develop their distrust of Life until hardly an action remains that is not "dangerous" or in some way harmful. They dare not smoke, drink, love—do anything natural to them. They are right!! The Self in them is Guilt, a marsh miasmal of foul pestilence. Last, since "nature, though one expel it with a pitchfork, always returns," they do their "sins" in secret, and pile hypocrisy upon the summit of all their other vices.  
 I cannot write more; it makes me too sad. I hope there is no need. Do be your Self, the radiant Daughter of the Muse!  
 With that command I turn to other tasks.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally yours ever,  
-  
+
 666  
-  
+
 1: If the reference is to one of the first four instalments of The Temple of Solomon the King then her mistake was excusable since Fuller's author credit was buried away in the Index to Equinox vol. I, and given Crowley's habit of talking about himself in the third person it was not an unreasonable assumption; if it was to anything in Equinox of the Gods, she was right and Crowley was wrong since the section of that book reprinted from Equinox I (7) was written by Crowley after Fuller had broken with him – T.S.  
 2: Her confusion probably stemmed from the fact that Crowley re-named some of the Outer Order grades when reformulating the A.'.A.'.; Neophyte is 1°=10° A.'.A.'. and 0° =0° in the original G.D.;  
 Theoricus is 2°=9° G.D. where it follows 1°=10° Zelator (these titles derive in the first instance from the Masonic Societas Rosicruciana who may in turn have got them from the 18th century German "Golden and Rosy Cross") but is not an A.'.A.'. title – T.S.   
-  
+
 ### Chapter LXXII: Education  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Education means "leading out"; this is not the same as "stuffing in."  
 I refuse to enlarge on this theme; it is all-important. To extract something, you should first know what is there. Here astrology ought to give useful hints; its indications give the mind something to work on. Experience makes "confirmation strong as Holy Writ;" but beware of à priori. Do not be dogmatic; do not insist in the face of disappointment. Astrology in education is useful as geology is to the prospector; it tells you the sort of thing to look for, and the direction in which to explore.  
 There are, however, two main lines of teaching which are of universal value to normal children; it is hardly possible to begin too early.  
@@ -4359,46 +4360,46 @@ Our old unvalued friend St. Paul, the cunning crook who turned the Jewish commun
 Much as I should like to see my Father the Sun once more before I die, nothing doing until—if ever—life recovers from the blight of regulations. Luckily, one thing she said helps us out: someone had told her that I had written on Education in Liber Aleph—The Book of Wisdom or Folly—which has been ready for the printer for more than a quarter of a century—and there's nothing I can do about it!  
 However, I looked up the typescript. The book is itself Education; there are, however, six chapters which treat of the subject in the Special sense in which your question has involved us.  
 So I shall fling these chapters headlong into this letter.  
-  
+
 DE VOLUNTATE JUVENUM 1  
-  
+
 Long, O my Son, hath been this Digression from the plain Path of My word concerning Children; but it was most needful that thou shouldst understand the Limits of true Liberty. For that is not the Will of any Man which ultimateth in his own Ruin and that of all his Fellows; and that is not Liberty whose Exercise bringeth him to Bondage. Thou mayst therefore assume that it is always an essential Part of the Will of any Child to grow to Manhood or to Womanhood in Health, and his Guardians may therefore prevent him from ignorantly acting in Opposition thereunto, Care being always taken to remove the cause of the Error, namely, Ignorance, as aforesaid. Thou mayst also assume that it is Part of the Child's Will to train every Function of the Mind; and the Guardians may therefore combat the Inertia which hinders its Development. Yet here is much Caution necessary, and it is better to work by exciting and satisfying any natural Curiosity than by forcing Application to set Tasks, however obvious this Necessity may appear.  
-  
+
 DE MODO DISPUTANDI 2  
-  
+
 Now in this training of the Child is one most dear Consideration that I shall impress upon thee as is Conformity without holy Experience in the way of Truth. And it is this that since that which can be thought is not true, every Statement is in some sense false. Even on the Sea of Pure Reason, we may say that every Statement is in some Sense disputable. Therefore in every Case, even the simplest, the Child should be taught not only the Thesis, but also its opposite, leaving the Decision to the child's own Judgment and good Sense, fortified by Experience. And this Practice will develop its Power of Thought, and its Confidence in itself, and its Interest in all Knowledge. But most of all beware against any Attempt to bias its Mind on any Point that lieth without the Square of ascertained and undisputed Fact. Remember also, even when thou art most sure, that so were they sure who gave Instruction to the young Copernicus. Pay Reverence also to the Unknown unto whom thou presumest to impart thy knowledge; for he may be one greater than thou.  
-  
+
 DE VOLUTATE JUVENIS COGNOSCENDA 3  
-  
+
 It is important that thou shouldst understand as early as may be what is the true Will of the Child in the Matter of his Career. Be thou well aware of all Ideals and Daydreams; for the Child is himself, and not thy Toy. Recall the comic Tragedy of Napoleon and the King of Rome; build not an House for a wild Goat, nor plant a Forest for the Domain of a Shark. But be thou vigilant for every Sign, conscious or unconscious, of the Will of the Child, giving him then all Opportunity to pursue the Path which he thus indicates. Learn this, that he, being young, will weary quickly of all false Ways, however pleasant they may be to him at the Outset; but of the true Way he will not weary. This being in this Manner discovered, thou mayst prepare it for him perfectly; for no man can keep all Roads open for ever. And to him making his Choice explain how one may not travel far on any one Road without a general Knowledge of Things apparently irrelevant. And with that he will understand, and bend him wisely to his Work.  
-  
+
 DE ARTE MENTIS COLENDI (1) MATHEMATICA 4  
-  
+
 Now, concerning the first Foundation of Thy Mind I will say somewhat. Thou shalt study with Diligence in the Mathematics, because thereby shall be revealed unto thee the Laws of thine own Reason and the Limitations thereof. This Science manifesteth unto thee thy true Nature in respect of the Machinery whereby it worketh, and showeth in pure Nakedness, without Clothing of Personality or Desire, the Anatomy of thy conscious Self.   
 Furthermore, by this thou mayst understand the Essence of the Relations between all Things, and the Nature of Necessity, and come to the Knowledge of Form. For this Mathematics is as it were the last Veil before the Image of Truth, so that there is no Way better than our Holy Qabalah, which analyseth all Things soever, and reduceth them to pure Number; and thus their Natures being no longer coloured and confused, they may be regulated and formulated in Simplicity by the Operation of Pure Reason, to their great Comfort in the Work of our Transcendental Art, whereby the Many become One.  
-  
+
 SEQUITUR (2) CLASSICA 5  
-  
+
 My son, neglect not in any wise the study of the Writings of Antiquity, and that in the original Language. For by this thou shalt discover the History of the Structure of thy Mind, that is, its Nature regarded as the last Term in a Sequence of Causes and Effects. For thy Mind hath been built up of these Elements, so that in these Books thou mayst bring into the Light thine own sub-conscious Memories. And thy Memory is as it were the Mortar in the House of thy Mind, without which is no Cohesion or Individuality possible, so that it is called Dementia. And these Books have lived long and become famous because they are the Fruits of ancient Trees whereof thou art directly the Heir, wherefore (say I) they are more truly germane to thine own Nature than Books of Collateral Offshoots, though such were in themselves better and wiser. Yes, O my son, in these Writings thou mayst study to come to the true Comprehension of thine own Nature, and that of the whole Universe, in the dimensions of Time, even as the Mathematic declareth it in that of Space: that is, of Extension.  
 Moreover, by this Study shall the Child comprehend the Foundation of Manners: the which, as sayeth one of the Sons of Wisdom, maketh Man.  
-  
+
 SEQUITUR (3) SCIENTIFICA 6  
-  
+
 Since Time and Space are the conditions of Mind, these two Studies are fundamental. Yet there remaineth Causality, which is the Root of the Actions and Reactions of Nature. This also shalt thou seek ardently, that thou mayest comprehend the Variety of the Universe, its Harmony and its Beauty, with the Knowledge of that which compelleth it. Yet this is not equal to the former two in Power to reveal thee to thyself; and its first Use is to instruct thee in the true Method of Advancement in Knowledge, which is, fundamentally, the observation of the Like and Unlike. Also, it shall arouse in thee the Ecstasy of Wonder; and it shall bring thee to a proper Understanding of Art Magick. For our Magick is but one of the Powers that lie within us undeveloped and unanalysed; and it is by the Method of Science that it must be made clear, and available to the Use of Man. Is not this a Gift beyond Price, the Fruit of a Tree not only of Knowledge but of Life? For there is that in Man which is God, and there is that also which is Dust; and by our Magick we shall make these twain one Flesh, to the Obtaining of the Empery of the Universe.  
 I suppose I might have put it more concisely: Classics is itself Initiation, being the key of the Unconscious; Mathematics is the Art of manipulating the Ruach, and of raising it to Neschamah; and Science is co-terminous with Magick.  
 These are the three branches of study which I regard as fundamental. No others are in the same class. For instance, Geography is almost meaningless until one makes it real by dint of honest travel, which does not mean either "commuting" or "luxury cruises," still less "globe-trotting." Law is a specialised study, with a view to a career; History is too unsystematic and uncertain to be of much use as mental training; Art is to be studied for and by one's solitary self; any teaching soever is rank poison.  
 The final wisdom on this subject is perhaps the old "Something of everything, and everything of something."  
-  
+
 Love is the law, love under will.  
-  
+
 Yours ever,  
-  
+
 666  
-  
+
 P.S. Better mention, perhaps, that literacy is no test of education. For ignorance of life, the don class leaves all others at the post; and it is these monkish and monkeyish recluses, with their hideous clatter and cackle, "The tittering, thin-bearded, epicene," "Dwarf, fringed with fear," the obscene vole, dweller by and in backwaters that has foisted upon us the grotesque and poisonous superstition that wisdom abides only in dogs-eared, worm-eaten, mule-inspired long-forgotten as misbegotten folios. I like the story—it is a true tale—of the old Jew millionaire who bought up the annual waste of the Pennsylvania Railroad—a matter of Three Million Dollars. He called with his cheque very neatly made out—and signed it by making his mark! The Railroad Man was naturally flabbergasted, and could not help exclaiming, "Yet you made all those millions of yours—what would you have been if only you had been able to read and write?" "Doorkeeper at the Synagogue" was the prompt reply. His illiteracy had disqualified him when he applied for the job after landing.  
 The story is not only true, but "of all Truth;" see my previous letter on "Certainty."  
 Books are not the only medium even of learning; more, what they teach is partial, prejudiced, meagre, sterile, uncertain, and alien to reality. It follows that all the best books are those which make no pretence to accuracy: poetry, theatre, fiction. All others date. Another point is that Truth abides above and aloof from intellectual expression, and consequently those books which bear the Magic Keys of the Portal of the Intelligible by dint of inspiration and suggestion come more nearly to grips with Reality than those whose appeal is only to the Intellect. "Didactic" poetry, "realistic" plays and novels, are contradictions in terms.  
-  
+
 P.P.S. One more effort: the above reminds me that I have said no word about the other side of the medal. There are many children who cannot be educated at all in any sense of the word. It is an abominable waste of both of them and of the teacher to push against brick walls. Yet one last point.  
 I am as near seventy as makes no matter, and I am still learning with all my might. All my life I have been taught: governesses, private tutors, schools, private and public, the best of the Universities: how little I know! I have travelled all over the world in all conditions, from "grand seigneur," to "holy man;" how little I know!  
 What then of the ninety-and-nine, dragged by the ears through suicide examinations, and kicked out of school into factory in their teens? They have learnt only just enough to facilitate the swallowing of the gross venal lies of the radio and the Yellow Press; or, if mother-wit has chanced to warn them, they learn a little—very little—more, getting their Science from a Shilling Handbook and so on, till they know just enough to become dangerous agitators.  
@@ -4427,13 +4428,13 @@ about the nearest most of them got to Ralph Straus and Desmond MacCarthy!
 Words of one syllable! Louis Marlow8 had already told me what a fool I was to expect that. "All they can digest," said he, "is a mess of stewed clichés with Bird's custard Power."  
 Damn everything—it's true, it's true.  
 So do you at least get together the stones that you need to build your Basilica!  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
   They attach no meaning to these words:  
 · Palaeontology  
 · Criterion  
@@ -4448,7 +4449,7 @@ Yours fraternally,
 · Chordee)  
 · Gleet ) (Although they have them!)  
 · Histology ("Something to do with history")  
-  
+
 1: Lat., "Of the Will of Children." Cap. 40 of Liber Aleph.  
 2: Lat., "Of the Method of Disputation." Cap. 41 of Liber Aleph.  
 3: Lat., "Of Knowing the Will of a Child." Cap. 42 of Liber Aleph.  
@@ -4457,13 +4458,13 @@ Yours fraternally,
 6: Lat., "Continues: (3) Sciences." Cap. 49 of Liber Aleph.  
 7: Probably Grady Louis McMurtry, who became "Caliph" or acting head of O.T.O. many years later – WEH.  
 8: Louis Umfraville Wilkinson wrote under this pen name. He was one of two individuals named to be literary executors under Crowley's Last Will and Testament WEH.   
-  
+
 ### Chapter LXXIII: "Monsters", Niggers, Jews, etc.  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Come now, is this quite fair? When I agreed to tip you off about Magick and the rest, I certainly never expected to be treated as if I were being interviewed by an American Sunday Newspaper.  
 What do I prefer for breakfast, and my views on the future of the theatre, and is the Great White Brotherhood in favour of Eugenic Babies? No, dear sister—I nearly said sob-sister. But this I will say, you have been very artful, and led me on very cleverly—you must have been a terror to young men—for the matter of that, I dare say you are still!  
 And I don't see how to get out of swallowing this last sly bait; as you say, "Every man and every woman is a star." does need some attention to the definition of "man" and "woman." What is the position, you say, of "monsters"? And men of inferior" races, like the Veddah, Hottentot and the Australian Black fellow? There must be a line somewhere, and will I please draw it? You make me feel like Giotto!  
@@ -4482,20 +4483,20 @@ How right politicians are to look upon their constituents as cattle! Anyone who 
 And so, whenever we find one Man who has no fear like Ibsen's Doctor Stockmann or Mark Twain's Colonel Grainger that strolled out on his balcony with his shotgun to face the mob that had come to lynch him, he can get away with it. "An Enemy of the People" wrote Ibsen, "Ye are against the people, O my chosen!" says The Book of the Law. (AL II, 25).  
 Not only does it seem to me the only conceivable way of reconciling this and similar passages with "Every man and every woman is a star." to assert the sovereignty of the individual, and to deny the right-to-exist to "class-consciousness," "crowd-psychology," and so to mob-rule and Lynch-Law, but also the only practicable plan whereby we may each one of us settle down peaceably to mind his own business, to pursue his True Will, and to accomplish the Great Work.  So never lose sight for a moment of the maxim so often repeated in one context or another in these letters: that fear is at the root of every possibility of trouble, and that "Fear is failure, and the forerunner of failure. Be thou therefore without fear; for in the heart of the coward virtue abideth  
 not."  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
-  
+
+
 ### Chapter LXXIV: Obstacles on the Path  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Peccavi! And how! But my excuse is good, and I will try to make amends.  First, a little counter-attack—your letter is so rambling and diffuse that at first I couldn't make out what you were getting at, and at last decided that it is much too random to reproduce, or even to deal with in detail. I shall simply formulate the case for the Prosecution, plead guilty, and appeal for clemency.  
 The gravamen is that the Path of the Wise is gay with flowers, gilded with kiosks, and beset with snares; that every step is the Abode of Terror and Rapture—and all that! Yet I habitually write in the manner of a drunken dominie! You "gasped for Aeschylus, and got Theognis."  
 I tempted you, it seems with The Chymical Marriage of Christian Rosenkreutz, its incomparable mystery and glamour, its fugitive beauty, its ineffable romance, its chivalry and its adventure, pellucid gleams as of sunlight under the sea, vast brooding wings of horror overshadowing the firmament, yet with strong Starlight constant overhead. And then I let you down!  
@@ -4542,23 +4543,23 @@ The best advice that I can give is to remember that there is little need of the 
 Warfare shows us.  
 That seems to cover your question more or less; but don't forget that it depends on yourself how much of the dramatic quality colours your Path. I suppose I have been lucky to have had the use of all the traditional trappings; but it is always possible to make a "coat of many colours" out of a heap of rags. To show you that you have had Chaucer and John Bunyan—yes, and Laurence Sterne: to bring up the rear, James Thomson (B.V.) to say nothing of Conrad and Hardy. Nor let me forget The Cream of the Jest and The Rivet in Grandfather's Neck of my friend, James Branch Cabell.  
 So now, fair damozel, bestride thy palfrey, and away to the Mountains of Magick!   
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 P.S. One danger I had purposely passed over, as it is not likely to come your way. But, since others may read these letters—Some, and these the men of highest promise, often of great achievement, are tempted by Treason. They acquire a "Judas-complex," think how splendid it would be if they were to destroy the Order—or, at the very least, unhorse the Master.  
 This is, of course, absurd in itself, because if they had crossed the Abyss, they would understand why it is impossible. It would be like "destroying Electricity," or "debunking" the Venus of Milo. The maximum of success possible in such an operation would be to become a "Black-Brother;" but what happens in practice, so far as my own experience goes, is complete dispersion of the mental faculties amounting to suicide; I could quote no less than four cases in which actual physical self-murder was the direct result.  
 1: Editorial Q—isn't this backwards? WEH. [dancing star digs his copy of Brewer's out from under a stack of Equinox reprints & starts flicking...] Yes – T.S.   
-  
+
 ### Chapter LXXV: The A.'.A.'. and the Planet  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 You Write:  
 Am I to understand that the A.'. A.'. has two main lines of Work. (1) The initiation of Individuals, (2) Action on the world in general—say "Weltpolitik"? Because your letters on the# History of Magick do imply (2); and yet the A.'. A.'. discourages any form of group working. Is it that the Masters (8° = 3° Magistri Templi) having been admitted to the Third Order—the A.'. A.'. proper; below this are R.R. et A.C. and G.'. D.'.—are no longer liable to the dangers which make group activity in lower grades undesirable. Or do they still work as Individuals, yet, because they are initiates, appear to act as a corporate body? You have often expressed yourself as if this were so. 'Of course, They had to pick on me to do the dirty work' is a typical growl of the old Big Lion! But again there is that Magical Memory of yours when you came down from that Hermitage in the little wood overhanging the nullah below the Great Peak 'somewhere in Asia' and sat in some sort of Consistory in the valley where the great Lamaserai—or whatever it was—towers over the track, (I quote some of your phrases from memory.) Which is it?"  
 My dear child, that is all very sensibly put; and the answer is that Convenience would decide. Then you go on, after a digression:  
@@ -4595,7 +4596,7 @@ This hypothesis does at least make intelligible Their action in riding for a fal
 It may also be that They feel that human progress has reached its asymptote so far as the old Formula can take it. In fact, unless we take some such view, there does not seem to be much point in taking an action so fundamentally revolutionary (on the surface) as the proclamation of a New Word.  
 But then (you will object, if an objection it be) people like Lenin, Hitler, Mussolini, the Mikado, et hoc genus omne, are loyal emissaries of the Masters, or the gods! Well, why not? An analogy, once more. In the Christian legend we find God (omnipotent, omniscient, omnipresent) employing Judas, Pilate and Herod, no less than Jesus, as actors in the Drama which replaced Isis by Osiris in the Great Formula. Perfectly true; but this fact does not in any way exculpate the criminals. It is no excuse for the Commandants of Belsen and Buchenwald that they were acting under orders. The Drama is not mere playacting, in which the most virtuous man may play the vilest of parts.  
 Your further objection, doubtless, will be that this theory makes the Masters responsible for the agony of the planet. I refer you to The Book of the Heart Girt with a Serpent, Ch I, v. 33-40.  
-  
+
 33. Let us take our delight in the multitude of men! Let us shape unto ourselves a boat of mother-ofpearl from them, that we may ride upon the river of Amrit!  
 34. Thou seest yon petal of amaranth, blown by the wind from the low sweet brows of Hathor?  
 35. (The Magister saw it and rejoiced in the beauty of it.) Listen!  
@@ -4643,22 +4644,22 @@ No. The obscure autocrats of Diplomacy and Big Business are infinitely stupid an
 Yes: bella, horrida bella, Et flavem Tibrim spumantem sanguine cerno.   
 So, whichever way you vote, you are asking for trouble, or would do, if the vote had any meaning.  
 The result of any election, or for the matter of that any revolution, is an almost wholly insignificant component of those stupendous and inscrutable Magical Forces which determine the destinies of the planet.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: Crowley suffered from bad teeth in his last years, finally having them extracted about six months before his death in 1947 e.v. It is speculated that secondary infection from the extraction may have contributed to his death from pneumonia in December of that year – WEH.  
 2: The quote is from the Golden Dawn Zelator ritual – T.S.   
-  
+
 ### Chapter LXXVI: The Gods: How and Why they Overlap  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 I am glad: it shows you have been putting in some genuine original work. Result! You make a very shrewd observation; you have noticed the curious fashion in which Gods seem to overlap. It is not the same (you point out) with Angels. In no other system do we find a parallel for the Living Creatures, Wheels, Wings, Fiery Serpents,1 with such quasi-human cohorts as the Beni Elohim who beget the children on women,2 to whom the Qabalah has introduced us. The Beni Elohim is actually an exception; there is the Incubus and some of the Fairy Folk, as well as certain Gods and demi-Gods, who act thus paternally. But you are right in the main. The Arabs, for example, have "seven heavens" and seven Orders of Angels, also Jinn; but the classes are by no means identical. This, even though certain Archangels, notably Gabriel, appear in both systems. But then Gabriel is a definite individual, a person—and this fact is the key to your puzzle.  
 For, as I have explained in a previous letter, Gods are people: macrocosms, not mere collocations of the elements, planets and signs as are most of the angels, intelligences and spirits. It is interesting to note that Gabriel in particular seems to be more than one of these; he enjoys the divine privilege of being himself. Between you and me and the pylon, I suspect that Gabriel who gave the Q'uran to Mohammed was in reality a "Master" or messenger of some such person, more or less as Aiwass describes himself as "...the minister of Hoor-paar- kraat." (AL I, 7) His name implies some such function; for G.B.R. is Mercury between the Two Greater Lights, Sol and Luna. This seems to mean that he is something more than a lunar or terrestrial archangel; as he would appear to be from 777.  
 (There now! That was my private fiend again—the Demon of Digression. Back to our Gods!) 777 itself, to say nothing of The Golden Bough and the Good Lord knows how many other similar monuments of lexicography (for really they are little more), is our text-book. We are bound to note at once that the Gods sympathise, run into one another, coalesce much more closely than any other of the Orders of Being. There is not really much in common between a jackal and a beetle, or between a wolf and an owl, although they are grouped under Pisces or Aries respectively. But Adonis, Attis, Osiris, Melcarth, Mithras, Marsyas — — — a whole string of them comes tripping off the tongue. They all have histories; their birth, their life, their death, their subsequent career; all goes naturally with them exactly as if they were (say) a set of warriors, painters, anything superbly human. We feel instinctively that we know them, or at least know of them in the same sense that we know of our fellow men and women; and that is a sense which never so much as occurs to us when we discuss Archangels. The great exception is the Holy Guardian Angel; and this as I have shewn in another letter is for exactly the same reason; He is a Person, a macrocosmic Individual. (We do not know about his birth and so on; but that is because he is, so to speak, a private God; he only appears to the world at all through some reference to him by his client; for instance, the genius or Augoeides of Socrates).  
@@ -4668,22 +4669,22 @@ But upon certain points the identity is bound to transpire; even when we read of
 History lends its weight to my view. When the philosophic schools, unable to refute the charge of absurdity levelled at the orthodox devotee who believed that Mars actually begot Romulus and Remus on a Vestal Virgin, explained that Mars was no more than the martial instinct, and the Virgin a type of Purity, their faith declined, and with it Roman Virtue. "Educate" Colonel Blimp's children and we have the "intelligentsia" of Bloomsbury. I am very sorry about all this; but life must always be brutal and stupid so long as it depends upon animals and vegetables for nourishment.  
 How restore faith in the Gods? There is only one way; we must get to know them personally. And that, of course, is one of the principal tasks of the Magician.  
 One further remark. I have suggested that all these "identical" gods are in reality distinct persons, but belonging to the same families. Can we follow up this line of thought? Yes: but I will defer it to a subsequent letter.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 1: These are just the English names of various of the Qabalisitc "Choirs of Angels." – T.S.  
 2: Genesis VI. 2, 4. See also the Book of Enoch – T.S.   
-  
+
 ### Chapter LXXVII: Work Worthwhile: Why?  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Your remarks on my 0=2 letter are very apt and inspiriting—that is if I have rightly understood what you want to say. (Really, you know, they are a bit muddled—or I am!) May I frame your question, if it is a question, in my own terms? Yes? Right.  
 You say that I have advanced an invulnerable theory of the Universe in philosophical and mathematical language, and you suppose (underlined three times with two question marks) that one could, with a great effort, deduce therefrom perfectly good reasons for an unswerving contemplation of one's umbilicus, or the performance of strange dances and the vibration of mysterious names. But what are you to say (you enquire) to the ordinary Bloke-on-the-Boulevard, to the man of the world who has acquired a shrewd knowledge of Nature, but finds no rational guide to the conduct of life.  
 He observes many unsatisfactory elements in the way things go, and for his own sake would like to "remould them nearer to the heart's desire, to refurbish the cliché of Fitzgerald about "this sorry scheme of things." He is not in the least interested in the learned exposition of 0 = 2. But he is aware that the A.'. A.'. professes a sound solution of the problem of conduct and would like to know if its programme can be justified in terms of Common Sense.  
@@ -4710,19 +4711,19 @@ But is this possible?
 Tradition and experience unite to assert that it is so; moreover, various forms of technique for accomplishing this are at our disposal. This is what is called The Great Work; and it is abundantly clear that no other aim is worth pursuit.   
 So much for the argument; it will be agreed readily enough that to put it into practice we shall need an Alphabet, a Grammar and a Dictionary. Follow the Axioms, the Postulates, the Theorems; finally, the Experiments.  
 And that is what all these letters are about.  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 ### Chapter LXXVIII: Sore Spots  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 Three in one and one in three—it's the Athanasian Creed in the Black Mass—eh! What's that you say?  
 Oh, quite right, quite, quite right of you to remind me. "Definition first!"  
 A "sore spot" is one which reacts abnormally and violently, however gently you touch it; more, all the other bits of you give a painful jerk, however disconnected they may seem. Still more, the entire System undergoes a spasm of apprehension; and the total result is that the mental as well as the physical system is quite unable to grasp the situation with any accuracy, and the whole man is temporarily engulfed in what is naturally not far from a condition of insanity.  
@@ -4759,13 +4760,13 @@ But the crisis in which fear becomes phobia is the unreasoning aversion, the shu
 Now why? Surely because in the sub-conscious lies an instinct that in these obscure medicines indeed lies the key of some forbidden sanctuary. There is a fascination as irrational and therefore as strong, as the fear. Here is the point at which they link up with sex and religion. Oh, how well-nigh almighty is the urgency to him who reads those few great writers who understood the subject from experience:  
 de Quincey, Ludlow, Poe and Baudelaire: into whom burn the pointed parallels between their adventures and those of all the mystics, East and West!  
 The worst of this correspondence-form is that you are always asking simple elementary questions which require half a dozen treatises to answer: so, take this, with my blessing!  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 P.S. One further reflection. With all these "sore spots" is closely linked the idea of cruelty. I need not touch upon the relation of cruelty to sex; the theme has been worn threadbare. But in religion, note the Bottomless Pit and the Eternal Flame; in Buddhism, the eighteen hot and eighteen cold Hells, with many another beneath. Hindu eschatology has countless Hells; even pedestrian, precise Islam, and the calculating Qabalists, each boast of Seven. Again with drugs as with insanity, we are confronted constantly with nameless terrors; the idea of formlessness, of infinity pervades them alike. Consider the man who takes every chance gesture of a stranger in the street as a secret sign passed from one of his persecutors to another; consider those who refuse food because of the mysterious conspiracy to poison them.  
 All sanity, which is all Science, is founded upon Limit. We must be able to cut off, to define, to measure. Naturally, then, their opposites, Insanity and Religion, have for their prime characteristic, the Indefinable, Incomprehensible, Immeasurable.  
 The healing virtue of these words is this: examine the sore spot, analyse it, probe it; then disinfection and the Vis Medicatrix Naturae, complete the cure.   
@@ -4784,47 +4785,47 @@ Softly repeating to myself passages from The Revenge by the late Alfred Lord Ten
 Their courage wilted; the hunted became the huntress; I thought of Artemis as I sang softly to myself, "When the hounds of spring are on winter's traces.”4 But she pursued; snapped the last spine, and flung it into the gallery with a yell of triumph.  
 It was not so easy a victory as I have perhaps described it, once she slipped in the slime and came down with a thud; and at the end blood spurted from innumerable bites.  
 The whole scene was too much for most of the men; they literally howled liked famished wolves, and shook the balustrade until it creaked and groaned. Presently one slipped over, let himself lightly to the floor and charged. Others followed. All had their heart's desire. I was reminded of Swinburn's Laus Veneris,  
-  
+
 "I let mine eyes have all their will of thee  
 I seal myself upon thee with my might."  
-  
+
 As for the women, the ferocious glitter of their eyes was almost terrifying. One of them, true, would have joined the happy warriors below; but the butler roughly pulled her back, saying in a shocked voice, "Madame est normale." (I enjoyed that!) Others consoled themselves by capturing those males who were too timid to risk the jump.  
 I swallowed a last glass of champagne, and then "je filai a l'Anglais. "Summary: a pleasant time was had by all.  
 Note for political economists: the woman took 10,000 francs (at about 125 to the £); she took three weeks in hospital and three weeks' holiday between the shows. She was, or had been, the mistress of a Minister with "peuple" ideas, though he was an aristocrat of very old vintage; and he helped her to have her daughters brought up in one of the most exclusive convents in France.  
-  
+
 Note  
-  
+
 Kenneth Grant, who was doing secretarial work for Crowley around the time some of the letters in Magick Without Tears were written, later printed in his Remembering Aleister Crowley (London: Skoob, 1991) some material originally intended for this letter which he had written down in a notebook and then misplaced:  
-  
+
 Motto for "Sore Spots"  
-  
+
 "Il n'appartient vraiment qu'aux races dégradées  
 D'avoir lâchment peur des faits et des idées."  
 "Appelez bien plûtot sur ce qui vous effraie  
 Le jour qui rétablit la proportion vraie  
 Et dépouille l'object, à lui-mê,e réduit,  
 De l'aspect colossal que lui prêtait la nuit."  
-  
+
 Ponsard. Charlotte Corday. Prologue.  
-  
+
 Insert in "Sore Spots."  
-  
+
 Here is a case in point from recent experience. In my play "The Three Wishes" one of the characters is a rich selfish woman who has exhausted every source of vicious pleasure. In here abject despair her last resource is addiction to morphine.   
 I gave the play to an actor, a man of the highest intelligence and the broadest views on life; he said that I could not hope to get a play licensed if it dealt with drugs, unless as a warning against their abuse—which is exactly what the play imports. The mere mention of morphine had so disturbed his judgement that he failed to realize that fact.  
 He interpreted her abject wail, the cynical cry of a damned soul, as a defiant assertion of compensation for her disappointments in all else.  
 The mere mention! There is not a line in the whole play to support any advocacy or excuse for her suicidal habit.  
-  
+
 1: See The Hunting of the Snark by Lewis Carroll — T.S.  
 2: "According to Australian aboriginal folk-lore, a man-eating bellowing monster who drags his victims down to the bottom of the lake or swamp that he inhabits. It is also used to mean an 'impostor'."(Brewer's Dictionary of Phrase and Fable, s.v. "Bunyip")  
 3: Lat., "a formless, huge, fearful monster."  
 4: Swinburne, Atalanta in Calydon.   
-  
+
 ### Chapter LXXIX: Progress  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 You will certainly have to have an India-rubber medal for persistence: this is the nth time that you have tried to catch me contradicting myself.  
 Well, so I do, and must, every time I make any statement whatever, as has been shown several times in this chatty little interchange of views. But that is not what you mean.  
 You say—permit me to condense your more than somewhat tautological, pleonastic, prolix, diffuse and incoherent lucubrations!—that the whole idea of the Great Order is based on faith in Progress.  
@@ -4860,26 +4861,26 @@ I thought that modern physiology, with its great recent advances in knowledge of
 You would not surprise me if you told me that something of the sort is being tried in Russia, with its Communism modelled so closely on that of Ivan the Terrible at the moment, war or no war! Qui vivra verra.  
 Anyhow, all that I really want you to get into your head "sunning over with little curls" is that Progress demands Anarchy tempered by Common Sense, and that the most formidable obstacle is this Biology.  
 The experience of the Magician and the Yogi does suggest that there is room in the human brain as at present constituted for almost limitless expansion. At least our system of Training is more immediately practical than digging up our Corpora Quadragenina and planting them in a Monkey's Medulla just to see what will come of it. So put down that bread-knife!  
-  
+
 Love is the law, love under will.  
-  
+
 Yours fraternally,  
-  
+
 666  
-  
+
 ### Chapter LXXX: Life a Gamble  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 In one or two—no, I think more like three or four—letters of yours to hand in the last couple of months, you have put forward various excuses for slackness, the necessities of your economic situation. You say you must have "regular work," and a "steady income" and all that sort of thing.  
 My innocent child, that species of Magick is quite simple. Take the horns of a hare . . . That's enough for the present: I'll tell you what to do with them when you've got them.  
 In Macbeth we read—  
-  
+
 .. . . "Security  
 Is mortals' chiefest enemy."  
-  
+
 but this is another kind of security; it is the Hubris which "tempts Providence," the insolence of thinking that nothing can go wrong.  
 Anyhow, there's no such thing as safety. Life is a gamble. From the moment of incarnation a million accidents are possible. Miscarriage, still-birth, abortion; throughout life, until your heart beats for the last time, "you never can tell" – — — — and then you start all over again with your next incarnation!  
 (I wish I had a copy of a short story of mine called "Every Precaution." The gallant young Uplift Expert, the one hundred per cent red-blooded, clean-living, heir of the Eternities, takes his young fiancée and female counterpart to the "Old Absinthe House" in New Orleans to show her the terrible results of Wrong-Doing. They are going to avoid all that; their child is going to be the Quintessence  
@@ -4898,22 +4899,22 @@ He can do it; that is at the mercy of his Will; but he risks something very clos
 What's more, he must leave it at that; he must not insult Them by constantly looking out for extra safeguards, or "hedging." (You remember the Major in The Suicide Club when Prince Florizel was picking seconds for a duel? "In all my life I never so much as hedged a bet.") You must give Them plenty of opportunity to show Their approval by steering you miraculously through one crisis after another.  
 This course of conduct may seem to you a little like the “Act of Truth” but this is only superficially the case. The latter is usually an emergency measure, and either not particularly serious or as serious as anything can be. But what I have said above amounts really to a regular Rule of Life.  
 Need I add that the prime and essential requisite in all this Work is that you so devote yourself to, and identify yourself with, the Gods, that there is never any doubt in your mind as to what They intend you to do?  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 1: Chapter 22 (KB), "The Despot." In the copy of MWT I was working from it was slightly misquoted; the quote is here conformed to the second edition of The Book of Lies – T.S.  
 2: Note that the three other "cardinal virtues" have traditionally been referred to Tarot Trumps: Justice, Fortitude (also known as Strength) and Temperence (though Waite, in a note to Levi's Dogme et Rituel, suggests the attribution of Prudence to Atu IX was an invention of Levi's to complete the scheme; an alternative but somewhat strained suggestion has Atu XX as 'prudential judgement'). It may or may not be significant that when reformulating the Tarot in The Book of Thoth Crowley changed the names of all three of these – T.S.  
-  
+
 ### Chapter LXXXI: Method of Training  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 In your well-worn copy of the Bagh-i-muattar you have no doubt triply underlined that great verse:  
 "Who hath the How is careless of the Why," which shows how cunning I was to induce you to put all your "why" questions first. But now let us get down to orichalc taques, as the Norman peasant might say.  
 The first and absolutely essential task for the Aspirant is to write his Magical Record.  
@@ -4946,23 +4947,23 @@ In Magick, on the contrary, one passes through the veil of the exterior world (w
 The first step in Yoga is "Keep still."  
 The first step in Magick is "Travel beyond the world of the senses."  
 There, that is the whole business in a nutshell, and expressed so that anyone, however ignorant of the subject, may grasp the essentials (I hope).  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 Notes:  
 1: For the whole history of the conception and execution of the monster piece known as Book 4, see the editor's introduction to the 1994 and 1997 Samuel Weiser edition, Magick: Book 4 parts I-IV, popularly known as the "Blue Brick." Crowley had originally intended part IV, "T.....—the Law" to comprise The Book of the Law and his final commentary thereon. Symonds and Grant erroneously identified it with the edition of the commentaries which they edited (Magical and Philosophical Commentaries on The Book of the Law, Montreal: 93 Publishing, 1974). The Equinox of the Gods was not designated as part of Book 4 on first publication, rather as Equinox vol. III no. 3; as far as I am aware, this letter of MWT is the first published reference to it as Book 4 part IV – T.S.  
 2: A quote from the Chaldæan Oracles, as cited by Proclus in Platonic Theology. Fragment 171 in the Westcott edition. The goddess in question is probably Hekaté. Johnston in Hekate Soteira renders it "For I have come, a goddess in full armour and with weapons," making Hekaté herself the speaker – T.S.   
-  
+
 ### Chapter LXXXII: Epistola Penultima: The Two Ways to Reality  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 How very sensible of you, though I admit somewhat exacting!  
 You write—Will you tell me exactly why I should devote so much of my valuable time to subjects like Magick and Yoga.  
 That is all very well. But you ask me to put it in syllogistic form. I have no doubt this can be done, though the task seems somewhat complicated. I think I will leave it to you to construct your series of syllogisms yourself from the arguments of this letter.  
@@ -4979,19 +4980,19 @@ I have paid a great deal of attention in the course of my life to the method of 
 I must however point out that in the course of my instruction I have given continual warnings as to the dangers of this line of research. For one thing there is no means of checking your results in the ordinary scientific sense. It is always perfectly easy to find a subjective explanation of any phenomenon; and when one considers that the greatest of all the dangers in any line of research arise from egocentric vanity, I do not think I have exceeded my duty in anything that I have said to deter students from undertaking so dangerous a course as Yoga.  It is, of course, much safer if you are in a position to pursue in the Indian Jungles, provided that your health will stand the climate and also, I must say, unless you have a really sound teacher on whom you can safely rely. But then, if we once introduce a teacher, why not go to the Fountain-head and press towards the Knowledge and conversation of the Holy Guardian Angel?  
 In any case your Indian teacher will ultimately direct you to seek guidance from that source, so it seems to me that you have gone to a great deal of extra trouble and incurred a great deal of unnecessary danger by not leaving yourself in the first place in the hands of the Holy Guardian Angel.  
 In any case there are the two methods which stand as alternatives. I do not know of any third one which can be of any use whatever. Logically, since you have asked me to be logical, there is certainly no third way; there is the external way of Magick, and the internal way of Yoga: there you have your alternatives, and there they cease.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 ### Chapter LXXXIII: Epistola Ultima  
-  
+
 Cara Soror,  
-  
+
 Do what thou wilt shall be the whole of the Law.  
-  
+
 The suggestion in your last letter to me is a very sensible one. I do think that people in general would like to get some idea of my system of training as a whole, in a comprehensive form. In the past there has been far too much of referring them to one quite unprocurable document and then to another which probably has not even been written. No wonder that they go away sorrowful. So I am going to put in as the last of this series of Letters an account, as clear and as succinct as the gods enable me to do, of what they may expect to have to do to get good marks from Grandfather. Of course I shall not be able to avoid altogether reference to the various official documents, but I will make these as short and as few as I can.  
 First of all then, my system can be divided into two parts. Apparently diametrically opposed, but at the end converging, the one helping the other until the final method of progress partakes equally of both elements.  
 For convenience I shall call the first method Magick, and the second method Yoga. The opposition between these is very plain for the direction of Magick is wholly outward, that of Yoga wholly inward.  
@@ -5032,12 +5033,12 @@ On this view indeed, one might laughingly remark that Yoga at its best is a smok
 It may seem to you strange as you read this letter to have watched how the pendulum has swung always a little more and more towards the side of Magick. I do not know why this should have been, but that it is so I have no doubt whatever. I see quite clearly now that Yoga from its very first beginnings is liable to lead the mind away into a condition of muddle, and though for each such state Yoga itself provides the necessary cure, may not one ask oneself if it is really wise to begin one's work with axioms and postulates which are inherently dangerous. The whole controversy might be expressed as a differential equation. Their curves become identical only at infinity, and there is no doubt, at least to my mind, that the curve of Magick follows a more pleasant track than that of Yoga.  
 To take one point alone: it is evidently more satisfactory to have one's malignant demons external to oneself.  
 As I have written it has become clearer to me that this is the case, but I should not like you to arise from its perusal with any idea that I have been in some way derogating Yoga I would not like to maintain that it is necessary to Magick because there have been many very great magicians who knew nothing at all of the subject but I am just as strongly convinced as I was before that the practice of Yoga in itself is of enormous assistance to the Magician in his more intelligible path, only adding that he should beware lest the logical antinomies inherent in Yoga divert him from or discourage him in his simple path.  
-  
+
 Love is the law, love under will.  
-  
+
 Fraternally,  
-  
+
 666  
-  
+
 1: The reference is presumably to the law of non-contradiction, ~(A & ~A); or possibly to the law of Excluded Middle, (A v ~A) – T.S.  
 2: The reference is probably to the sequence of chapters Digamma-tau (177) to Digammaomega (182) – T.S.   
